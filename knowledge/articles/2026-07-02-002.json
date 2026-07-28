@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-02-002",
+  "title": "langchain-ai/langchain",
+  "source": "github",
+  "url": "https://github.com/langchain-ai/langchain",
+  "collected_at": "2026-07-02T12:59:27.493176+00:00",
+  "summary": "LangChain 是一个用于构建基于大型语言模型（LLM）的应用程序的框架，特别专注于智能代理（Agent）的工程化。它提供了模块化的组件，如模型、提示、记忆、工具和链，使开发者能够轻松组合和编排复杂的 LLM 工作流。该平台支持多种 LLM 提供商，并内置了代理循环、工具调用和上下文管理功能，是当前最流行的 LLM 应用开发框架之一。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Framework",
+    "Tool",
+    "Prompt Engineering"
+  ],
+  "relevance_score": 0.95,
+  "category": "framework",
+  "key_insight": "LangChain 通过模块化抽象和链式编排，将 LLM 从单一问答工具升级为可执行复杂任务的智能代理平台。其独特创新在于提供了统一的抽象层（如链、代理、工具），使开发者能灵活组合不同 LLM 和外部服务，相比 Dify 更强调底层可定制性。"
+}

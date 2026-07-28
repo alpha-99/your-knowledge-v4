@@ -1,0 +1,82 @@
+# AI 知识库 RSS 数据源配置
+# 每个源包含: name, url, category, enabled
+# enabled 控制该源是否参与采集
+
+sources:
+  # ── 综合技术 ──
+  - name: "Hacker News Best"
+    url: "https://hnrss.org/best?q=ai+OR+llm+OR+agent+OR+machine-learning+OR+deep-learning+OR+transformer+OR+rag+OR+openai+OR+claude+OR+gpt&points=10"
+    category: "综合技术"
+    enabled: true
+
+  - name: "Lobsters AI/ML"
+    url: "https://lobste.rs/t/ai,ml.rss"
+    category: "综合技术"
+    enabled: true
+
+  # ── AI 研究 ──
+  - name: "arXiv cs.AI"
+    url: "https://rss.arxiv.org/rss/cs.AI"
+    category: "AI研究"
+    enabled: true
+
+  - name: "arXiv cs.CL"
+    url: "https://rss.arxiv.org/rss/cs.CL"
+    category: "AI研究"
+    enabled: false # 量太大，按需开启
+
+  - name: "Reddit r/MachineLearning"
+    url: "https://www.reddit.com/r/MachineLearning/hot.rss"
+    category: "AI研究"
+    enabled: true
+
+  # ── 公司博客 ──
+  - name: "OpenAI Blog"
+    url: "https://openai.com/blog/rss.xml"
+    category: "公司博客"
+    enabled: true
+
+  - name: "Anthropic Research"
+    url: "https://www.anthropic.com/research/rss.xml"
+    category: "公司博客"
+    enabled: true
+
+  - name: "Hugging Face Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    category: "公司博客"
+    enabled: true
+
+  # ── 中文社区（默认 disable，需确认 RSS 可用性） ──
+  - name: "机器之心"
+    url: "https://www.jiqizhixin.com/rss"
+    category: "中文社区"
+    enabled: false
+
+  - name: "量子位"
+    url: "https://www.qbitai.com/feed"
+    category: "中文社区"
+    enabled: false
+
+  # ── 框架 ──
+  - name: "LangChain Blog"
+    url: "https://blog.langchain.dev/rss.xml"
+    category: "框架"
+    enabled: true
+
+  # ── 开源社区 ──
+  - name: "Reddit r/LocalLLaMA"
+    url: "https://www.reddit.com/r/LocalLLaMA/hot.rss"
+    category: "开源社区"
+    enabled: true
+
+  # ── 行业动态 ──
+  - name: "Google AI Blog"
+    url: "https://blog.google/technology/ai/rss/"
+    category: "行业动态"
+    enabled: true
+
+  # ── 科技新闻 ──
+  - name: "The Verge (AI)"
+    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    category: "科技新闻"
+    enabled: true
