@@ -67,7 +67,7 @@ def _feishu_color(score: float) -> str:
 def json_to_markdown(article: dict[str, Any]) -> str:
     """将单篇文章转换为 Markdown 文本。
 
-    包含标题、来源、日期、相关性评分（含 emoji）、标签、摘要和原文链接。
+    包含标题、来源、日期、相关性评分（含 emoji）、标签、关键洞察和原文链接。
 
     Args:
         article: 符合 v3 Organizer 产出的单篇文章 dict。
@@ -80,7 +80,7 @@ def json_to_markdown(article: dict[str, Any]) -> str:
     collected_at = article.get("collected_at", "")
     date_str = collected_at[:10] if collected_at else "未知日期"
     score = float(article.get("relevance_score", 0))
-    summary = article.get("summary", "")
+    key_insight = article.get("key_insight", "")
     url = article.get("url", "")
     tags = article.get("tags", []) or []
 
@@ -94,9 +94,9 @@ def json_to_markdown(article: dict[str, Any]) -> str:
     lines.append(f"- **日期**: {date_str}")
     lines.append(f"- **相关性**: {emoji} {score:.2f}")
     lines.append(f"- **标签**: {tag_str}")
-    if summary:
+    if key_insight:
         lines.append("")
-        lines.append(f"> {summary}")
+        lines.append(f"> {key_insight}")
     lines.append("")
     if url:
         lines.append(f"**原文链接**: [{url}]({url})")
@@ -104,22 +104,23 @@ def json_to_markdown(article: dict[str, Any]) -> str:
     return "\n".join(lines)
 
 
-def json_to_telegram(article: dict[str, Any]) -> str:
+def json_to_telegram(article: dict[str, Any], max_len: int = 4096) -> str:
     """将单篇文章转换为 Telegram MarkdownV2 消息。
 
     自动转义所有 MarkdownV2 特殊字符，标题以 Markdown 链接形式呈现，
-    标签中的空格替换为下划线。
+    标签中的空格替换为下划线。超过 ``max_len`` 时对关键洞察截断并追加 ``...``。
 
     Args:
         article: 单篇文章 dict。
+        max_len: Telegram 单条消息最大字符数，默认 4096。
 
     Returns:
-        Telegram MarkdownV2 格式的字符串。
+        Telegram MarkdownV2 格式的字符串（不超过 max_len）。
     """
     title = article.get("title", "(无标题)")
     source = article.get("source", "unknown")
     url = article.get("url", "")
-    summary = article.get("summary", "")
+    key_insight = article.get("key_insight", "")
     score = float(article.get("relevance_score", 0))
     tags = [t.replace(" ", "_") for t in (article.get("tags", []) or [])]
 
@@ -127,26 +128,34 @@ def json_to_telegram(article: dict[str, Any]) -> str:
     tag_str = "  ".join(tags) if tags else ""
 
     escaped_title = _escape_telegram(title)
-    escaped_summary = _escape_telegram(summary) if summary else ""
+    escaped_key_insight = _escape_telegram(key_insight) if key_insight else ""
     escaped_source = _escape_telegram(source)
     escaped_tag_str = _escape_telegram(tag_str) if tag_str else ""
 
-    lines: list[str] = []
-    if url:
-        escaped_url = _escape_telegram(url)
-        lines.append(f"[{escaped_title}]({escaped_url})")
-    else:
-        lines.append(f"*{escaped_title}*")
+    def _build(insight: str) -> str:
+        lines: list[str] = []
+        if url:
+            escaped_url = _escape_telegram(url)
+            lines.append(f"[{escaped_title}]({escaped_url})")
+        else:
+            lines.append(f"*{escaped_title}*")
+        if insight:
+            lines.append(insight)
+        lines.append(f"{emoji} 相关性: {score}")
+        lines.append(f"来源: {escaped_source}")
+        if escaped_tag_str:
+            lines.append(f"标签: {escaped_tag_str}")
+        return "\n".join(lines)
 
-    if escaped_summary:
-        lines.append(escaped_summary)
+    result = _build(escaped_key_insight)
+    if len(result) <= max_len:
+        return result
 
-    lines.append(f"{emoji} 相关性: {score}")
-    lines.append(f"来源: {escaped_source}")
-    if escaped_tag_str:
-        lines.append(f"标签: {escaped_tag_str}")
-
-    return "\n".join(lines)
+    budget = max_len - len(_build("")) - 1 - 3  # -1 newline, -3 for "..."
+    if budget <= 0:
+        return result[:max_len]
+    truncated = escaped_key_insight[:budget] + "..."
+    return _build(truncated)
 
 
 def json_to_feishu(article: dict[str, Any]) -> dict[str, Any]:
@@ -163,12 +172,11 @@ def json_to_feishu(article: dict[str, Any]) -> dict[str, Any]:
     title = article.get("title", "(无标题)")
     source = article.get("source", "unknown")
     url = article.get("url", "")
-    summary = article.get("summary", "")
+    key_insight = article.get("key_insight", "")
     collected_at = article.get("collected_at", "")
     date_str = collected_at[:10] if collected_at else "未知日期"
     score = float(article.get("relevance_score", 0))
     tags = article.get("tags", []) or []
-    key_insight = article.get("key_insight", "")
 
     color = _feishu_color(score)
     emoji = _score_emoji(score)
@@ -176,10 +184,10 @@ def json_to_feishu(article: dict[str, Any]) -> dict[str, Any]:
 
     elements: list[dict[str, Any]] = []
 
-    if summary:
+    if key_insight:
         elements.append({
             "tag": "markdown",
-            "content": summary,
+            "content": key_insight,
         })
 
     info_lines: list[str] = []
@@ -188,8 +196,6 @@ def json_to_feishu(article: dict[str, Any]) -> dict[str, Any]:
     info_lines.append(f"**日期**: {date_str}")
     if tag_str:
         info_lines.append(f"**标签**: {tag_str}")
-    if key_insight:
-        info_lines.append(f"**关键洞察**: {key_insight}")
 
     elements.append({
         "tag": "markdown",
@@ -241,7 +247,7 @@ def json_to_wechat(article: dict[str, Any], max_line_len: int = 42) -> str:
     collected_at = article.get("collected_at", "")
     date_str = collected_at[:10] if collected_at else "未知日期"
     score = float(article.get("relevance_score", 0))
-    summary = article.get("summary", "")
+    key_insight = article.get("key_insight", "")
     url = article.get("url", "")
     tags = [t.replace(" ", "_") for t in (article.get("tags", []) or [])]
 
@@ -254,14 +260,13 @@ def json_to_wechat(article: dict[str, Any], max_line_len: int = 42) -> str:
     lines.append(f"相关性: {emoji} ({score:.2f})")
     lines.append(f"标签: {tag_str}" if tag_str else "标签: (无)")
 
-    if summary:
+    if key_insight:
         lines.append("")
-        # 按 max_line_len 折行
-        while len(summary) > max_line_len:
-            lines.append(summary[:max_line_len])
-            summary = summary[max_line_len:]
-        if summary:
-            lines.append(summary)
+        while len(key_insight) > max_line_len:
+            lines.append(key_insight[:max_line_len])
+            key_insight = key_insight[max_line_len:]
+        if key_insight:
+            lines.append(key_insight)
 
     if url and len(url) <= max_line_len:
         lines.append("")
@@ -270,17 +275,26 @@ def json_to_wechat(article: dict[str, Any], max_line_len: int = 42) -> str:
     return "\n".join(lines)
 
 
+_CATEGORY_EMOJI: dict[str, str] = {
+    "agent": "\U0001F916",
+    "framework": "\U0001F9E9",
+    "rag": "\U0001F4DA",
+    "tool": "\U0001F527",
+    "mcp": "\U0001F50C",
+}
+
+
 def generate_daily_digest(
     knowledge_dir: str = "knowledge/articles",
     date: str | None = None,
     top_n: int = 5,
 ) -> dict[str, Any]:
-    """生成当日的知识简报，包含 Markdown、Telegram、飞书三种格式。
+    """生成当日的知识简报，按 category 分组后每组取 top_n，输出 Markdown/Telegram/飞书三种格式。
 
     Args:
         knowledge_dir: 知识条目 JSON 文件所在的目录路径。
         date: ISO 格式日期字符串（如 "2026-04-11"），None 表示使用今天（UTC）。
-        top_n: 按 relevance_score 降序取前 N 篇。
+        top_n: 每个 category 中按 relevance_score 降序保留的篇数。
 
     Returns:
         dict:
@@ -311,27 +325,120 @@ def generate_daily_digest(
             "feishu": [],
         }
 
-    articles.sort(key=lambda a: float(a.get("relevance_score", 0)), reverse=True)
-    top_articles = articles[:top_n]
+    groups: dict[str, list[dict[str, Any]]] = {}
+    for art in articles:
+        cat = art.get("category", "other")
+        groups.setdefault(cat, []).append(art)
+
+    group_order = sorted(
+        groups.keys(),
+        key=lambda c: sum(float(a.get("relevance_score", 0)) for a in groups[c]) / len(groups[c]),
+        reverse=True,
+    )
 
     md_parts: list[str] = []
     md_parts.append(f"# \U0001F4D6 知识简报 — {date}")
     md_parts.append("")
-    for art in top_articles:
-        md_parts.append(json_to_markdown(art))
-        md_parts.append("---")
-        md_parts.append("")
+    md_parts.append(
+        f"共 {len(articles)} 篇，分布在 {len(group_order)} 个分类中"
+    )
+    md_parts.append("")
 
     tg_parts: list[str] = []
-    for art in top_articles:
-        tg_parts.append(json_to_telegram(art))
-
     feishu_cards: list[dict[str, Any]] = []
-    for art in top_articles:
-        feishu_cards.append(json_to_feishu(art))
+
+    for cat in group_order:
+        cat_articles = sorted(
+            groups[cat],
+            key=lambda a: float(a.get("relevance_score", 0)),
+            reverse=True,
+        )
+        cat_top = cat_articles[:top_n]
+        if not cat_top:
+            continue
+
+        emoji = _CATEGORY_EMOJI.get(cat, "\U0001F4E6")
+        cat_label = f"{emoji} {cat}"
+
+        md_parts.append(f"## {cat_label}")
+        md_parts.append("")
+        for art in cat_top:
+            md_parts.append(json_to_markdown(art))
+            md_parts.append("---")
+            md_parts.append("")
+
+        escaped_cat = _escape_telegram(cat)
+        tg_parts.append(f"*{escaped_cat}*")
+        for art in cat_top:
+            tg_parts.append(json_to_telegram(art))
+
+        for art in cat_top:
+            feishu_cards.append(json_to_feishu(art))
 
     return {
         "markdown": "\n".join(md_parts),
         "telegram": "\n\n".join(tg_parts),
         "feishu": feishu_cards,
+    }
+
+
+def digest_from_index(
+    knowledge_dir: str = "knowledge/articles",
+    date: str | None = None,
+    top_n: int = 5,
+) -> dict[str, Any]:
+    """基于 index.json 快速生成当日预览，不读取单篇文章 JSON。
+
+    只访问 index.json，按 relevance_score 降序取整体 Top N，
+    毫秒级响应。需要全文详情时再用 ``generate_daily_digest`` 或单独读 ``{id}.json``。
+
+    Args:
+        knowledge_dir: 知识条目目录路径，index.json 应在此目录下。
+        date: ISO 格式日期字符串，None 表示今天（UTC）。
+        top_n: 返回的条目数量上限。
+
+    Returns:
+        dict::
+            {
+                "date": str,
+                "total": int,
+                "items": [
+                    {"id": str, "title": str, "category": str, "relevance_score": float},
+                    ...
+                ],
+            }
+            当日无文章时 ``items`` 为空列表。
+    """
+    if date is None:
+        date = datetime.now(timezone.utc).date().isoformat()
+
+    index_path = Path(knowledge_dir) / "index.json"
+
+    try:
+        all_entries: list[dict[str, Any]] = json.loads(
+            index_path.read_text(encoding="utf-8")
+        )
+    except (FileNotFoundError, json.JSONDecodeError, OSError):
+        return {"date": date, "total": 0, "items": []}
+
+    matched = [
+        entry for entry in all_entries
+        if entry.get("id", "").startswith(f"{date}-")
+    ]
+
+    matched.sort(key=lambda e: float(e.get("relevance_score", 0)), reverse=True)
+    top_items = matched[:top_n]
+
+    return {
+        "date": date,
+        "total": len(matched),
+        "items": [
+            {
+                "id": item.get("id", ""),
+                "title": item.get("title", ""),
+                "category": item.get("category", "other"),
+                "relevance_score": item.get("relevance_score", 0),
+            }
+            for item in top_items
+        ],
     }
