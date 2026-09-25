@@ -23,8 +23,8 @@ class Intent(Enum):
     """用户意图类型"""
 
     SEARCH = "search"
-    TODAY = "today"
-    TOP = "top"
+    BROWSE_TODAY = "today"
+    BROWSE_TOP = "top"
     SUBSCRIBE = "subscribe"
     HELP = "help"
     UNKNOWN = "unknown"
@@ -50,8 +50,8 @@ class Permission(Enum):
 
 _COMMAND_PREFIXES: list[tuple[str, Intent]] = [
     ("/search", Intent.SEARCH),
-    ("/today", Intent.TODAY),
-    ("/top", Intent.TOP),
+    ("/today", Intent.BROWSE_TODAY),
+    ("/top", Intent.BROWSE_TOP),
     ("/subscribe", Intent.SUBSCRIBE),
     ("/help", Intent.HELP),
 ]
@@ -63,11 +63,11 @@ _NATURAL_LANGUAGE_PATTERNS: list[tuple[list[str], Intent]] = [
     ),
     (
         ["今天", "今日", "简报", "日报", "最新", "today", "daily", "今日汇总", "今日摘要"],
-        Intent.TODAY,
+        Intent.BROWSE_TODAY,
     ),
     (
         ["热门", "排行", "top", "推荐", "trending", "最热", "热点", "评分最高", "高评分"],
-        Intent.TOP,
+        Intent.BROWSE_TOP,
     ),
     (
         ["订阅", "关注", "追踪", "subscribe", "follow"],
@@ -697,8 +697,8 @@ class KnowledgeBot:
 
         handler_map: dict[Intent, Any] = {
             Intent.SEARCH: self._handle_search,
-            Intent.TODAY: self._handle_today,
-            Intent.TOP: self._handle_top,
+            Intent.BROWSE_TODAY: self._handle_today,
+            Intent.BROWSE_TOP: self._handle_top,
             Intent.SUBSCRIBE: self._handle_subscribe,
             Intent.HELP: self._handle_help,
             Intent.UNKNOWN: self._handle_unknown,
