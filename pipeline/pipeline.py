@@ -57,7 +57,7 @@ async def run_pipeline(publish: bool = True) -> list[dict]:
     from workflows.graph import build_graph
     from workflows.state import KBState
 
-    app = build_graph().compile()
+    app = build_graph()
 
     initial_state: KBState = {
         "plan": {},
