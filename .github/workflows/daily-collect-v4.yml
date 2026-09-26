@@ -12,7 +12,7 @@ permissions:
 
 defaults:
   run:
-    working-directory: v4-production
+    working-directory: ./
 
 jobs:
   collect:
