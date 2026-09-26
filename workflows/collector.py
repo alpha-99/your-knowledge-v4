@@ -49,6 +49,7 @@ def collect_node(state: KBState) -> dict:
                 "collected_at": datetime.now(timezone.utc).isoformat(),
             })
     except Exception as e:
+        print(f"[Collector] GitHub API 请求失败: {e}")
         sources.append({
             "source": "github",
             "title": "[ERROR] GitHub API 请求失败",
@@ -70,11 +71,19 @@ def collect_node(state: KBState) -> dict:
                 total_warnings += len(warnings)
                 if warnings:
                     print(f"[Security] {s.get('url', '?')} {field} 检出注入模式：{warnings}")
-                cleaned_sources.append(s)
+        cleaned_sources.append(s)
 
     if total_warnings > 0:
         print(f"[Security] collect 阶段共拦截 {total_warnings} 处可疑输入")
 
-    print(f"[Collector] 采集到 {len(cleaned_sources)} 条原始数据")
+    error_count = sum(
+        1 for s in cleaned_sources
+        if s.get("title", "").startswith("[ERROR]")
+    )
+    normal_count = len(cleaned_sources) - error_count
+    print(
+        f"[Collector] 采集完成 — 正常 {normal_count} 条, "
+        f"错误 {error_count} 条"
+    )
 
     return {"sources": cleaned_sources}

@@ -13,3 +13,6 @@ pytest-asyncio>=0.23.0
 
 # 工具
 python-dotenv>=1.0.0
+
+# 异步 HTTP（发布模块）
+aiohttp>=3.9.0

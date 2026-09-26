@@ -38,7 +38,7 @@ TIER_CONFIGS = {
     },
 }
 
-DEFAULT_TARGET_COUNT = 10
+DEFAULT_ = 10
 
 _ENV_KEY = "PLANNER_TARGET_COUNT"
 
@@ -53,11 +53,11 @@ def plan_strategy(target_count: int | None = None) -> dict:
         dict: 包含 tier, per_source_limit, relevance_threshold, max_iterations, rationale
     """
     if target_count is None:
-        env_val = os.getenv(_ENV_KEY, str(DEFAULT_TARGET_COUNT))
+        env_val = os.getenv(_ENV_KEY, str(DEFAULT_))
         try:
             target_count = int(env_val)
         except (TypeError, ValueError):
-            target_count = DEFAULT_TARGET_COUNT
+            target_count = DEFAULT_
 
     if target_count < 10:
         return dict(TIER_CONFIGS["lite"])

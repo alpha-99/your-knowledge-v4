@@ -121,8 +121,12 @@ if __name__ == "__main__":
             print(f"\n--- [{node_name}] 节点输出 ---")
 
             if node_name == "collect":
-                count = len(node_output.get("sources", []))
-                print(f"  采集数据: {count} 条")
+                sources = node_output.get("sources", [])
+                errors = sum(
+                    1 for s in sources
+                    if s.get("title", "").startswith("[ERROR]")
+                )
+                print(f"  采集数据: {len(sources)} 条 (正常 {len(sources) - errors}, 错误 {errors})")
 
             elif node_name == "analyze":
                 count = len(node_output.get("analyses", []))
