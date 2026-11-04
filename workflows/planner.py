@@ -51,6 +51,8 @@ def plan_strategy(target_count: int | None = None) -> dict:
 
     Returns:
         dict: 包含 tier, per_source_limit, relevance_threshold, max_iterations, rationale
+
+    环境变量 PER_SOURCE_LIMIT 可直接覆盖 per_source_limit（统一作用于 GitHub + RSS）。
     """
     if target_count is None:
         env_val = os.getenv(_ENV_KEY, str(DEFAULT_))
@@ -60,11 +62,21 @@ def plan_strategy(target_count: int | None = None) -> dict:
             target_count = DEFAULT_
 
     if target_count < 10:
-        return dict(TIER_CONFIGS["lite"])
+        strategy = dict(TIER_CONFIGS["lite"])
     elif target_count < 20:
-        return dict(TIER_CONFIGS["standard"])
+        strategy = dict(TIER_CONFIGS["standard"])
     else:
-        return dict(TIER_CONFIGS["full"])
+        strategy = dict(TIER_CONFIGS["full"])
+
+    # 直接覆盖每源采集上限（如 3），不破坏三档策略的其余字段
+    override = os.getenv("PER_SOURCE_LIMIT", "").strip()
+    if override:
+        try:
+            strategy["per_source_limit"] = max(1, int(override))
+        except ValueError:
+            print(f"[Planner] PER_SOURCE_LIMIT 非法({override!r})，使用档位默认 {strategy['per_source_limit']}")
+
+    return strategy
 
 
 def planner_node(state: KBState) -> dict:

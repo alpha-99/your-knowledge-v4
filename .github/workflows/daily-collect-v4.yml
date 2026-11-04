@@ -42,6 +42,8 @@ jobs:
           PRICE_INPUT_PER_MILLION: "1.0"
           PRICE_OUTPUT_PER_MILLION: "2.0"
           PLANNER_TARGET_COUNT: "10"
+          # 每源采集上限（统一作用于 GitHub + RSS，覆盖三档策略的默认值）
+          PER_SOURCE_LIMIT: "3"
           # GitHub API rate limit 用仓库自带 token 提权
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # RSS 多源采集：显式开启，复用 plan 的 per_source_limit（与 GitHub 同一变量）
