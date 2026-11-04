@@ -148,6 +148,6 @@ python patterns/supervisor.py "采集并分析今天的 AI 领域进展"
 - **工作流引擎**：LangGraph (StateGraph + 条件边)
 - **LLM**：DeepSeek / Qwen（OpenAI 兼容 API）
 - **运行时**：Python 3.11+ / OpenCode
-- **数据源**：GitHub API v3
+- **数据源**：GitHub API v3 + RSS 多源（Hacker News / arXiv / AI 博客等，见 `pipeline/rss_sources.yaml`）
 - **测试**：pytest
 - **CI/CD**：GitHub Actions

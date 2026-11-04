@@ -10,8 +10,9 @@ import os
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
-from tests.security import sanitize_input 
+from tests.security import sanitize_input
 
+from workflows.rss_collector import collect_rss_sources
 from workflows.state import KBState
 
 
@@ -84,6 +85,19 @@ def collect_node(state: KBState) -> dict:
     print(
         f"[Collector] 采集完成 — 正常 {normal_count} 条, "
         f"错误 {error_count} 条"
+    )
+
+    # ★ 多源扩展：合并 RSS 数据源（Hacker News / arXiv / 博客等）
+    rss_sources, rss_error_count = collect_rss_sources(
+        per_source_limit=per_source_limit
+    )
+    cleaned_sources.extend(rss_sources)
+    error_count += rss_error_count
+
+    print(
+        f"[Collector] 合并后共 {len(cleaned_sources)} 条 "
+        f"(GitHub {normal_count} + RSS {len(rss_sources)}), "
+        f"失败源 {error_count} 个"
     )
 
     return {"sources": cleaned_sources}

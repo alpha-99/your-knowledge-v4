@@ -44,6 +44,9 @@ jobs:
           PLANNER_TARGET_COUNT: "10"
           # GitHub API rate limit 用仓库自带 token 提权
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # RSS 多源采集：显式开启，复用 plan 的 per_source_limit（与 GitHub 同一变量）
+          # 注意：RSS 是"每源"上限 → 11 个源 × per_source_limit = 总条数
+          RSS_ENABLED: "1"
         run: |
           # --no-publish: 不做分发,只跑 plan → collect → analyze → review → organize
           # 分发由本地 OpenClaw Bot / 系统 cron 单独负责(secrets 在本地配)
