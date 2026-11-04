@@ -69,54 +69,138 @@
     "id": "2026-11-04-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.9
   },
   {
     "id": "2026-11-04-002",
     "title": "DietrichGebert/ponytail",
-    "category": "tool",
-    "relevance_score": 0.75
-  },
-  {
-    "id": "2026-11-04-003",
-    "title": "langgenius/dify",
-    "category": "framework",
-    "relevance_score": 0.9
-  },
-  {
-    "id": "2026-11-04-004",
-    "title": "langchain-ai/langchain",
-    "category": "framework",
-    "relevance_score": 0.95
-  },
-  {
-    "id": "2026-11-04-005",
-    "title": "browser-use/browser-use",
-    "category": "agent",
-    "relevance_score": 0.9
-  },
-  {
-    "id": "2026-11-04-006",
-    "title": "earendil-works/pi",
-    "category": "agent",
-    "relevance_score": 0.85
-  },
-  {
-    "id": "2026-11-04-007",
-    "title": "JuliusBrussee/caveman",
     "category": "agent",
     "relevance_score": 0.8
   },
   {
-    "id": "2026-11-04-008",
-    "title": "OpenHands/OpenHands",
-    "category": "agent",
+    "id": "2026-11-04-003",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-04-004",
+    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+    "category": "ai",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-04-005",
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "category": "tool",
     "relevance_score": 0.9
   },
   {
-    "id": "2026-11-04-009",
-    "title": "unclecode/crawl4ai",
+    "id": "2026-11-04-006",
+    "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-04-007",
+    "title": "Let’s Build a Brain",
     "category": "tool",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-04-008",
+    "title": "Alignment Faking Depends on the Value, Not Just the Model",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-04-009",
+    "title": "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs",
+    "category": "framework",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-04-010",
+    "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
+    "category": "framework",
     "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-04-011",
+    "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
+    "category": "tool",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-04-012",
+    "title": "Accelerating engineering for the physical world",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-04-013",
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-04-014",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-04-015",
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-04-016",
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "category": "llm",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-04-017",
+    "title": "LangSmith BYOC is now available on AWS, Azure, and Google Cloud",
+    "category": "tool",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-04-018",
+    "title": "How We Optimized Browser Use for Deep Agents",
+    "category": "agent",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-04-019",
+    "title": "Why human insight is a strategic advantage for building better agents",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-04-020",
+    "title": "The latest AI news we announced in October 2026",
+    "category": "multimodal",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-04-021",
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "category": "education",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-04-022",
+    "title": "Southeast Asia’s digital economy to hit $368 billion",
+    "category": "ai",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-04-023",
+    "title": "The biggest modding site in PC gaming is taking a stance on AI",
+    "category": "tool",
+    "relevance_score": 0.8
   }
 ]

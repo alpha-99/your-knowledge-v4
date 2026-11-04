@@ -1,16 +1,16 @@
 {
   "id": "2026-11-04-007",
-  "title": "JuliusBrussee/caveman",
-  "source": "github",
-  "url": "https://github.com/JuliusBrussee/caveman",
-  "collected_at": "2026-11-04T02:48:29.507086+00:00",
-  "summary": "JuliusBrussee/caveman 是一个针对编码智能体的技能与代理工具，通过让智能体用“原始人”式语言（极简表达）来减少65%的token消耗。项目名和描述强调“少token办大事”，旨在降低LLM调用成本，同时保持任务完成能力。它可能通过提示词优化或输出压缩实现，适用于token敏感场景。",
+  "title": "Let’s Build a Brain",
+  "source": "Lobsters AI/ML",
+  "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+  "collected_at": "2026-11-04T06:12:49.823574+00:00",
+  "summary": "该项目是一个交互式可视化教程，允许用户通过连接神经元来构建简单的大脑模型，模拟神经元的放电和突触可塑性。它旨在以直观的方式展示神经网络如何产生复杂行为，帮助学习者理解大脑的计算原理，如Hebbian学习和脉冲传递。通过动手操作，用户可以探索不同连接模式对网络动态的影响，是神经科学与AI教育的结合。",
   "tags": [
-    "token优化",
-    "编码智能体",
-    "提示词工程"
+    "神经网络",
+    "可视化",
+    "教育"
   ],
-  "relevance_score": 0.8,
-  "category": "agent",
-  "key_insight": "用极简语言表达可大幅削减智能体token消耗而不牺牲功能。"
+  "relevance_score": 0.7,
+  "category": "tool",
+  "key_insight": "通过亲手构建和连接神经元，可以直观理解神经网络如何从简单规则中涌现出复杂认知功能。"
 }

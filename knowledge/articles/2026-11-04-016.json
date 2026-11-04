@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-04-016",
+  "title": "Palette: teaching a small model to build decks in your design language",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "collected_at": "2026-11-04T06:12:49.823574+00:00",
+  "summary": "IBM Research 提出 Palette 方法，通过合成数据与知识蒸馏训练小型语言模型，使其能够依据用户指定的设计语言（如颜色、字体、布局）自动生成演示文稿。该方法利用大型教师模型生成多样化设计样例，再微调小模型以模仿特定风格，从而在保持生成质量的同时大幅降低推理成本，实现个性化、可定制的幻灯片生成。",
+  "tags": [
+    "小模型",
+    "知识蒸馏",
+    "设计语言",
+    "演示文稿生成",
+    "合成数据"
+  ],
+  "relevance_score": 0.75,
+  "category": "llm",
+  "key_insight": "通过合成数据蒸馏，小模型可以学会遵循特定设计风格，实现低成本、个性化的内容生成。"
+}

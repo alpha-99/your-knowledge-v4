@@ -1,18 +1,16 @@
 {
   "id": "2026-11-04-006",
-  "title": "earendil-works/pi",
-  "source": "github",
-  "url": "https://github.com/earendil-works/pi",
-  "collected_at": "2026-11-04T02:48:29.507079+00:00",
-  "summary": "earendil-works/pi 是一个 AI agent 工具包，提供统一的 LLM API 抽象层、可复用的 agent 循环、终端用户界面（TUI）以及编码 agent 命令行工具。该项目旨在简化 AI agent 的开发与部署，让开发者通过统一接口调用不同 LLM，并利用内置的 agent 循环和 TUI 快速构建交互式编码助手。其模块化设计兼顾灵活性与开箱即用性，适合需要快速原型验证或集成 agent 能力的开发者。",
+  "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+  "source": "Lobsters AI/ML",
+  "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+  "collected_at": "2026-11-04T06:12:49.823574+00:00",
+  "summary": "本文探讨了大型语言模型（LLM）能否原生地读取和修改神经网络权重，提出了“权重空间编程”的概念。研究表明，LLM可以像处理文本序列一样理解权重数据，并通过自然语言指令对权重进行读写操作，从而实现模型编辑、知识更新和持续学习等任务。这一发现为模型的可编程性提供了新的范式，可能推动更灵活、高效的模型定制和动态适应能力的发展。",
   "tags": [
-    "AI agent",
-    "LLM API",
-    "TUI",
-    "CLI",
-    "工具包"
+    "weight-space",
+    "LLM",
+    "model-editing"
   ],
   "relevance_score": 0.85,
-  "category": "agent",
-  "key_insight": "统一 LLM 接口与内置 agent 循环，降低 AI agent 开发门槛。"
+  "category": "llm",
+  "key_insight": "LLM能够原生地读写神经网络权重，实现权重空间编程，为模型编辑和持续学习提供新范式。"
 }

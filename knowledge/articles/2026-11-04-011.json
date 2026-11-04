@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-04-011",
+  "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
+  "source": "Reddit r/MachineLearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
+  "collected_at": "2026-11-04T06:12:49.823574+00:00",
+  "summary": "介绍了一个新的开源权重PII检测模型，基于RoBERTa微调，使用1.2B条合成文本样本训练，能够根据上下文识别PII实例并返回其索引和类型，或直接脱敏输入文本。同时发布了PII-SCOPE基准，旨在解决公共LLM生成数据集中的常见问题。技术报告和模型卡已公开，模型和脚本可在Hugging Face获取。",
+  "tags": [
+    "PII检测",
+    "RoBERTa",
+    "合成数据"
+  ],
+  "relevance_score": 0.8,
+  "category": "tool",
+  "key_insight": "通过大规模合成数据微调RoBERTa，实现了高精度的PII检测，并提供了专门基准以弥补公共数据集的不足。"
+}

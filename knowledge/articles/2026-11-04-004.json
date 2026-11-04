@@ -1,18 +1,18 @@
 {
   "id": "2026-11-04-004",
-  "title": "langchain-ai/langchain",
-  "source": "github",
-  "url": "https://github.com/langchain-ai/langchain",
-  "collected_at": "2026-11-04T02:48:29.507074+00:00",
-  "summary": "LangChain 是一个用于构建基于大语言模型（LLM）应用的工程平台，专注于智能体（Agent）开发。它提供模块化组件和工具链，支持链式调用、记忆管理、工具集成和检索增强生成（RAG），简化了复杂 LLM 工作流的编排与部署。该项目在 GitHub 上活跃开发，拥有广泛社区生态，是当前 LLM 应用开发的主流框架之一。",
+  "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+  "source": "Hacker News Best",
+  "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+  "collected_at": "2026-11-04T06:12:49.823574+00:00",
+  "summary": "文章报道美国科技巨头（如微软、谷歌、亚马逊等）在AI基础设施上的巨额资本支出导致债务激增，6个月内增长90%至3.2万亿美元。这反映了AI投资热潮背后的财务风险，可能影响市场稳定。",
   "tags": [
-    "LLM",
-    "Agent",
-    "框架",
-    "RAG",
-    "工具链"
+    "AI债务",
+    "科技巨头",
+    "资本支出",
+    "财务风险",
+    "基础设施"
   ],
-  "relevance_score": 0.95,
-  "category": "framework",
-  "key_insight": "LangChain 通过标准化组件和抽象层，降低了 LLM 智能体应用的开发门槛，成为连接模型与真实世界工具的桥梁。"
+  "relevance_score": 0.8,
+  "category": "ai",
+  "key_insight": "AI基础设施投资正快速推高科技巨头债务，需警惕财务杠杆风险。"
 }

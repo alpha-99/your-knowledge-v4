@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-04-013",
+  "title": "How Cisco defends at machine speed with OpenAI",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/cisco-cyber",
+  "collected_at": "2026-11-04T06:12:49.823574+00:00",
+  "summary": "Cisco与OpenAI合作，将网络智能（如遥测数据）与OpenAI大模型结合，构建自适应安全防御体系。通过实时分析网络流量和威胁情报，模型能自动识别异常行为并生成响应策略，实现机器速度的威胁检测与缓解，提升企业安全运营效率。",
+  "tags": [
+    "网络安全",
+    "LLM应用",
+    "实时防御",
+    "Cisco",
+    "OpenAI"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "利用大模型实时分析网络数据，实现自适应、机器速度的安全防御。"
+}

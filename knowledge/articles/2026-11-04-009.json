@@ -1,18 +1,18 @@
 {
   "id": "2026-11-04-009",
-  "title": "unclecode/crawl4ai",
-  "source": "github",
-  "url": "https://github.com/unclecode/crawl4ai",
-  "collected_at": "2026-11-04T02:48:29.507091+00:00",
-  "summary": "Crawl4AI 是一个面向大语言模型（LLM）和 AI 代理的开源网页爬虫与抓取工具，能够将任意网站内容转换为干净、适合 LLM 处理的 Markdown 格式。用户可自行部署运行，也可使用 Crawl4AI Cloud 的一键服务。该项目旨在为 AI 应用提供高质量的网页数据输入，简化数据采集与预处理流程，并拥有活跃的 Discord 社区支持。",
+  "title": "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.03651",
+  "collected_at": "2026-11-04T06:12:49.823574+00:00",
+  "summary": "CARD是一种证明携带的证书到动作接口，用于相对测量图。它通过提升纤维公式分离语义运动与见证修复，并给出精确的有用服务定律：无放回均匀采样产生超几何收益，而合格总体采样在观测条件下每次请求产生一个有用服务。在404个AA15-X500航测案例中，所有优化点均参考不一致，但配对因果导航变换全部参考一致。与普通随机相比，动作性匹配随机达到50/50目标成功。在11个KITTI、EuRoC和TUM SLAM案例中，随机与CARD图干预的优化器耗时比达1.128x-67.65x，差异源于消除填充、Cholesky因子大小和数值分解。",
   "tags": [
-    "web crawler",
-    "scraper",
-    "markdown",
-    "llm",
-    "ai agent"
+    "proof-carrying",
+    "robotics",
+    "SLAM",
+    "certificate",
+    "actionability"
   ],
-  "relevance_score": 0.9,
-  "category": "tool",
-  "key_insight": "Crawl4AI 通过将网页内容标准化为 LLM 友好的 Markdown，显著降低了 AI 代理获取和利用网络数据的门槛。"
+  "relevance_score": 0.8,
+  "category": "framework",
+  "key_insight": "将证明携带语义与机器人动作接口结合，通过动作性匹配采样实现可验证且高效的导航决策。"
 }
