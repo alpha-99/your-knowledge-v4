@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-04-001",
+  "title": "firecrawl/firecrawl",
+  "source": "github",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "collected_at": "2026-11-04T02:48:29.507067+00:00",
+  "summary": "Firecrawl 是一个为 AI 智能体提供网络数据抓取和处理的工具库，旨在通过高效、可扩展的网页抓取能力，为构建超级智能提供数据基础。它支持将网页内容转换为结构化数据，便于 LLM 和智能体使用，简化了从网络获取信息的流程，是增强 AI 应用数据获取能力的关键组件。",
+  "tags": [
+    "网页抓取",
+    "数据提取",
+    "AI智能体",
+    "LLM工具"
+  ],
+  "relevance_score": 0.85,
+  "category": "tool",
+  "key_insight": "Firecrawl 通过简化网页数据抓取与结构化，为 AI 智能体提供了高效获取网络知识的桥梁。"
+}
