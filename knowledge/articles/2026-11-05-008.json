@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-05-008",
+  "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.03662",
+  "collected_at": "2026-11-05T04:40:51.357420+00:00",
+  "summary": "MCPGuard是一个基于LLM的自动化框架，用于检测MCP SDK实现与规范之间的符合性差距。它通过结构轨对齐JSON Schema约束与SDK模型，行为轨提取规范文本规则并审计函数级代码，再由动态裁决器验证候选问题。在官方Python和TypeScript SDK上分别确认13和19个发现，这些均未被黑盒基线暴露。测试表明这些差距会系统性地传播到下游应用，使SDK级符合性测试成为传统端点测试的重要补充。",
+  "tags": [
+    "MCP",
+    "SDK",
+    "一致性测试",
+    "LLM",
+    "静态分析"
+  ],
+  "relevance_score": 0.8,
+  "category": "tool",
+  "key_insight": "SDK级别的规范符合性测试能发现端点测试遗漏的约束缺口，并防止其向下游传播。"
+}

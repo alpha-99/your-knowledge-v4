@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-05-018",
+  "title": "The latest AI news we announced in October 2026",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+  "collected_at": "2026-11-05T04:40:51.357420+00:00",
+  "summary": "Google AI在2026年10月发布多项更新，涵盖Gemini系列模型的能力增强、多模态理解与生成、以及Agent工具链的优化。重点包括更高效的推理模型、长上下文处理、以及面向开发者的API改进。同时，展示了AI在创意内容生成和实时交互方面的突破，强调模型与工具生态的协同发展。",
+  "tags": [
+    "Gemini",
+    "多模态",
+    "Agent"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "Google AI持续深化多模态与Agent能力，推动模型从单一文本向综合感知与行动扩展。"
+}

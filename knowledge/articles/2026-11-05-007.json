@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-05-007",
+  "title": "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.03651",
+  "collected_at": "2026-11-05T04:40:51.357420+00:00",
+  "summary": "CARD是一种证明携带的证书到动作接口，用于相对测量图。它通过提升纤维公式分离语义运动与见证修复，并给出精确的有用服务定律。实验表明，在404个空中调查案例中，所有优化器点参考不一致，但配对因果导航变换参考一致。可行动性匹配随机达到50/50目标成功，而普通随机为0/50。在11个SLAM案例中，CARD干预的优化器墙钟时间比随机低1.128-67.65倍。该工作连接了证书语义、物理执行、证明获取和图计算。",
+  "tags": [
+    "证明携带",
+    "机器人动作",
+    "SLAM优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "framework",
+  "key_insight": "通过证明携带接口分离证书与动作，可行动性匹配显著提升SLAM优化效率。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-05-015",
+  "title": "LangSmith BYOC is now available on AWS, Azure, and Google Cloud",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/langsmith-byoc-aws-gc-azure",
+  "collected_at": "2026-11-05T04:40:51.357420+00:00",
+  "summary": "LangSmith BYOC（自带云）功能现已支持AWS（正式可用）、Azure和Google Cloud（测试版）。该功能允许用户在自己的云账户中运行LangSmith，包括追踪、评估和代理部署，而LangChain负责管理底层基础设施。这使企业能够满足数据驻留和合规要求，同时保持对数据的完全控制。",
+  "tags": [
+    "LangSmith",
+    "BYOC",
+    "多云",
+    "可观测性",
+    "数据驻留"
+  ],
+  "relevance_score": 0.8,
+  "category": "tool",
+  "key_insight": "LangSmith BYOC扩展至三大云平台，让企业可以在自己的云环境中使用LangChain的监控和评估工具，满足数据驻留和合规需求。"
+}

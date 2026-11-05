@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-05-005",
+  "title": "Let’s Build a Brain",
+  "source": "Lobsters AI/ML",
+  "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+  "collected_at": "2026-11-05T04:40:51.357420+00:00",
+  "summary": "该项目是一个交互式网页应用，名为“Let’s Build a Brain”，旨在通过可视化方式引导用户逐步构建一个简化的大脑模型。用户可以通过添加神经元、调整连接权重和观察信号传递，直观理解神经网络的基本工作原理。该工具适合作为AI/ML入门教育材料，帮助学习者建立对深度学习核心概念的直觉认识。",
+  "tags": [
+    "interactive",
+    "neural-network",
+    "education"
+  ],
+  "relevance_score": 0.7,
+  "category": "tool",
+  "key_insight": "通过动手构建和可视化，将抽象的神经网络概念转化为直观的交互体验，降低学习门槛。"
+}

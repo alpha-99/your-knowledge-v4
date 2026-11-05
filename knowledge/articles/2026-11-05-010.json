@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-05-010",
+  "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+  "collected_at": "2026-11-05T04:40:51.357420+00:00",
+  "summary": "OpenAI宣布其Daybreak Red模型（GPT-5.6 Cyber）现已在AWS GovCloud（US-East）区域通过Amazon Bedrock服务向经批准的客户开放，用于授权网络安全任务。该模型专为网络安全场景设计，帮助政府机构在合规云环境中进行威胁检测、漏洞分析等操作。此举扩展了OpenAI在政府云领域的部署，强化了AI在关键基础设施保护中的应用。",
+  "tags": [
+    "网络安全",
+    "GPT-5.6",
+    "AWS GovCloud",
+    "Amazon Bedrock",
+    "政府云"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "OpenAI将网络安全专用模型部署到政府云，推动AI在关键基础设施防护中的合规应用。"
+}

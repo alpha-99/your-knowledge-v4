@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-05-011",
+  "title": "A thousand fewer paths to root",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+  "collected_at": "2026-11-05T04:40:51.357420+00:00",
+  "summary": "OpenAI 构建了一个自主管道，结合 LLM 与静态分析工具，自动发现、验证并生成 Linux 内核中 948 个本地提权漏洞的补丁。该系统通过语义分析定位漏洞，自动生成修复补丁，并验证其有效性，显著降低了人工审计成本。",
+  "tags": [
+    "LLM",
+    "漏洞挖掘",
+    "Linux内核",
+    "自主代理",
+    "安全"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "LLM 驱动的自主管道能规模化发现并修复内核漏洞，展示了 AI 在安全领域的实际应用潜力。"
+}

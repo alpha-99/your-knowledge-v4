@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-05-016",
+  "title": "Why human insight is a strategic advantage for building better agents",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/human-insight-strategic-advantage-agents",
+  "collected_at": "2026-11-05T04:40:51.357420+00:00",
+  "summary": "文章强调在构建生产级AI代理时，人类洞察是战略优势。提出三个有效的人机协同工作流原则：1）明确人类介入的触发条件，避免过度依赖自动化；2）设计可解释的代理行为，使人类审查者能快速理解并纠正；3）将人类反馈作为持续学习信号，而非一次性修正。作者认为人工审查不是瓶颈，而是确保代理可靠性、安全性和适应性的必要环节，尤其在复杂决策场景中。",
+  "tags": [
+    "human-in-the-loop",
+    "agent",
+    "human-review"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "人工审查是生产级代理的战略必要，而非效率障碍，关键在于设计结构化的人机协作流程。"
+}

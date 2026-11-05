@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-05-014",
+  "title": "Palette: teaching a small model to build decks in your design language",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "collected_at": "2026-11-05T04:40:51.357420+00:00",
+  "summary": "IBM Research 提出 Palette，一个轻量级模型，能够根据用户指定的设计语言（如颜色、字体、布局）自动生成演示文稿。该模型通过视觉-语言对齐和指令微调，学习将内容与设计风格匹配，生成符合品牌规范的幻灯片。Palette 在保持设计一致性的同时，显著降低了制作专业演示文稿的门槛，适用于企业品牌化内容生成。",
+  "tags": [
+    "多模态",
+    "设计生成",
+    "演示文稿",
+    "轻量模型",
+    "视觉语言模型"
+  ],
+  "relevance_score": 0.75,
+  "category": "multimodal",
+  "key_insight": "Palette 通过将设计语言作为条件输入，让小型模型也能生成符合品牌风格的演示文稿，实现了内容与设计的解耦与可控生成。"
+}

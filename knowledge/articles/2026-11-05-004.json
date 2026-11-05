@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-05-004",
+  "title": "An easy way to try local AI with braindead-local-intelligence",
+  "source": "Lobsters AI/ML",
+  "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+  "collected_at": "2026-11-05T04:40:51.357420+00:00",
+  "summary": "该文章介绍了一个名为 'braindead-local-intelligence' 的简易方案，旨在让用户无需复杂配置即可在本地运行 AI 模型。它可能通过提供预配置脚本或极简接口，降低本地部署门槛，适合初学者或快速实验。项目强调'无脑'（braindead）的易用性，可能封装了模型下载、推理调用等步骤，使用户能专注于使用而非环境搭建。",
+  "tags": [
+    "local-ai",
+    "easy-to-use",
+    "tool",
+    "beginner-friendly"
+  ],
+  "relevance_score": 0.7,
+  "category": "tool",
+  "key_insight": "通过极简封装，将本地 AI 部署简化为开箱即用的体验，降低技术门槛。"
+}

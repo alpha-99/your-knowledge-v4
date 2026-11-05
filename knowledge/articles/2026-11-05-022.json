@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-05-022",
+  "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+  "collected_at": "2026-11-05T04:40:51.357420+00:00",
+  "summary": "AT&T的Connected Life智能家居安全系统成为首个与Google Home Premium集成的家庭安全产品，通过Gemini for Home提供AI驱动功能，包括总结家庭事件、搜索视频历史等。该集成将多模态AI能力应用于日常安全监控，使用户能更直观地理解和管理家庭活动，标志着智能家居与生成式AI的深度融合。",
+  "tags": [
+    "智能家居",
+    "Gemini",
+    "安全系统"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "Gemini for Home通过集成AT&T安全系统，将多模态AI能力扩展到家庭安全场景，实现事件总结和视频搜索。"
+}
