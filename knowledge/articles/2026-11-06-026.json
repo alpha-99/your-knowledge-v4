@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-06-026",
+  "title": "Airbnb is working on an AI travel agent",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "Airbnb在2026年第三季度财报股东信中宣布，计划于2027年上半年推出AI旅行代理，帮助用户规划和预订旅行。公司指出，当前AI代理擅长简单例行任务（如餐厅预订或日程安排），但Airbnb的AI代理将应对更复杂的旅行规划场景，涵盖从搜索到预订的全流程。此举标志着AI代理从单一任务向端到端服务演进，有望重塑在线旅行预订体验。",
+  "tags": [
+    "AI代理",
+    "旅行规划",
+    "Airbnb"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "Airbnb的AI旅行代理将AI能力从简单任务扩展到复杂端到端预订流程，体现agent应用场景的深化。"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-06-007",
+  "title": "Software Line Specialist",
+  "source": "Lobsters AI/ML",
+  "url": "https://lovro-bikic.github.io/software-line-specialist/",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "该项目名为“Software Line Specialist”，可能是一个基于AI的代码行分析工具，旨在识别和定位软件中的关键行（如缺陷、性能瓶颈等）。它可能利用机器学习模型对代码行进行专家级分类，帮助开发者快速定位问题。由于信息有限，具体实现细节未知，但推测其核心是代码行级别的智能分析。",
+  "tags": [
+    "code-analysis",
+    "ai",
+    "software-engineering"
+  ],
+  "relevance_score": 0.7,
+  "category": "tool",
+  "key_insight": "利用AI对代码行进行专家级分析，提升软件维护效率。"
+}

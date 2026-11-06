@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-06-013",
+  "title": "Australian universities are creating AI-native graduates",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "澳大利亚多所大学正扩大ChatGPT等AI工具的使用范围，将其融入课程教学，旨在培养具备AI素养的毕业生，以应对AI驱动的工作环境。此举包括教师培训、课程设计调整及学生访问权限扩展，标志着高等教育对AI的接纳从试点走向全面整合，为未来劳动力市场输送AI原生人才。",
+  "tags": [
+    "education",
+    "LLM",
+    "AI literacy"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "澳大利亚大学将ChatGPT作为核心教学工具，标志着AI教育从辅助走向主流，旨在培养适应AI工作环境的毕业生。"
+}

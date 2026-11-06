@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-06-021",
+  "title": "Agents Are Going Async",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/agents-are-going-async",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "LangChain 博客介绍 Deep Agents 中的异步子代理（async subagents）机制。核心是让主代理在后台工作线程执行长任务时保持响应，通过编排器（orchestrator）管理任务队列，并利用通知和审批流程协调子代理结果。该模式提升了复杂任务处理的并发性和用户体验，适用于需要长时间运行或并行子任务的代理场景。",
+  "tags": [
+    "async",
+    "subagents",
+    "orchestrator",
+    "notifications",
+    "approvals"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "异步子代理通过编排器与通知/审批机制，使主代理在长任务执行期间保持响应，从而提升复杂代理系统的并发性和交互性。"
+}

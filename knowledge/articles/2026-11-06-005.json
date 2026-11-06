@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-06-005",
+  "title": "Ask HN: What's your current AI agentic setup?",
+  "source": "Hacker News Best",
+  "url": "https://news.ycombinator.com/item?id=50366117",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "HN 社区讨论当前 AI agent 工作流，聚焦个人订阅（Claude/ChatGPT/Cursor）、API/本地模型、编码工具（CLI/IDE/自定义）、编排工具（如 Munder Difflin）及平台（OpenClaw 等）。用户分享实际使用，反映从单一订阅转向多工具组合，强调工作流个性化与成本优化。",
+  "tags": [
+    "AI agent",
+    "workflow",
+    "subscriptions",
+    "coding tools",
+    "orchestration"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "用户正从单一订阅转向多工具组合，包括本地模型和自定义编排，强调工作流个性化。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-06-018",
+  "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "Dharma Field Extractor 是一个基于大语言模型的文档字段提取工具，能够从任意文档（如 PDF、图片、扫描件）中自动提取结构化字段并输出 JSON 格式。它结合了 OCR、文档解析和 LLM 推理，支持自定义字段模式，无需训练即可适应多种文档类型。该工具简化了数据录入和文档数字化流程，适用于金融、医疗、法律等领域。",
+  "tags": [
+    "文档提取",
+    "结构化输出",
+    "大语言模型",
+    "OCR",
+    "JSON"
+  ],
+  "relevance_score": 0.85,
+  "category": "tool",
+  "key_insight": "通过 LLM 的通用推理能力，将非结构化文档直接映射为预定义 JSON 字段，实现零样本字段提取。"
+}

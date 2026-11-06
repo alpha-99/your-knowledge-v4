@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-06-025",
+  "title": "OpenAI is stepping back from NDAs for data center projects",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "OpenAI在数据中心项目中承诺不再对公共官员使用保密协议（NDA），以回应近期中期选举中选民对数据中心扩张的强烈反对。此举旨在提高项目透明度，改善与当地社区的关系，但可能增加项目推进的不确定性。该变化反映了AI基础设施发展面临的社区治理挑战。",
+  "tags": [
+    "OpenAI",
+    "数据中心",
+    "透明度"
+  ],
+  "relevance_score": 0.8,
+  "category": "policy",
+  "key_insight": "OpenAI通过放弃NDA来缓解社区对数据中心扩张的反对，但可能增加项目不确定性。"
+}

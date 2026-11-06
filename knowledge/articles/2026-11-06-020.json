@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-06-020",
+  "title": "Browser Use in Managed Deep Agents",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/browser-use-in-managed-deep-agents",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "LangChain的Managed Deep Agents新增浏览器使用能力，为代理提供调优后的工具，以高效利用上下文的方式执行浏览器操作。同时引入handoff机制，允许用户在需要时亲自登录，确保代理能安全地访问受保护资源。该功能旨在提升代理在真实网页任务中的实用性和可靠性，同时减少上下文消耗，使代理能更长时间地自主工作。",
+  "tags": [
+    "browser-use",
+    "agent",
+    "context-efficient"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "通过上下文高效的浏览器工具和用户登录交接，托管深度代理实现了更实用的浏览器自动化。"
+}

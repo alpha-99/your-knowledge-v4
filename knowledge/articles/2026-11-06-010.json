@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-06-010",
+  "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.05391",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "论文提出Agent Harness Awareness，一种信任分离设计，解决工具使用代理的“操作盲区”：工具描述不反映当前健康状态，而执行框架拥有遥测信息。宿主在关键动作前提供小型、新鲜、验证过的状态快照，同时保留测量、执行、评估和最终调度权。在216次决策消融实验中，验证工具健康状态将平均策略遗憾降低96.9%（4252ms至131ms），单次调度完成率从69.4%提升至95.8%。在27次端到端实时TCP/HTTP执行中，遗憾降至0ms，9/9故障场景成功完成。该研究确立了工具与网络实例，表明宿主遥测可实质改善调度前操作选择。",
+  "tags": [
+    "agent",
+    "tool-use",
+    "telemetry",
+    "operational-awareness"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "将执行框架的实时遥测状态注入代理决策，可显著降低工具选择策略遗憾，提升操作可靠性。"
+}

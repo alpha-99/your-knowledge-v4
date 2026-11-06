@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-06-008",
+  "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+  "source": "Lobsters AI/ML",
+  "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "本文探讨了大型语言模型（LLM）能否原生地读取和写入神经网络权重，即“权重空间编程”。作者展示了LLM可以理解权重表示，并通过自然语言指令直接修改模型参数，实现模型编辑、知识更新等任务。这一能力将权重视为可编程数据，为模型定制和跨模型知识迁移提供了新途径。",
+  "tags": [
+    "LLM",
+    "weight-space",
+    "model-editing"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "LLM可直接读写神经网络权重，将模型参数变为可编程对象，开启权重空间编程新范式。"
+}

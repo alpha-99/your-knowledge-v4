@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-06-011",
+  "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.05392",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "代理AI系统由LLM驱动，执行动态多步流水线，其资源需求在调度时未知，呈现重尾多模态分布。现有调度器需已知图或平稳模型，不适用。本文形式化不确定性感知编排问题，提出CRO算法，用共形预测将滑动窗口轨迹转化为调度时资源分配，提供有限样本无分布覆盖保证。模拟显示CRO是唯一满足所有风险水平覆盖的方法，且过度预留最低，资源浪费减半。",
+  "tags": [
+    "agentic AI",
+    "resource orchestration",
+    "conformal prediction"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "利用共形预测将历史执行轨迹转化为具有概率保证的资源预留，解决了代理AI流水线需求不可预测的问题。"
+}

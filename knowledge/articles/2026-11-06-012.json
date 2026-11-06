@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-06-012",
+  "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
+  "source": "Reddit r/MachineLearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "该手册由Hugging Face作者基于约80万GH200 GPU小时的MoE训练经验编写，系统介绍使用Megatron-LM训练混合专家（MoE）模型的完整流程。内容涵盖硬件测试、镜像构建、稠密基线训练、单节点MoE对比，深入解析MoE层（路由器、路由、负载均衡、专家、块布局、训练与系统），并延伸至推理服务与强化学习。手册提供Megatron-LM代码、推荐配置、前沿模型选择及55幅图表，并附有脚本和所有推荐标志的汇总。",
+  "tags": [
+    "MoE",
+    "Megatron-LM",
+    "训练手册"
+  ],
+  "relevance_score": 0.9,
+  "category": "llm",
+  "key_insight": "MoE训练需系统化工程配置，本手册基于大规模实测提供从硬件到RL的完整操作指南。"
+}

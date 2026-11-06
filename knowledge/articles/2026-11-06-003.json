@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-06-003",
+  "title": "Claude Code sends your email address to websites",
+  "source": "Hacker News Best",
+  "url": "https://github.com/anthropics/claude-code/issues/107757",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "Claude Code 被曝在运行时会向第三方网站发送用户的电子邮件地址，引发隐私担忧。该问题在 GitHub 上获得 725 分和 248 条评论，表明社区高度关注。核心争议在于 Anthropic 的 CLI 工具默认行为可能泄露用户身份信息，且缺乏明确的用户同意机制。此事件反映了 AI 编程助手在隐私设计上的潜在缺陷，以及开发者对工具透明度和数据最小化原则的期待。",
+  "tags": [
+    "隐私",
+    "Claude Code",
+    "数据泄露"
+  ],
+  "relevance_score": 0.85,
+  "category": "tool",
+  "key_insight": "AI 编程工具在默认配置下可能泄露用户身份信息，隐私设计需前置考量。"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-06-023",
+  "title": "The latest AI news we announced in October 2026",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "Google AI 博客于2026年10月发布了一系列AI新闻，以动画轮播图形式展示。内容可能涵盖多模态模型（如Gemini系列）的迭代升级、AI代理（Agent）在复杂任务中的自主决策能力提升、以及模型效率优化（如稀疏注意力、量化技术）。此外，可能涉及AI安全与伦理框架的更新，以及面向开发者的工具链改进。整体反映了Google在推动AI从单一模型向集成化、自主化系统演进的战略方向。",
+  "tags": [
+    "多模态",
+    "AI代理",
+    "模型优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "Google在2026年10月重点展示了多模态AI与自主代理的融合进展，标志着AI系统正从被动响应向主动规划演进。"
+}

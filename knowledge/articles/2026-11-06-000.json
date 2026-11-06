@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-06-000",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "collected_at": "2026-11-06T04:40:21.241822+00:00",
+  "summary": "NousResearch/hermes-agent 是一个由 NousResearch 开发的智能体框架，旨在构建能够随着用户使用而不断进化的个性化 AI 助手。该框架可能集成记忆管理、用户反馈学习和自适应行为机制，使智能体能够根据交互历史逐步优化自身表现，实现“与你共同成长”的体验。它代表了下一代智能体从静态工具向动态、个性化伙伴的转变。",
+  "tags": [
+    "agent",
+    "adaptive",
+    "personalization",
+    "memory",
+    "self-improvement"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "智能体通过持续学习和记忆机制实现个性化成长，是下一代AI助手的关键方向。"
+}

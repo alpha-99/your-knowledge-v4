@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-06-006",
+  "title": "Reflections on Rust in the LLM Age — Bryan Cantrill | Rust NYC",
+  "source": "Lobsters AI/ML",
+  "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "Bryan Cantrill 在 Rust NYC 分享了对 Rust 在 LLM 时代的反思。他探讨了 LLM 对系统编程语言的影响，认为 Rust 的内存安全与并发优势使其成为构建 AI 基础设施（如推理引擎、数据管道）的理想选择。同时，他反思了 LLM 代码生成对 Rust 生态的潜在冲击，强调 Rust 的严格类型系统有助于验证 AI 生成代码的正确性。演讲还涉及 Rust 社区如何适应 AI 驱动的开发范式，以及开发者应如何保持对底层系统的掌控力。",
+  "tags": [
+    "Rust",
+    "LLM",
+    "系统编程",
+    "AI基础设施",
+    "代码生成"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "Rust 的类型安全与性能优势使其在 LLM 时代成为构建可靠 AI 基础设施的关键，同时 LLM 代码生成需借助 Rust 的严格性来保证质量。"
+}

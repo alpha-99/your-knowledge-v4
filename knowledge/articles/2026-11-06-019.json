@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-06-019",
+  "title": "How We Optimized Browser Use for Deep Agents",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "LangChain团队针对深度代理（Deep Agents）的浏览器使用进行了系统优化。他们对比了七种浏览器工具集，最终选择Stagehand（来自Browserbase），并利用LangSmith的追踪（traces）和评估（evals）进行调优。文章分享了选型依据、调优过程及经验教训，包括如何通过可观测性数据驱动工具选择与参数调整，以提升代理在复杂网页交互中的稳定性和效率。",
+  "tags": [
+    "浏览器工具",
+    "深度代理",
+    "LangSmith",
+    "Stagehand",
+    "工具选型"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "通过对比评估和可观测性追踪，选择并调优专用浏览器工具集，可显著提升深度代理的网页操作可靠性。"
+}

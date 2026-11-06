@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-06-017",
+  "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/phonon-tts",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "Phonon TTS是商汤科技推出的端侧语音合成模型，在多项基准测试中超越现有方案。该模型采用创新的架构设计，在保持高语音质量的同时实现低延迟推理，特别适合移动设备和边缘计算场景。其核心优势在于无需云端依赖即可生成自然流畅的语音，兼顾隐私保护与离线可用性。文章详细介绍了模型训练方法、架构细节及性能对比，展示了端侧TTS技术的最新进展。",
+  "tags": [
+    "语音合成",
+    "端侧AI",
+    "模型优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "tool",
+  "key_insight": "Phonon TTS通过架构创新实现了端侧高质量语音合成，在基准测试中超越现有方案，为离线语音交互提供了新范式。"
+}

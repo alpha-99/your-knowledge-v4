@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-06-009",
+  "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.05390",
+  "collected_at": "2026-11-06T04:40:21.245055+00:00",
+  "summary": "论文研究多智能体LLM系统中审查者的权限边界问题。当审查者拥有广泛否决权时，可能修复错误但也会推翻正确决策。作者提出证据门控机制，要求审查者仅在提供机械有效的约束违规记录和合规修复后才可替换上游决策。在96个空间策略任务和96个投资组合转移基准上，门控显著减少对正确提案的破坏，同时保留大部分违规修复。但前瞻性验证显示，接口设计改变审查者行为，并非模型无关的保障。结论是审查者能力、动作接口和约束管辖权共同决定纠正域和破坏面。",
+  "tags": [
+    "multi-agent",
+    "LLM review",
+    "evidence gate",
+    "institutional jurisdiction"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "审查者的约束管辖权（而非单纯能力）决定了LLM多智能体系统是修复错误还是破坏正确决策，证据门控可显著降低正确提案的误替换率。"
+}
