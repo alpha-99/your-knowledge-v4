@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-07-007",
+  "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.06972",
+  "collected_at": "2026-11-07T04:06:21.143946+00:00",
+  "summary": "KDASO提出知识-数据双驱动的自动技能优化框架，用于法律责任判定等任务。该框架通过邻域条件归纳从近期数据中演化技能库，利用LLM轨迹分析进行执行对齐精炼，并采用上下文预算路由实现可扩展技能选择，解决了技能库过时、语义执行差距及上下文超限三大问题。实验表明，KDASO在网约车责任判定、法律责任判定和逻辑推理任务上显著优于基线，且技能迁移到概念相似场景时提升8.96%，持续优化保持稳定增益。",
+  "tags": [
+    "法律AI",
+    "技能优化",
+    "LLM推理"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "通过数据驱动持续演化技能库并结合执行反馈与上下文路由，解决LLM在责任判定中技能过时和执行偏差问题。"
+}

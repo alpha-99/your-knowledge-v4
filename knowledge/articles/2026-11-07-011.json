@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-07-011",
+  "title": "Measuring how AI agents handle everyday wet-lab science",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+  "collected_at": "2026-11-07T04:06:21.143946+00:00",
+  "summary": "OpenAI 推出 BioBasicsBench，一个包含 100 个任务的基准测试，旨在评估 AI 代理在湿实验科学中的实际能力。该基准测试要求代理解释原始实验数据（如吸光度、细胞计数、凝胶电泳图像等），并执行日常实验室操作决策，如计算稀释浓度、选择试剂、判断实验步骤是否成功。它填补了现有基准测试偏重文本推理而忽视真实实验数据解读的空白，为评估 AI 在生物实验室中的实用性和可靠性提供了标准化工具。",
+  "tags": [
+    "AI Agent",
+    "Benchmark",
+    "Wet-lab Science",
+    "BioBasicsBench",
+    "OpenAI"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "BioBasicsBench 通过真实湿实验数据任务，揭示了 AI 代理在解释原始实验数据方面的能力缺口，为未来实验室自动化 AI 的评估提供了新基准。"
+}

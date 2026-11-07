@@ -508,5 +508,155 @@
     "title": "Perplexity launches its own take on AI agents for work",
     "category": "agent",
     "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-07-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-07-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-07-002",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-11-07-003",
+    "title": "Reflections on Rust in the LLM Age",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-07-004",
+    "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-07-005",
+    "title": "An easy way to try local AI with braindead-local-intelligence",
+    "category": "tool",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-07-006",
+    "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-07-007",
+    "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-07-008",
+    "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-07-009",
+    "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
+    "category": "ml",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-07-010",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "category": "llm",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-07-011",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-07-012",
+    "title": "Australian universities are creating AI-native graduates",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-07-013",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "category": "framework",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-07-014",
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "category": "tool",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-07-015",
+    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-07-016",
+    "title": "Managed Deep Agents v0.10: Browser Use and Async Subagents",
+    "category": "agent",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-07-017",
+    "title": "Agents Are Going Async",
+    "category": "agent",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-07-018",
+    "title": "How We Optimized Browser Use for Deep Agents",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-07-019",
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-07-020",
+    "title": "The latest AI news we announced in October 2026",
+    "category": "llm",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-07-021",
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "category": "tool",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-07-022",
+    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "category": "llm",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-07-023",
+    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "category": "security",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-07-024",
+    "title": "All the latest updates on AI data centers",
+    "category": "infrastructure",
+    "relevance_score": 0.7
   }
 ]

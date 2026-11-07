@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-07-013",
+  "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/allenai/toyblocks",
+  "collected_at": "2026-11-07T04:06:21.143946+00:00",
+  "summary": "ToyBlocks是AI2发布的一个用于机器人学习和评估的受控仿真环境，旨在提供可复现、可配置的任务场景，帮助研究人员测试机器人的感知、规划和操作能力。它通过模块化设计支持多种任务生成，并集成于Hugging Face生态，便于社区使用和基准测试。",
+  "tags": [
+    "机器人学习",
+    "仿真环境",
+    "评估基准"
+  ],
+  "relevance_score": 0.75,
+  "category": "framework",
+  "key_insight": "ToyBlocks通过受控环境降低了机器人实验的不可复现性，为算法比较提供了标准化平台。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-07-008",
+  "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.06977",
+  "collected_at": "2026-11-07T04:06:21.143946+00:00",
+  "summary": "BlockLock是一种保证LLM推理可复现性的方法，即请求输出不受批次中其他请求影响。它保留共享批量预填充，仅固定受保护请求的数值路径（几何形状），提供两种模式：BlockLock-Rows固定行宽并保留所有请求的批量解码；BlockLock-Pack使用终端锚定打包和隔离虚拟段，提取目标KV状态进行仅目标解码。在五个密集模型和三个GPU上验证，两种模式均保持目标序列和Top20-logit位级一致。相比vLLM Batch-Invariant，BlockLock-Rows降低延迟53.5-55.0%，提升吞吐量115.2-122.2%，且无需自定义内核。",
+  "tags": [
+    "可复现推理",
+    "LLM推理",
+    "批处理",
+    "性能优化",
+    "KV缓存"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "通过固定请求看到的几何形状而非约束所有算子，在保持共享预填充高效性的同时实现位级可复现推理。"
+}

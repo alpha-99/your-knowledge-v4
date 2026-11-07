@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-07-023",
+  "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+  "collected_at": "2026-11-07T04:06:21.143946+00:00",
+  "summary": "据《纽约时报》报道，中国国家安全部招募了Megaspeed高管Alice Huang，以监视英伟达CEO黄仁勋，并试图获取美国AI芯片的敏感信息，同时可能影响英伟达向中国出售最先进芯片。该事件凸显了中美在AI芯片领域的激烈博弈，以及情报活动对科技供应链的潜在干扰。",
+  "tags": [
+    "间谍",
+    "AI芯片",
+    "出口管制",
+    "英伟达",
+    "地缘政治"
+  ],
+  "relevance_score": 0.7,
+  "category": "security",
+  "key_insight": "中国通过情报手段影响AI芯片供应链，加剧了中美科技脱钩风险。"
+}

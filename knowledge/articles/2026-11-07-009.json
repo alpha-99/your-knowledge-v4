@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-07-009",
+  "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
+  "source": "Reddit r/MachineLearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
+  "collected_at": "2026-11-07T04:06:21.143946+00:00",
+  "summary": "该讨论指出，2012-2018年间学术研究（如深度网络、RL算法、ADAM、TRPO）被工业界广泛采纳，学术研究价值显著。但2026年现状是，工业界对大量学术论文（如新优化器、CNN/RNN变体）反应冷淡，几乎不采用。工业界已从应用者转变为内部创新者，学术与工业界出现分化，学术研究面临“不被采用即无价值”的困境。",
+  "tags": [
+    "学术界-工业界关系",
+    "ML研究趋势",
+    "技术转化"
+  ],
+  "relevance_score": 0.85,
+  "category": "ml",
+  "key_insight": "工业界已从学术成果的采纳者转变为内部研发主导者，学术研究在应用领域的价值认同面临挑战。"
+}

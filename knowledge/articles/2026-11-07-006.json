@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-07-006",
+  "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.06962",
+  "collected_at": "2026-11-07T04:06:21.143946+00:00",
+  "summary": "本文介绍AutoIP，一个由AI代理自动形式化的Lean库，涵盖经典线性正则化理论及其泛函分析基础。机器验证的证明仅证明形式化陈述，因此人类需确认陈述的意图。作者围绕此任务组织库，使审阅者只需比较形式化陈述与自然语言版本，无需阅读证明。经验表明风险在于陈述而非证明，简单自动化测试可暴露既有文献中的问题，如一个教科书定理的假设比断言更严格。作者邀请逆问题社区扩展该库。",
+  "tags": [
+    "Lean",
+    "形式化验证",
+    "AI代理",
+    "逆问题",
+    "正则化"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "形式化验证的风险主要在于陈述而非证明，AI代理可自动生成证明，但需自动化测试检查陈述的准确性。"
+}

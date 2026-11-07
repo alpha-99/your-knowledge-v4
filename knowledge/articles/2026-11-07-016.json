@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-07-016",
+  "title": "Managed Deep Agents v0.10: Browser Use and Async Subagents",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/managed-deep-agents-browser-use-and-asynchronous-subagents",
+  "collected_at": "2026-11-07T04:06:21.143946+00:00",
+  "summary": "Managed Deep Agents v0.10 新增浏览器使用功能，使代理能够在没有API的网站上执行操作，并在需要登录时把窗口交给用户完成认证。同时引入异步子代理，支持后台并行处理任务，提升复杂工作流的效率。该版本进一步增强了代理在真实环境中的交互能力和任务调度灵活性。",
+  "tags": [
+    "browser-use",
+    "async-subagents",
+    "langchain",
+    "agent",
+    "workflow"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "通过浏览器使用和异步子代理，代理可以突破API限制并实现并行后台任务，显著扩展了实际应用场景。"
+}
