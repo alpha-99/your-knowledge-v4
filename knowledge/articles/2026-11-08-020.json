@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-08-020",
+  "title": "AI broke the cybersecurity world. What’s next?",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+  "collected_at": "2026-11-08T03:51:22.994978+00:00",
+  "summary": "本文是The Verge播客访谈，邀请Cognition首席安全官Alex Stamos探讨AI对网络安全领域的颠覆性影响。Stamos指出，AI不仅降低了网络攻击门槛，使钓鱼邮件和漏洞利用更易实施，也加剧了数据泄露风险，当前网络安全处于‘黑暗时代’。他呼吁行业重新审视安全架构，并讨论AI在防御端的潜力与局限。访谈为系列节目第一部分，聚焦AI在现实生活中的实际应用与挑战。",
+  "tags": [
+    "AI安全",
+    "网络攻击",
+    "防御策略"
+  ],
+  "relevance_score": 0.9,
+  "category": "llm",
+  "key_insight": "AI正在重塑网络安全的攻防平衡，攻击者利用AI扩大漏洞，防御者需重构安全范式。"
+}

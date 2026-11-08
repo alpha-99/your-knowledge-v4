@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-08-003",
+  "title": "Catching prompt injections hidden in PDFs",
+  "source": "Lobsters AI/ML",
+  "url": "https://tomclancy.info/joshua-judges-ruth.html",
+  "collected_at": "2026-11-08T03:51:22.994978+00:00",
+  "summary": "该文章探讨了如何检测隐藏在PDF文件中的提示注入攻击。攻击者利用PDF的文本层、注释或元数据嵌入恶意指令，当AI系统解析PDF时，这些指令可能被触发，导致模型偏离预期行为。文章提出了一种检测方法，通过分析PDF的文本流、字体编码和隐藏层，识别异常指令模式，并结合上下文感知的扫描策略，在文档解析前拦截潜在注入。该方法旨在提升LLM应用处理PDF文档时的安全性，防止数据泄露或恶意操作。",
+  "tags": [
+    "prompt injection",
+    "PDF security",
+    "LLM safety"
+  ],
+  "relevance_score": 0.85,
+  "category": "security",
+  "key_insight": "PDF中的隐藏文本层是提示注入的隐蔽载体，需在解析前进行结构级扫描以有效检测。"
+}

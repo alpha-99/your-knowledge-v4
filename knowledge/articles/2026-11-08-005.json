@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-08-005",
+  "title": "The most scathing reviewer 2 review I have ever read",
+  "source": "Reddit r/MachineLearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
+  "collected_at": "2026-11-08T03:51:22.994978+00:00",
+  "summary": "该帖子展示了一份极其严厉的同行评审意见，针对一篇试图学习世界模型中潜在状态组件间相关性、以传播奖励敏感性并自适应加权长期规划不确定性的论文。审稿人认为论文高度可能完全由AI生成，存在术语堆砌、技术准确性不足、方法混乱、实验不科学等问题，并给出明确拒稿评分。评审意见详细列举了摘要、引言、方法、实验中的具体缺陷，如概念模糊、符号混淆、缺乏任务描述和随机种子等。",
+  "tags": [
+    "peer-review",
+    "AI-generated-paper",
+    "world-model",
+    "uncertainty",
+    "planning"
+  ],
+  "relevance_score": 0.7,
+  "category": "agent",
+  "key_insight": "该评审揭示了AI生成论文的典型特征：术语堆砌、缺乏技术深度和实验严谨性，警示研究者需警惕此类投稿。"
+}

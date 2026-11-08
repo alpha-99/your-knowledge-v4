@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-08-018",
+  "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+  "collected_at": "2026-11-08T03:51:22.994978+00:00",
+  "summary": "NYT Cooking推出AI助手，帮助用户解决晚餐选择难题。作者在周中晚餐时使用该助手，它成功推荐了鸡肉食谱，避免了“又吃鸡肉”的抱怨。但在制作蛋糕时，AI助手却给出了不准确的指导，几乎毁了蛋糕。文章指出AI在烹饪辅助中能简化决策，但复杂任务仍需人工判断，反映了当前AI助手在特定领域的实用性与局限性。",
+  "tags": [
+    "AI助手",
+    "烹饪",
+    "LLM",
+    "推荐系统",
+    "用户体验"
+  ],
+  "relevance_score": 0.7,
+  "category": "llm",
+  "key_insight": "AI烹饪助手能有效简化日常决策，但在复杂或精细任务上仍存在可靠性问题，需结合人类经验。"
+}

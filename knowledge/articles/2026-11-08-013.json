@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-08-013",
+  "title": "Agents Are Going Async",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/agents-are-going-async",
+  "collected_at": "2026-11-08T03:51:22.994978+00:00",
+  "summary": "本文介绍Deep Agents框架中的异步子代理机制，使主代理在后台执行长任务时保持响应。通过编排器管理子代理生命周期，利用通知机制传递完成状态，并支持人类审批介入关键决策。该设计显著提升并发效率与用户体验，适用于需要长时间运行任务的复杂代理场景。",
+  "tags": [
+    "异步代理",
+    "编排器",
+    "通知机制",
+    "审批流程",
+    "Deep Agents"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "异步子代理通过后台任务与通知机制解耦长任务与主代理响应，实现高效并发。"
+}

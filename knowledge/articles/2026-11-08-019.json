@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-08-019",
+  "title": "The US let Nvidia sell chips to an empty office in China",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+  "collected_at": "2026-11-08T03:51:22.994978+00:00",
+  "summary": "美国商务部与英伟达被指未对获准购买H200 AI芯片的中国企业进行充分尽职调查。据《纽约时报》报道，新矩阵公司（New Matrix）虽在获批名单上，但其办公室实为空壳，仅为一处灰色空壳建筑。这引发对出口管制执行漏洞的担忧，可能使高端AI芯片通过虚假实体流入中国，削弱美国技术封锁效果。",
+  "tags": [
+    "英伟达",
+    "出口管制",
+    "AI芯片",
+    "中国",
+    "合规风险"
+  ],
+  "relevance_score": 0.85,
+  "category": "policy",
+  "key_insight": "出口管制执行中的尽职调查缺失，使空壳公司可能成为规避AI芯片禁令的漏洞。"
+}
