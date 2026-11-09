@@ -784,5 +784,143 @@
     "title": "AI broke the cybersecurity world. What’s next?",
     "category": "llm",
     "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-09-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-09-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.92
+  },
+  {
+    "id": "2026-11-09-002",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-11-09-003",
+    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "category": "tool",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-09-004",
+    "title": "OpenAI raises $11B at a $1.25T valuation",
+    "category": "llm",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-09-005",
+    "title": "Goodbye Claude, hello Pi",
+    "category": "llm",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-09-006",
+    "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+    "category": "tool",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-09-007",
+    "title": "Catching prompt injections hidden in PDFs",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-09-008",
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "category": "security",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-09-009",
+    "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
+    "category": "llm",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-09-010",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-09-011",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-09-012",
+    "title": "Australian universities are creating AI-native graduates",
+    "category": "tool",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-09-013",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "category": "framework",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-09-014",
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "category": "asr",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-09-015",
+    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+    "category": "framework",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-09-016",
+    "title": "Managed Deep Agents v0.10: Browser Use and Async Subagents",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-09-017",
+    "title": "Agents Are Going Async",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-09-018",
+    "title": "How We Optimized Browser Use for Deep Agents",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-09-019",
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-09-020",
+    "title": "The latest AI news we announced in October 2026",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-09-021",
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "category": "tool",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-09-022",
+    "title": "Apple is racing to make Siri more agentic",
+    "category": "agent",
+    "relevance_score": 0.8
   }
 ]

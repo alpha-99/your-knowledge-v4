@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-09-014",
+  "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+  "collected_at": "2026-11-09T04:03:53.732354+00:00",
+  "summary": "Hugging Face 的 Open ASR Leaderboard 新增了埃及英语和尼日利亚英语两种非洲英语变体，旨在评估语音识别模型在非标准英语口音上的表现。该扩展基于 LIVA 数据集，覆盖多种非洲语言口音，有助于提升 ASR 系统的公平性和鲁棒性，推动语音技术在全球范围内的普及。",
+  "tags": [
+    "speech recognition",
+    "ASR",
+    "benchmark",
+    "African English"
+  ],
+  "relevance_score": 0.7,
+  "category": "asr",
+  "key_insight": "将非洲英语变体纳入 ASR 基准测试，是提升语音识别模型公平性和泛化能力的关键一步。"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-09-013",
+  "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/allenai/toyblocks",
+  "collected_at": "2026-11-09T04:03:53.732354+00:00",
+  "summary": "ToyBlocks 是一个由 AI2 开发的模块化、可定制的 3D 仿真环境，专为机器人学习和评估设计。它提供丰富的程序化生成任务，支持多智能体交互、物理模拟和视觉渲染，可用于测试具身智能体的感知、规划与操作能力。该环境强调可控性与可复现性，允许研究者精细调整任务难度和场景复杂度，从而系统评估模型在泛化、鲁棒性和长期规划方面的表现。",
+  "tags": [
+    "机器人学习",
+    "仿真环境",
+    "具身智能"
+  ],
+  "relevance_score": 0.85,
+  "category": "framework",
+  "key_insight": "ToyBlocks 通过高度可控的 3D 世界生成，为机器人学习提供了可复现、可扩展的基准测试平台，弥补了真实世界数据稀缺和现有仿真器灵活性不足的问题。"
+}

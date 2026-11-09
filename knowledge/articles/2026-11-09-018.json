@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-09-018",
+  "title": "How We Optimized Browser Use for Deep Agents",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents",
+  "collected_at": "2026-11-09T04:03:53.732354+00:00",
+  "summary": "本文介绍了为深度智能体（Deep Agents）优化浏览器使用的方法。作者比较了七个浏览器工具集，最终选择Stagehand（来自Browserbase），因其在自动化稳定性和易用性上表现最佳。通过LangSmith的追踪（traces）和评估（evals），他们发现工具调用的准确性和错误处理是性能瓶颈，并据此调整了提示词和参数配置。最终，智能体的浏览器操作效率显著提升，证明了系统化评估与迭代调优的重要性。",
+  "tags": [
+    "browser automation",
+    "deep agents",
+    "evaluation"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "选择正确的浏览器工具集并利用追踪与评估持续调优，是提升深度智能体性能的关键。"
+}

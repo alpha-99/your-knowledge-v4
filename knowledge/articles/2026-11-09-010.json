@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-09-010",
+  "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/partnering-with-hacktron",
+  "collected_at": "2026-11-09T04:03:53.732354+00:00",
+  "summary": "OpenAI与安全公司Hacktron合作，旨在通过红队测试和前沿AI技术，主动发现其系统及第三方服务连接中的潜在漏洞，并强化防御能力。此次合作聚焦于模拟真实攻击场景，利用AI辅助漏洞挖掘，提升整体安全韧性。该举措体现了OpenAI在AI安全领域的持续投入，通过外部专业力量与内部AI能力结合，构建更稳健的防护体系。",
+  "tags": [
+    "AI安全",
+    "红队测试",
+    "漏洞挖掘"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "OpenAI借助外部安全团队与前沿AI结合，主动进行红队测试以发现并修复系统漏洞，强化第三方服务连接的安全性。"
+}

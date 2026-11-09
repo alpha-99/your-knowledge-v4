@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-09-000",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "collected_at": "2026-11-09T04:03:53.729707+00:00",
+  "summary": "NousResearch 开发的 hermes-agent 是一个面向持续学习和自适应能力的智能体框架。它允许 AI 智能体通过交互积累经验、扩展记忆并动态调用工具，从而实现“与你共同成长”的目标。该框架可能基于 Hermes 系列模型，强调模块化设计，支持复杂任务分解、长期记忆存储和技能自进化，旨在构建能够随时间推移提升能力的通用智能体系统。",
+  "tags": [
+    "agent",
+    "llm",
+    "memory"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "通过记忆与工具调用的动态整合，实现智能体的持续学习和自我进化。"
+}

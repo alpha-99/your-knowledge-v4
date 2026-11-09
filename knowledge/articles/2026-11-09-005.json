@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-09-005",
+  "title": "Goodbye Claude, hello Pi",
+  "source": "Hacker News Best",
+  "url": "https://caleb.software/posts/claude-to-pi.html",
+  "collected_at": "2026-11-09T04:03:53.732354+00:00",
+  "summary": "文章作者分享了自己从使用 Anthropic 的 Claude 转向使用 Inflection AI 的 Pi 的体验。作者认为 Pi 在对话风格上更自然、更具同理心，且对隐私更友好，而 Claude 虽然功能强大但有时过于正式或受限。文章探讨了不同 AI 助手的定位差异，以及用户在选择时对情感连接、隐私和实用性的权衡。",
+  "tags": [
+    "AI助手",
+    "Claude",
+    "Pi",
+    "用户体验",
+    "隐私"
+  ],
+  "relevance_score": 0.75,
+  "category": "llm",
+  "key_insight": "AI 助手的竞争力不仅在于能力，更在于情感连接与隐私信任，这决定了用户的最终选择。"
+}

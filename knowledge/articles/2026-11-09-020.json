@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-09-020",
+  "title": "The latest AI news we announced in October 2026",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+  "collected_at": "2026-11-09T04:03:53.732354+00:00",
+  "summary": "Google AI Blog 于2026年10月发布了一系列AI技术更新，以动画轮播图形式展示。内容涵盖多模态模型、生成式AI工具、以及面向开发者的新API。重点包括提升推理效率、增强上下文理解，以及推动AI在创意和生产力场景的应用。该月更新强调模型轻量化与部署便捷性，同时关注安全性和可解释性。",
+  "tags": [
+    "多模态",
+    "生成式AI",
+    "模型优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "2026年10月Google AI聚焦于多模态融合与高效推理，推动AI从实验室走向规模化应用。"
+}

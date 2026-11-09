@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-09-015",
+  "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+  "collected_at": "2026-11-09T04:03:53.732354+00:00",
+  "summary": "NVIDIA发布Cosmos 3开放模型，专注于交互式世界模拟。该模型支持基于物理的仿真，可生成可控的虚拟环境，用于机器人训练、自动驾驶测试等场景。它结合了扩散模型与强化学习，实现高保真、实时交互，并开放权重供研究使用。",
+  "tags": [
+    "世界模拟",
+    "扩散模型",
+    "强化学习",
+    "机器人",
+    "自动驾驶"
+  ],
+  "relevance_score": 0.85,
+  "category": "framework",
+  "key_insight": "Cosmos 3通过交互式世界模拟，为具身智能提供可扩展、可控的训练环境，是物理AI的重要基础设施。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-09-009",
+  "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
+  "source": "Reddit r/MachineLearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1xr47tw/i_merged_attention_and_mlp_processing_into_a/",
+  "collected_at": "2026-11-09T04:03:53.732354+00:00",
+  "summary": "该研究提出GAP（Gated Attention Projection）架构，将注意力与MLP处理合并为单一门控Transformer块，替代标准分离式子层。在WikiText-103上以每模型1亿训练token测试，GAP20相比标准Transformer减少19.91%参数，更小配置可减34.31%但性能下降，最终通过增加宽度保留约20%参数节省。标准Transformer在最终语言模型准确率上仍占优。torch.compile使GAP20 CPU训练吞吐提升约19.9%。作者强调此为实验性架构，非全面超越Transformer的声明，并公开代码、基准与论文供反馈。",
+  "tags": [
+    "Transformer",
+    "Gated Attention",
+    "MLP融合",
+    "参数效率",
+    "架构创新"
+  ],
+  "relevance_score": 0.75,
+  "category": "llm",
+  "key_insight": "将注意力与MLP合并为单一门控块可显著减少参数，但需以牺牲部分语言建模精度为代价，表明标准Transformer的分离式设计在精度上仍具优势。"
+}

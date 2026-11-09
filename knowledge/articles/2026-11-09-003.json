@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-09-003",
+  "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+  "source": "Hacker News Best",
+  "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+  "collected_at": "2026-11-09T04:03:53.732354+00:00",
+  "summary": "高盛集团近期从银行家和交易员的工作环境中撤下了Anthropic的Claude Code编程助手。该工具曾被用于辅助代码生成和自动化任务，但高盛基于合规、安全及数据隐私方面的考量决定停止使用。此举反映出金融机构在引入生成式AI工具时，需在效率提升与风险控制之间谨慎权衡，尤其涉及敏感交易数据和内部系统时。",
+  "tags": [
+    "Claude Code",
+    "高盛",
+    "企业AI应用",
+    "合规风险",
+    "金融科技"
+  ],
+  "relevance_score": 0.75,
+  "category": "tool",
+  "key_insight": "金融机构采用AI编程助手时，安全合规风险往往比效率收益更关键，导致短期试点后撤回。"
+}

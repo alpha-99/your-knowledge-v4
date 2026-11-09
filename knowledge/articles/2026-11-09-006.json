@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-09-006",
+  "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+  "source": "Lobsters AI/ML",
+  "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+  "collected_at": "2026-11-09T04:03:53.732354+00:00",
+  "summary": "讨论在 Mac mini M5 Pro（48GB 统一内存）上本地运行 AI 的实际可行性。作者关注编码辅助（自动补全、智能体工作流）、图像生成、转录、RAG 等场景，并询问哪些模型与量化级别在 48GB 内真正可用，以及推荐 MLX、llama.cpp、Ollama、LM Studio、ComfyUI 等运行时。强调需要真实 token/s 数据和失败经验，而非基准炒作。",
+  "tags": [
+    "本地AI",
+    "Mac mini M5 Pro",
+    "MLX",
+    "量化模型",
+    "实际性能"
+  ],
+  "relevance_score": 0.75,
+  "category": "tool",
+  "key_insight": "48GB 统一内存可运行 30B 级量化模型，但需以实际 token/s 和任务完成度为准，而非仅能运行。"
+}

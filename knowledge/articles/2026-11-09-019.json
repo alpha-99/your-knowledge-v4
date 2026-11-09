@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-09-019",
+  "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "collected_at": "2026-11-09T04:03:53.732354+00:00",
+  "summary": "Gemini Omni 1.2 Flash 是 Google 推出的新一代多模态模型，主打快速响应与高成本效益，并支持更长的视频/音频片段处理。该模型在保持 Gemini 系列强大推理能力的同时，优化了推理速度和资源消耗，适合实时交互、内容理解等对延迟敏感的应用场景。其命名中的“Omni”暗示全模态能力，可处理文本、图像、音频、视频等多种输入，而“Flash”版本则定位为轻量高效，在性能与成本之间取得平衡。",
+  "tags": [
+    "Gemini",
+    "多模态",
+    "Flash",
+    "成本效益",
+    "长片段"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "Gemini Omni 1.2 Flash 通过优化推理效率，在保持多模态能力的同时实现更快的响应和更低的成本，尤其适合处理长视频或音频内容。"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-09-012",
+  "title": "Australian universities are creating AI-native graduates",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+  "collected_at": "2026-11-09T04:03:53.732354+00:00",
+  "summary": "澳大利亚多所大学与OpenAI合作，将ChatGPT Enterprise和ChatGPT Edu引入教学与科研，并开发AI原生课程体系。该计划旨在让每位学生和教师都能接触生成式AI工具，同时通过教师培训、课程整合和学术诚信框架，确保AI技术被负责任地使用。此举旨在培养适应AI驱动型劳动力市场的毕业生，提升国家在AI教育领域的竞争力。",
+  "tags": [
+    "AI教育",
+    "ChatGPT",
+    "高等教育"
+  ],
+  "relevance_score": 0.75,
+  "category": "tool",
+  "key_insight": "澳大利亚大学通过系统性整合ChatGPT到课程中，将AI素养从选修变为必修，以培养AI原生代际人才。"
+}

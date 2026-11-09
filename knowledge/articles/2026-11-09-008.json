@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-09-008",
+  "title": "Firecracker VM Escape: PwnEscape Part 2",
+  "source": "Lobsters AI/ML",
+  "url": "https://pwn.ai/blog/firecracker-escape",
+  "collected_at": "2026-11-09T04:03:53.732354+00:00",
+  "summary": "本文是PwnEscape系列第二部分，深入探讨了针对AWS Firecracker轻量级虚拟机监控器的VM逃逸漏洞利用技术。文章详细分析了Firecracker的架构和攻击面，展示了如何通过精心构造的恶意负载从guest虚拟机逃逸到宿主机，实现权限提升和代码执行。研究揭示了Firecracker在隔离边界上的潜在弱点，并提供了具体的利用步骤和缓解建议，对云原生安全具有重要参考价值。",
+  "tags": [
+    "虚拟机逃逸",
+    "Firecracker",
+    "安全研究",
+    "漏洞利用",
+    "云原生安全"
+  ],
+  "relevance_score": 0.8,
+  "category": "security",
+  "key_insight": "Firecracker的VM逃逸漏洞利用揭示了轻量级虚拟化隔离机制中的关键安全缺陷，需通过强化攻击面监控和及时补丁来防护。"
+}
