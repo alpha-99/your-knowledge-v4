@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-10-009",
+  "title": "LLM-Based Feature Extraction for Multi-Criteria Inventory Classification",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.08626",
+  "collected_at": "2026-11-10T05:36:41.545056+00:00",
+  "summary": "该研究提出一种基于LLM的特征提取方法，将客户评论等非结构化数据转化为定量特征（通过向量嵌入和LLM生成的评估标准），并融入基于Hadi-Vencheh模型的多准则库存分类（MCIC）框架。实验表明，加入客户情感信号后，库存分类结果发生可测量的重排，证明整合非结构化数据能提升库存优先级排序的准确性，弥补传统ABC分析仅依赖结构化定量数据的不足。",
+  "tags": [
+    "LLM",
+    "特征提取",
+    "多准则库存分类",
+    "非结构化数据"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "利用LLM从客户评论中提取情感特征，可显著改善多准则库存分类的优先级排序。"
+}

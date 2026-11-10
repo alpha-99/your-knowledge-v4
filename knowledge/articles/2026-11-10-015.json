@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-10-015",
+  "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+  "collected_at": "2026-11-10T05:36:41.545056+00:00",
+  "summary": "本文介绍了一种名为HOPE（Higher-Order Pruning Experts）的新方法，用于在混合专家模型（MoE）中剪枝专家。传统剪枝方法独立评估每个专家的重要性，忽略了专家之间的协同作用。HOPE通过建模专家之间的高阶交互，识别并保留那些相互依赖的专家群组，从而在压缩模型的同时保持性能。实验表明，HOPE在多个任务上优于现有剪枝方法，显著减少参数数量而保持准确率。",
+  "tags": [
+    "mixture-of-experts",
+    "model-pruning",
+    "efficiency",
+    "collaboration"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "高阶剪枝通过考虑专家间的合作，比独立剪枝更有效地压缩MoE模型。"
+}

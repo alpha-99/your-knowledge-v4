@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-10-007",
+  "title": "Enhancing Academic Advisement with Case-Based Reasoning",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.08572",
+  "collected_at": "2026-11-10T05:36:41.545056+00:00",
+  "summary": "该研究探讨了基于案例推理（CBR）在学术咨询领域的应用。学术咨询是高等教育的重要职能，但现有服务有待改进。CBR专家系统已在多个领域成功应用，但尚未有效应用于学术咨询。论文设计、开发并验证了一个原型案例推理学术咨询推荐系统，作为传统咨询流程的补充，未来有望在潜力完全发挥时替代人工学术顾问。",
+  "tags": [
+    "Case-Based Reasoning",
+    "学术咨询",
+    "推荐系统",
+    "专家系统",
+    "教育技术"
+  ],
+  "relevance_score": 0.7,
+  "category": "agent",
+  "key_insight": "利用历史咨询案例的相似性匹配，CBR系统可有效辅助学术咨询，并具备替代人工顾问的潜力。"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-10-003",
+  "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+  "source": "Hacker News Best",
+  "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+  "collected_at": "2026-11-10T05:36:41.545056+00:00",
+  "summary": "Claude Fable 5.2 在 Artificial Analysis 综合评估中取得 65 分，成为该平台历史最高分。该模型在推理、知识、编码、数学等多项能力上表现卓越，超越了当前主流前沿模型（如 GPT-4o、Gemini 等），标志着大语言模型能力的新里程碑。这一成绩凸显了 Anthropic 在 AI 前沿竞争中的领先地位，也反映了模型在复杂任务上的强大泛化能力。",
+  "tags": [
+    "llm",
+    "benchmark",
+    "model-evaluation"
+  ],
+  "relevance_score": 0.9,
+  "category": "llm",
+  "key_insight": "Claude Fable 5.2 在 Artificial Analysis 上登顶，显示 Anthropic 在通用大模型能力上已取得显著优势。"
+}

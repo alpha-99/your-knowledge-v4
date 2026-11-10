@@ -922,5 +922,155 @@
     "title": "Apple is racing to make Siri more agentic",
     "category": "agent",
     "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-10-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-10-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-10-002",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-11-10-003",
+    "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+    "category": "llm",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-10-004",
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-10-005",
+    "title": "Catching prompt injections hidden in PDFs",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-10-006",
+    "title": "Reflections on Rust in the LLM Age",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-10-007",
+    "title": "Enhancing Academic Advisement with Case-Based Reasoning",
+    "category": "agent",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-10-008",
+    "title": "NormGym: Evaluating Normative Competence through Social Interaction",
+    "category": "agent",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-10-009",
+    "title": "LLM-Based Feature Extraction for Multi-Criteria Inventory Classification",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-10-010",
+    "title": "Did we ever really get to the bottom of why BatchNorm works? [D]",
+    "category": "deep_learning",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-10-011",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "category": "llm",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-10-012",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "category": "framework",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-10-013",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-10-014",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-10-015",
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-10-016",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "category": "framework",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-10-017",
+    "title": "How Stripe Built Kai on Deep Agents in 1 Week",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-10-018",
+    "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-10-019",
+    "title": "Iterating Towards LLM Reliability with Evaluation Driven Development",
+    "category": "llm",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-10-020",
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-10-021",
+    "title": "The latest AI news we announced in October 2026",
+    "category": "llm",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-10-022",
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "category": "tool",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-10-023",
+    "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+    "category": "tool",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-10-024",
+    "title": "What could China get from Jensen Huang?",
+    "category": "hardware",
+    "relevance_score": 0.8
   }
 ]

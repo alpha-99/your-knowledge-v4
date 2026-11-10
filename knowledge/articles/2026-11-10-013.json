@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-10-013",
+  "title": "CodeRabbit scales agentic software development and ships 20x more",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/coderabbit-codex-daybreak",
+  "collected_at": "2026-11-10T05:36:41.545056+00:00",
+  "summary": "CodeRabbit通过集成OpenAI模型（如Codex）实现AI代码审查与治理，使工程团队在相同人力下交付20倍软件。其核心在于将AI生成代码的信任机制嵌入开发流程，利用模型自动验证、修复和优化代码，显著提升开发效率与代码质量，同时降低人工审查负担。",
+  "tags": [
+    "AI代码审查",
+    "Codex",
+    "开发效率"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "AI代理通过自动化代码治理与信任机制，可将软件交付效率提升20倍。"
+}

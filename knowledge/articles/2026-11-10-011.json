@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-10-011",
+  "title": "ChatGPT Enterprise now available in AWS Marketplace",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+  "collected_at": "2026-11-10T05:36:41.545056+00:00",
+  "summary": "OpenAI 宣布 ChatGPT Enterprise 现已在 AWS Marketplace 上线，允许企业通过现有的 AWS 采购和账单关系简化购买流程。此举降低了企业采用 ChatGPT Enterprise 的门槛，使客户能够利用 AWS 的合同和计费基础设施，实现更便捷的部署和管理。该集成有助于加速企业级 AI 的普及，并强化了 OpenAI 与 AWS 的合作伙伴关系。",
+  "tags": [
+    "ChatGPT Enterprise",
+    "AWS Marketplace",
+    "企业级AI"
+  ],
+  "relevance_score": 0.7,
+  "category": "llm",
+  "key_insight": "通过 AWS Marketplace 提供 ChatGPT Enterprise，OpenAI 利用现有云采购渠道降低企业采用门槛，加速企业级 AI 的规模化部署。"
+}

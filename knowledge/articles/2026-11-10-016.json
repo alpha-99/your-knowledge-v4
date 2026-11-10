@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-10-016",
+  "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/allenai/toyblocks",
+  "collected_at": "2026-11-10T05:36:41.545056+00:00",
+  "summary": "ToyBlocks是一个用于机器人学习和评估的受控模拟世界，由Allen AI开发。它提供可配置的积木搭建任务，支持多模态输入和可复现实验，旨在帮助研究者测试机器人操作策略的泛化能力。该环境强调对物理参数和任务难度的精细控制，为强化学习研究提供标准化基准。",
+  "tags": [
+    "机器人学习",
+    "模拟环境",
+    "基准测试",
+    "强化学习",
+    "控制世界"
+  ],
+  "relevance_score": 0.8,
+  "category": "framework",
+  "key_insight": "ToyBlocks通过受控的模拟环境，使机器人学习研究能够进行可重复、可配置的实验，从而更好地评估策略的泛化能力。"
+}

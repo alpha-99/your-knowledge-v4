@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-10-019",
+  "title": "Iterating Towards LLM Reliability with Evaluation Driven Development",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/iterating-towards-llm-reliability-with-evaluation-driven-development",
+  "collected_at": "2026-11-10T05:36:41.545056+00:00",
+  "summary": "文章介绍Dosu公司采用评估驱动开发（EDD）结合LangSmith平台，构建可靠的LLM产品。EDD将评估作为开发核心，通过持续测试和监控生产性能，使团队能够快速迭代并保持信心。LangSmith提供追踪、评估和监控工具，帮助识别问题、优化提示和模型，确保产品在规模上稳定可靠。",
+  "tags": [
+    "评估驱动开发",
+    "LangSmith",
+    "LLM可靠性"
+  ],
+  "relevance_score": 0.9,
+  "category": "llm",
+  "key_insight": "评估驱动开发通过将评估嵌入开发循环，结合LangSmith监控，使LLM产品迭代更可靠、更高效。"
+}

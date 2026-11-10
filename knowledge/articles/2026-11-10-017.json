@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-10-017",
+  "title": "How Stripe Built Kai on Deep Agents in 1 Week",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents",
+  "collected_at": "2026-11-10T05:36:41.545056+00:00",
+  "summary": "Stripe利用LangChain、LangGraph和Deep Agents框架，仅用一周时间构建了公司级AI代理Kai，并在约四周内吸引5000名用户。该代理整合企业知识，展示了模块化框架和深度代理如何显著加速AI代理的开发与部署，验证了快速构建企业级AI应用的可行性。",
+  "tags": [
+    "AI Agent",
+    "LangChain",
+    "企业应用"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "借助成熟的代理框架（如LangGraph和Deep Agents），企业能在极短时间内构建并推广AI代理，实现快速用户增长。"
+}

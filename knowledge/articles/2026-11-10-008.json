@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-10-008",
+  "title": "NormGym: Evaluating Normative Competence through Social Interaction",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.08613",
+  "collected_at": "2026-11-10T05:36:41.545056+00:00",
+  "summary": "NormGym是一个交互式基准，用于评估代理在陌生社区中通过社会互动获取未知规范的能力。现有评估多测试已知规范的应用，而NormGym要求代理推断隐藏规范并同时完成任务。最强LLM联合成功率仅55.3%，模型难以利用他人行为和制裁来推断规范，微调效果有限。结果表明当前模型缺乏通过社会互动获取规范知识的鲁棒能力。",
+  "tags": [
+    "规范性能力",
+    "社会互动",
+    "LLM代理"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "当前LLM难以通过观察他人行为推断隐藏规范，规范性能力不足。"
+}

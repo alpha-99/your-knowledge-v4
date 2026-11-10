@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-10-012",
+  "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/control-room",
+  "collected_at": "2026-11-10T05:36:41.545056+00:00",
+  "summary": "OpenAI 的 Control Room 是一个集中式系统，用于实时跟踪研究基础设施中的模型工作负载，并在出现安全或安保问题时快速停止它们。该系统提供统一的可观测性，支持自动化和人工干预，确保大规模模型训练和推理过程的安全可控。它集成了监控、告警和紧急停机机制，是保障前沿 AI 研究安全的关键基础设施。",
+  "tags": [
+    "安全",
+    "基础设施",
+    "工作负载管理"
+  ],
+  "relevance_score": 0.85,
+  "category": "framework",
+  "key_insight": "Control Room 通过集中监控与快速停机机制，将 AI 安全从事后响应提升为实时主动防御。"
+}

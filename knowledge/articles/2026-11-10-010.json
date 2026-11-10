@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-10-010",
+  "title": "Did we ever really get to the bottom of why BatchNorm works? [D]",
+  "source": "Reddit r/MachineLearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1xsasyf/did_we_ever_really_get_to_the_bottom_of_why/",
+  "collected_at": "2026-11-10T05:36:41.545056+00:00",
+  "summary": "该帖子回顾了BatchNorm（批量归一化）为何有效的长期争论。早期解释认为其通过减少内部协变量偏移来稳定训练，但后续研究（如Santurkar等人2018年）表明，真正原因在于平滑优化景观，使梯度更稳定，从而允许更高学习率。此外，BatchNorm还兼具隐式正则化作用。尽管因依赖batch统计而带来不便，它仍是深度学习中的经典组件。",
+  "tags": [
+    "BatchNorm",
+    "深度学习",
+    "优化",
+    "正则化",
+    "神经网络"
+  ],
+  "relevance_score": 0.8,
+  "category": "deep_learning",
+  "key_insight": "BatchNorm的有效性主要源于平滑优化景观，而非减少内部协变量偏移。"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-10-004",
+  "title": "Claude Fable 5.2 and Mythos 5.2",
+  "source": "Hacker News Best",
+  "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+  "collected_at": "2026-11-10T05:36:41.545056+00:00",
+  "summary": "Anthropic 发布 Claude Fable 5.2 和 Mythos 5.2，两个面向创意写作与叙事生成的专用大语言模型。基于 Claude 架构，它们针对寓言、神话等文体进行优化，旨在提升长故事生成中的连贯性、角色一致性和情感表达。该发布在 Hacker News 上获得 969 分高热度，反映社区对创意 AI 工具的关注。",
+  "tags": [
+    "claude",
+    "anthropic",
+    "creative-writing"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "Anthropic 推出面向创意写作的专用模型，强调叙事连贯性与文体适配。"
+}
