@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-11-023",
+  "title": "Google Cloud launches Gemini for healthcare.",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+  "collected_at": "2026-11-11T04:08:35.053398+00:00",
+  "summary": "Google Cloud推出Gemini for healthcare，旨在通过统一临床数据和自动化工作流来减轻医疗行政负担。该模型整合了分散的医疗数据，帮助医生更高效地处理病历、文档和流程，减少重复性工作。它利用大语言模型的能力，针对医疗场景进行优化，可能涉及多模态数据处理和行业特定工具。这标志着AI在医疗领域的深入应用，有望提升医疗效率并改善患者护理。",
+  "tags": [
+    "healthcare",
+    "gemini",
+    "workflow automation"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "通过统一临床数据和自动化工作流，Gemini for healthcare旨在减轻医疗行政负担，提升效率。"
+}

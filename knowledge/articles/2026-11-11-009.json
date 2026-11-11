@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-11-009",
+  "title": "Veterans' Mental Health Crisis Severity Annotation: Do LLMs Agree More Than Human Experts?",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.10048",
+  "collected_at": "2026-11-11T04:08:35.053398+00:00",
+  "summary": "该研究评估了25个LLM（15个开源、10个专有）在标注149条退伍军人相关推文危机严重程度（5级）时的表现，与8位专家标注对比。结果显示，人类专家序数一致性α=0.494，而LLM基线提示下序数一致性达0.8336，但高一致性不等于与专家判断一致。专有模型整体更优，GPT-5.6-Terra最佳，开源Qwen2.5-7B在识别急性自杀意念危机上最强。标签翻转实验表明模型对误导性示例敏感，解释性演示无稳定增益。LLM可作为专家标注的补充，但用于高风险心理健康场景前需严格评估。",
+  "tags": [
+    "LLM",
+    "心理健康",
+    "危机标注",
+    "一致性评估",
+    "高风险应用"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "LLM在危机严重度标注中模型间一致性高，但与人类专家的一致性有限，且对误导性示例敏感，不能直接替代专家判断。"
+}

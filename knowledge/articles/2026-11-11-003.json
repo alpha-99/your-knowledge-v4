@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-11-003",
+  "title": "AI usage generates a fragile codebase",
+  "source": "Hacker News Best",
+  "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+  "collected_at": "2026-11-11T04:08:35.053398+00:00",
+  "summary": "文章指出，过度依赖AI生成代码会快速产出大量代码，但往往缺乏清晰架构、模块边界和测试覆盖，导致代码库变得脆弱、难以维护。作者认为，AI辅助编程虽然提升了开发速度，却容易积累技术债务，增加后续修复成本。建议开发者在使用AI时，仍需坚持代码审查、设计文档和自动化测试，以平衡效率与质量。",
+  "tags": [
+    "AI编程",
+    "代码质量",
+    "技术债务",
+    "软件工程"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "AI生成代码虽快，但若缺乏架构约束和测试，会积累技术债务，导致脆弱代码库。"
+}

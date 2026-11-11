@@ -1072,5 +1072,167 @@
     "title": "What could China get from Jensen Huang?",
     "category": "hardware",
     "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-11-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-11-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-11-11-002",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-11-003",
+    "title": "AI usage generates a fragile codebase",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-11-004",
+    "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+    "category": "llm",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-11-005",
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-11-006",
+    "title": "Online learning on the programmable dataplane (2022)",
+    "category": "ml",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-11-007",
+    "title": "Catching prompt injections hidden in PDFs",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-11-008",
+    "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-11-009",
+    "title": "Veterans' Mental Health Crisis Severity Annotation: Do LLMs Agree More Than Human Experts?",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-11-010",
+    "title": "LoRazor: Trimming Adapter Execution for Efficient Multi-LoRA Serving",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-11-011",
+    "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
+    "category": "framework",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-11-012",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-11-013",
+    "title": "Helping caregivers use AI in everyday life",
+    "category": "tool",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-11-014",
+    "title": "Introducing Businesses in ChatGPT",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-11-015",
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "category": "tool",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-11-016",
+    "title": "Decision Models in Hugging Face",
+    "category": "framework",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-11-017",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-11-018",
+    "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-11-019",
+    "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-11-020",
+    "title": "How Workday Built an Enterprise-Scale AI Agent Platform with LangGraph and LangSmith",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-11-021",
+    "title": "Gemini Intelligence: New features, on more devices",
+    "category": "llm",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-11-022",
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-11-023",
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-11-024",
+    "title": "The US is winning the AI race. Jensen Huang could have blown it",
+    "category": "industry",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-11-025",
+    "title": "ChatGPT is getting verified AI ‘Business Agents’",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-11-026",
+    "title": "The indie game community is in disarray over AI and Big Walk",
+    "category": "tool",
+    "relevance_score": 0.7
   }
 ]

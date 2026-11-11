@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-11-005",
+  "title": "Claude Fable 5.2 and Mythos 5.2",
+  "source": "Hacker News Best",
+  "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+  "collected_at": "2026-11-11T04:08:35.053398+00:00",
+  "summary": "Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2，这是面向创意写作与叙事推理的专用模型系列。Fable 5.2 侧重文学性表达与风格模仿，Mythos 5.2 则强化神话、传说及跨文化叙事结构理解。两者在保持 Claude 核心能力基础上，针对长文本连贯性、隐喻生成和角色一致性进行专项优化，旨在提升 AI 在虚构创作、剧本辅助及教育叙事场景中的实用价值。",
+  "tags": [
+    "Claude",
+    "创意写作",
+    "叙事模型",
+    "Anthropic"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "通过领域专用微调，将通用大模型能力定向转化为高保真文学创作工具，标志着 LLM 从通用向垂直场景的深度分化。"
+}

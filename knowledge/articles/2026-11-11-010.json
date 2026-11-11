@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-11-010",
+  "title": "LoRazor: Trimming Adapter Execution for Efficient Multi-LoRA Serving",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.10049",
+  "collected_at": "2026-11-11T04:08:35.053398+00:00",
+  "summary": "LoRazor是一个多LoRA服务框架，通过早期释放适配器（adapter）并结合活动行感知的GPU内核来提升推理效率。研究发现，在解码过程中并非每一步都需要LoRA适配器，提前释放它们对精度影响有限，但能显著加速生成。LoRazor动态调整LoRA内核启动，修剪空闲GPU块，在vLLM多LoRA基础上实现最高3.02倍请求吞吐量和2.53倍输出token吞吐量，平均任务精度下降仅2.89%。",
+  "tags": [
+    "LoRA",
+    "多租户推理",
+    "GPU内核优化",
+    "服务框架"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "通过动态提前释放LoRA适配器并配合活动行感知内核，可大幅提升多LoRA服务的吞吐量，且精度损失可接受。"
+}

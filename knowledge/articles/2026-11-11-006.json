@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-11-006",
+  "title": "Online learning on the programmable dataplane (2022)",
+  "source": "Lobsters AI/ML",
+  "url": "https://theses.gla.ac.uk/83235/3/2022SimpsonPhD.pdf",
+  "collected_at": "2026-11-11T04:08:35.053398+00:00",
+  "summary": "该研究探索在可编程数据平面（如P4交换机）上部署在线学习算法，以在数据包处理路径中实现实时预测和决策。通过将机器学习模型映射到数据平面硬件，实现低延迟、高吞吐量的在线学习，用于流量分类、负载均衡和入侵检测等网络任务。论文评估了可行性和性能，展示了在可编程硬件上运行在线学习的潜力。",
+  "tags": [
+    "可编程数据平面",
+    "在线学习",
+    "网络"
+  ],
+  "relevance_score": 0.8,
+  "category": "ml",
+  "key_insight": "将在线学习算法直接嵌入可编程数据平面，可实现微秒级实时网络智能。"
+}

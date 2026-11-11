@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-11-014",
+  "title": "Introducing Businesses in ChatGPT",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/introducing-businesses-chatgpt",
+  "collected_at": "2026-11-11T04:08:35.053398+00:00",
+  "summary": "OpenAI推出ChatGPT企业版功能，允许企业直接管理其业务信息，包括品牌展示、产品描述等，并获取关于企业如何在ChatGPT中呈现的洞察。该功能旨在帮助企业将用户兴趣转化为实际行动，如引导至网站或促成交易。通过这一更新，ChatGPT从通用对话助手演变为商业平台，企业可优化其数字形象，追踪用户互动，并利用AI驱动的洞察提升转化率。",
+  "tags": [
+    "ChatGPT",
+    "企业服务",
+    "商业洞察"
+  ],
+  "relevance_score": 0.85,
+  "category": "tool",
+  "key_insight": "ChatGPT正从对话助手扩展为商业平台，企业可管理品牌信息并追踪用户互动以提升转化。"
+}

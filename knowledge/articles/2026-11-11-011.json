@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-11-011",
+  "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
+  "source": "Reddit r/MachineLearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
+  "collected_at": "2026-11-11T04:08:35.053398+00:00",
+  "summary": "作者对Google TimesFM 3.0、Amazon Chronos-2和Datadog Toto 2.0三个时间序列基础模型进行了零样本基准测试，覆盖24只美国股票和ETF的日线、小时及5分钟数据。结果显示，模型的方向预测准确率在49.9%-51.1%之间，接近随机水平，而简单预测每日上涨的基线达到52.2%。在模拟随机游走数据上，模型表现与真实数据类似，说明未提取到有效信号。简单策略回测中，模型策略收益低于买入持有。结论：这些基础模型在金融市场价格预测上未超越朴素基线。",
+  "tags": [
+    "时间序列预测",
+    "基础模型",
+    "金融",
+    "基准测试",
+    "零样本"
+  ],
+  "relevance_score": 0.8,
+  "category": "framework",
+  "key_insight": "时间序列基础模型在金融市场价格预测上未能超越简单基线，零样本预测能力有限。"
+}

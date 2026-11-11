@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-11-020",
+  "title": "How Workday Built an Enterprise-Scale AI Agent Platform with LangGraph and LangSmith",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/how-workday-built-an-enterprise-scale-ai-agent-platform-with-langgraph-and-langsmith",
+  "collected_at": "2026-11-11T04:08:35.053398+00:00",
+  "summary": "Workday利用LangGraph和LangSmith构建了企业级AI Agent平台，将原型开发时间从数月缩短至不到一天，同时满足严格的合规要求。该平台通过LangGraph的图结构实现复杂工作流编排，结合LangSmith的监控与追踪能力，确保可观测性和审计合规。这一实践展示了如何将开源框架与内部治理结合，快速构建安全、可扩展的AI代理系统。",
+  "tags": [
+    "AI Agent",
+    "LangGraph",
+    "LangSmith",
+    "企业级平台",
+    "合规"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "利用LangGraph的图编排和LangSmith的监控，Workday实现了从原型到生产的高效迭代，同时满足企业合规要求。"
+}

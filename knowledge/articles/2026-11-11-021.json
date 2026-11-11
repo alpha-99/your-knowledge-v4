@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-11-021",
+  "title": "Gemini Intelligence: New features, on more devices",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+  "collected_at": "2026-11-11T04:08:35.053398+00:00",
+  "summary": "Google 在 Android 平台上扩展 Gemini Intelligence 功能，强调语音交互和多设备支持。该更新可能引入更智能的语音助手能力，结合多模态输入（语音、文本、图像）和端侧模型推理，提升用户体验。文章重点在于将 Gemini 的智能功能部署到更多设备，包括手机和平板，并可能涉及个性化响应、上下文理解等。",
+  "tags": [
+    "Gemini",
+    "Android",
+    "多模态",
+    "语音交互",
+    "端侧AI"
+  ],
+  "relevance_score": 0.75,
+  "category": "llm",
+  "key_insight": "Gemini Intelligence 通过语音交互和多设备部署，强化了 Android 生态中的 AI 助手体验。"
+}

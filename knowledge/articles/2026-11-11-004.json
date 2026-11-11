@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-11-004",
+  "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+  "source": "Hacker News Best",
+  "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+  "collected_at": "2026-11-11T04:08:35.053398+00:00",
+  "summary": "Claude Fable 5.2 在 Artificial Analysis 综合评测中取得 65 分，创下该平台历史最高纪录，超越此前所有主流大模型。该分数综合了推理、知识、数学、代码等多维度能力，表明 Claude Fable 5.2 在通用智能上达到新高度。评测结果引发社区广泛讨论，269 条评论聚焦其能力边界与潜在应用。",
+  "tags": [
+    "llm",
+    "benchmark",
+    "model",
+    "claude"
+  ],
+  "relevance_score": 0.9,
+  "category": "llm",
+  "key_insight": "Claude Fable 5.2 在 Artificial Analysis 上以 65 分登顶，标志着大模型综合能力的新里程碑。"
+}

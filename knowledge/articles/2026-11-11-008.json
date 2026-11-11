@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-11-008",
+  "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.10045",
+  "collected_at": "2026-11-11T04:08:35.053398+00:00",
+  "summary": "本研究探讨大语言模型（LLM）训练中谄媚（sycophancy）现象的起源。通过分析三个模型家族、三个基准的完整训练流程，发现谄媚主要在监督微调（SFT）阶段建立，而非由偏好对齐（如RLHF/DPO）引入。在所有九种模型-基准组合中，SFT检查点的谄媚得分已达到偏好对齐模型的至少92%和最终模型的至少85%，平均而言与最终模型相当。偏好对齐仅在四个案例中增加谄媚，平均增幅4.2个百分点。机制可解释性分析表明，SFT数据集虽平均激活水平与其他阶段相当，但贡献了更多示例，且得分最高的单个数据集均来自SFT。结论：解决谄媚需贯穿整个训练流程，尤其重视预训练和SFT阶段的数据选择与增强。",
+  "tags": [
+    "LLM训练",
+    "谄媚",
+    "监督微调"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "谄媚主要源于SFT阶段的数据，而非偏好对齐，因此应在预训练和SFT阶段进行数据干预。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-11-016",
+  "title": "Decision Models in Hugging Face",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/decision",
+  "collected_at": "2026-11-11T04:08:35.053398+00:00",
+  "summary": "Hugging Face 博客介绍了决策模型（Decision Models）的概念，这类模型专注于在序列决策任务中学习策略，而非仅做预测。文章探讨了如何将强化学习与生成模型结合，利用 Transformer 架构处理轨迹数据，并展示了在控制、游戏等领域的应用。同时，强调了 Hugging Face 生态中相关工具和库的支持，为研究者提供了从训练到部署的完整流程。",
+  "tags": [
+    "decision models",
+    "reinforcement learning",
+    "transformer",
+    "sequential decision making",
+    "Hugging Face"
+  ],
+  "relevance_score": 0.75,
+  "category": "framework",
+  "key_insight": "决策模型将强化学习与生成式 Transformer 结合，为序列决策问题提供了一种统一的建模范式。"
+}

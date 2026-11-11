@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-11-022",
+  "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+  "collected_at": "2026-11-11T04:08:35.053398+00:00",
+  "summary": "Google与Adobe宣布深化合作，将Adobe的创意和生产力工具集成到Google日常应用中。用户可直接在Google Drive中编辑PDF文件，并在Gemini中调用Adobe的AI功能（如Firefly图像生成、PDF智能处理）。该整合旨在简化工作流程，让用户无需切换应用即可完成创意与文档任务，同时利用Adobe的AI模型增强Gemini的创作能力。",
+  "tags": [
+    "Google",
+    "Adobe",
+    "AI集成",
+    "生产力工具",
+    "PDF编辑"
+  ],
+  "relevance_score": 0.85,
+  "category": "tool",
+  "key_insight": "将Adobe的专业AI能力嵌入Google生态，显著降低创意与文档处理门槛，提升跨平台工作效率。"
+}
