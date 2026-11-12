@@ -1234,5 +1234,113 @@
     "title": "The indie game community is in disarray over AI and Big Walk",
     "category": "tool",
     "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-12-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-12-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-11-12-002",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-12-003",
+    "title": "Writing a SIGGRAPH paper from scratch",
+    "category": "tool",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-12-004",
+    "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "category": "infrastructure",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-12-005",
+    "title": "Can we talk about the ML research coming from China? [D]",
+    "category": "llm",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-12-006",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-12-007",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "category": "llm",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-12-008",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "category": "llm",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-12-009",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-12-010",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "category": "rag",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-12-011",
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "category": "tool",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-12-012",
+    "title": "How our GTM Agent builds consistent, high-quality sales artifacts",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-12-013",
+    "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-12-014",
+    "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-12-015",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-12-016",
+    "title": "United won’t let your AI agent book your flight",
+    "category": "agent",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-12-017",
+    "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "category": "tool",
+    "relevance_score": 0.75
   }
 ]

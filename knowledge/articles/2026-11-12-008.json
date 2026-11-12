@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-12-008",
+  "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/jiostar-vijay-seshadri",
+  "collected_at": "2026-11-12T05:20:10.629060+00:00",
+  "summary": "本文是JioStar首席架构师Vijay Seshadri关于在5亿用户规模下实现AI发现（AI discovery）的分享。他总结了将AI引入生产环境的经验教训，包括建立全面的评估体系（evals）、实施有效的护栏（guardrails）以确保安全与质量，以及应对大规模部署中的挑战。文章强调了在超大规模用户场景下，AI系统需要严谨的测试、监控和迭代，同时平衡用户体验与业务目标。这些实践为其他大型平台提供了宝贵的参考。",
+  "tags": [
+    "AI discovery",
+    "evals",
+    "guardrails",
+    "production",
+    "scale"
+  ],
+  "relevance_score": 0.9,
+  "category": "llm",
+  "key_insight": "大规模AI发现系统的成功关键在于严格的评估、护栏和渐进式生产部署。"
+}

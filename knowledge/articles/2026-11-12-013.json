@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-12-013",
+  "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
+  "collected_at": "2026-11-12T05:20:10.629060+00:00",
+  "summary": "文章探讨了AI智能体的上下文工程，指出智能体常因检索不当而浪费上下文窗口和时间。通过LangChain的Deep Agents框架，介绍了如何利用检索技术获取正确上下文：包括精准搜索、结果过滤和新鲜度管理。强调检索是上下文工程的起点，直接影响智能体性能。",
+  "tags": [
+    "上下文工程",
+    "智能体记忆",
+    "检索技术"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "检索是智能体上下文工程的核心起点，正确的检索策略能显著提升智能体的效率和准确性。"
+}

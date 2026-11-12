@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-12-017",
+  "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+  "collected_at": "2026-11-12T05:20:10.629060+00:00",
+  "summary": "Google推出实验性AI工具Tabletop，允许用户通过自然语言描述生成定制化的协作中心，用于与家人、朋友协调事务。该平台在视觉上类似Asana、Monday等管理应用，但内置AI功能支持'vibecode'个性化交互工具，用户无需编程即可创建专属应用。目前处于测试阶段，可通过候补名单申请使用。",
+  "tags": [
+    "Google",
+    "AI实验",
+    "协作工具",
+    "无代码",
+    "自然语言生成"
+  ],
+  "relevance_score": 0.75,
+  "category": "tool",
+  "key_insight": "AI驱动的无代码协作平台，通过自然语言描述即可生成定制化应用，降低协作工具的使用门槛。"
+}

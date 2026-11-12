@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-12-003",
+  "title": "Writing a SIGGRAPH paper from scratch",
+  "source": "Lobsters AI/ML",
+  "url": "https://alexandergoslin.me/writing-a-siggraph-paper-from-scratch/",
+  "collected_at": "2026-11-12T05:20:10.629060+00:00",
+  "summary": "本文作者分享了从零开始撰写SIGGRAPH论文的完整经历，包括选题、实验设计、论文写作和投稿流程。文章结合了计算机图形学与人工智能的交叉领域，探讨了如何利用深度学习技术解决图形学问题，并给出了实用的写作建议和时间管理策略。作者强调了创新性和实验验证的重要性，为初学者提供了宝贵的参考。",
+  "tags": [
+    "SIGGRAPH",
+    "论文写作",
+    "计算机图形学"
+  ],
+  "relevance_score": 0.7,
+  "category": "tool",
+  "key_insight": "从零开始撰写SIGGRAPH论文需要系统性的规划和对图形学与AI交叉领域的深入理解。"
+}

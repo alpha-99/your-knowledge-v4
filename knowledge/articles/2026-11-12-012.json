@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-12-012",
+  "title": "How our GTM Agent builds consistent, high-quality sales artifacts",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/gtm-agent-high-quality-sales-artifacts",
+  "collected_at": "2026-11-12T05:20:10.629060+00:00",
+  "summary": "LangChain 基于 Deep Agents 框架构建了 GTM Agent，用于生成高质量、定制化的销售工件（如外联邮件、通话摘要、竞争情报等）。该 Agent 将企业业务上下文（产品、定价、客户画像等）注入推理流程，通过多步骤规划与工具调用，确保输出内容一致且符合品牌规范。文章展示了如何利用深度智能体架构解决销售场景中内容质量与个性化难以兼顾的问题。",
+  "tags": [
+    "GTM Agent",
+    "Deep Agents",
+    "销售自动化",
+    "LangChain",
+    "业务上下文"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "将企业业务上下文作为推理核心，Deep Agents 能稳定生成高质量、定制化的销售工件，实现销售内容自动化与品牌一致性的统一。"
+}

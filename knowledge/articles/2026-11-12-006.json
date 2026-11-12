@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-12-006",
+  "title": "Gilbert + Tobin rethinks the business of law with AI",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+  "collected_at": "2026-11-12T05:20:10.629060+00:00",
+  "summary": "Gilbert + Tobin 律师事务所 CEO Sam Nickless 分享与 OpenAI 合作，将 AI 融入法律业务。通过定制化 LLM 应用，律所实现文档审查、法律研究自动化，提升效率并重塑服务模式。AI 并非替代律师，而是增强专业判断，改变计费方式与客户关系。该案例展示法律行业如何从传统人力密集型转向技术驱动型，同时强调数据隐私与伦理治理的重要性。",
+  "tags": [
+    "法律科技",
+    "LLM应用",
+    "企业转型"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "AI 正在将法律业务从按小时计费转向基于价值的服务，通过自动化处理常规任务释放律师专注于高价值工作。"
+}

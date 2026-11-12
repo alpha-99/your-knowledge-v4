@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-12-014",
+  "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+  "collected_at": "2026-11-12T05:20:10.629060+00:00",
+  "summary": "本文探讨了长时运行的AI代理如何因上下文堆积而性能退化。提出通过上下文工程技术，包括卸载（offloading）、摘要（summarization）、技能（skills）、子代理（subagents）和记忆（memory）等策略，来保持代理的上下文窗口聚焦。这些方法帮助代理在不将所有信息保留在上下文中的情况下有效记忆和利用历史信息，从而提升长时任务的稳定性和效率。",
+  "tags": [
+    "context engineering",
+    "agent",
+    "memory",
+    "summarization",
+    "subagents"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "通过卸载、摘要、技能、子代理和记忆等上下文工程策略，可以保持代理的上下文窗口聚焦，避免长时运行时的性能退化。"
+}

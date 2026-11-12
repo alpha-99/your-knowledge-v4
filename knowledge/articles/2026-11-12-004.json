@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-12-004",
+  "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+  "source": "Lobsters AI/ML",
+  "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+  "collected_at": "2026-11-12T05:20:10.629060+00:00",
+  "summary": "文章讲述了Jane Street在纽约唯一的数据中心因一个假烟雾报警器而差点被水淹没的事件。烟雾报警器误报触发了灭火系统，导致水淹风险，险些造成数据中心瘫痪。事件揭示了数据中心基础设施中报警系统可靠性的关键问题，以及误报可能带来的灾难性后果。作者通过这一案例强调了数据中心安全设计和应急响应的重要性。",
+  "tags": [
+    "数据中心",
+    "基础设施",
+    "可靠性",
+    "报警系统",
+    "水灾风险"
+  ],
+  "relevance_score": 0.8,
+  "category": "infrastructure",
+  "key_insight": "假烟雾报警器误触发灭火系统，可能对数据中心造成水淹灾难，凸显报警系统可靠性的关键作用。"
+}

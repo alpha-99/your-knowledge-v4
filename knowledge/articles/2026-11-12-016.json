@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-12-016",
+  "title": "United won’t let your AI agent book your flight",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+  "collected_at": "2026-11-12T05:20:10.629060+00:00",
+  "summary": "美联航宣布不允许个人AI助手直接预订机票，主要出于隐私和监管担忧。尽管目前使用AI代理订票的用户很少，但航空公司担心未来可能出现的责任和合规问题。这反映了AI代理在现实世界服务中面临的授权和信任挑战，也提示了AI代理在商业应用中需要明确的权限管理和法规遵循。",
+  "tags": [
+    "AI agent",
+    "航空业",
+    "隐私监管"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "AI代理在现实世界服务中的授权和合规挑战，需要明确的权限管理和法规遵循。"
+}

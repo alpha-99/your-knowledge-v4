@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-12-005",
+  "title": "Can we talk about the ML research coming from China? [D]",
+  "source": "Reddit r/MachineLearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
+  "collected_at": "2026-11-12T05:20:10.629060+00:00",
+  "summary": "帖子讨论中国ML研究者（尤其在中国）的高产现象：本科生/研究生发表100-200篇论文，每周一篇，合作者众多，研究集中在LLM/多模态，实验规模庞大而理论推导较少，部分论文疑似含LLM生成痕迹但仍被ICLR/AAAI接受。作者质疑是否存在学术互惠网络或非正式合作机制，并指出中国学术招聘生态相对封闭。整体反映对中国ML研究产出模式和学术诚信的观察与疑虑。",
+  "tags": [
+    "中国ML研究",
+    "论文产量",
+    "LLM",
+    "学术生态",
+    "实验导向"
+  ],
+  "relevance_score": 0.7,
+  "category": "llm",
+  "key_insight": "中国ML研究高产但重实验轻理论，引发对学术诚信和生态的质疑。"
+}
