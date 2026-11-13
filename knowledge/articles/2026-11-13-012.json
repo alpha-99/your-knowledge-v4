@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-13-012",
+  "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/3d-lora-finetuning",
+  "collected_at": "2026-11-13T04:35:30.393881+00:00",
+  "summary": "该指南系统介绍了3D生成模型的微调方法，涵盖数据准备、LoRA参数高效微调技术、训练策略与评估指标。重点展示了如何利用低秩适配器在保持预训练模型能力的同时，实现风格迁移、物体定制等任务，并提供了从数据构建到部署的完整流程。",
+  "tags": [
+    "3D生成",
+    "LoRA微调",
+    "扩散模型"
+  ],
+  "relevance_score": 0.75,
+  "category": "framework",
+  "key_insight": "通过LoRA等参数高效微调方法，可低成本定制3D生成模型，实现风格与内容控制。"
+}

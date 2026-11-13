@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-13-004",
+  "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+  "source": "Hacker News Best",
+  "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+  "collected_at": "2026-11-13T04:35:30.393881+00:00",
+  "summary": "美联航宣布禁止AI代理（如ChatGPT等）代表旅客进行航班预订，理由是安全、欺诈和客户服务问题。该政策影响使用AI工具自动完成预订的第三方服务，强调人工确认的重要性。此举反映航空业对AI代理的谨慎态度，可能引发行业连锁反应。",
+  "tags": [
+    "AI代理",
+    "航班预订",
+    "政策限制",
+    "美联航",
+    "旅行行业"
+  ],
+  "relevance_score": 0.7,
+  "category": "agent",
+  "key_insight": "AI代理在关键服务领域的应用需平衡效率与安全，美联航的禁令凸显了信任和合规问题。"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-13-015",
+  "title": "Own Your Intelligence: The Key to Lasting AI Advantage",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/own-your-intelligence",
+  "collected_at": "2026-11-13T04:35:30.393881+00:00",
+  "summary": "文章指出，企业若仅依赖通用AI模型，难以形成持久竞争优势。要获得长期优势，必须拥有自己的智能体系，包括代理系统、治理机制、上下文管理和反馈循环。通过自主构建和掌控这些核心组件，企业才能将通用AI转化为差异化能力，实现业务价值的持续增长。文章强调，拥有智能不仅是技术选择，更是战略决策，涉及数据、流程和决策权的全面掌控。",
+  "tags": [
+    "AI策略",
+    "企业AI",
+    "AI代理"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "企业必须拥有自己的AI代理、治理、上下文和反馈循环，才能将通用AI转化为持久的竞争优势。"
+}

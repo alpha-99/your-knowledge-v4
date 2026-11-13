@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-13-007",
+  "title": "UMAP 0.6: new initialization, new optimizers and faster performance [P]",
+  "source": "Reddit r/MachineLearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/",
+  "collected_at": "2026-11-13T04:35:30.393881+00:00",
+  "summary": "UMAP 0.6发布，通过新的递归初始化方法和高效的硬负采样优化器，显著提升大规模数据降维的速度与质量。在300万篇arXiv论文上，UMAP 0.6在5分钟内完成，而0.5版本尚未完成邻居搜索。新初始化方法使布局更接近最终结果，优化器支持更高排斥强度，提升kNN召回率。新特性目前需设置compatibility_layout=False启用，未来将成为默认。",
+  "tags": [
+    "UMAP",
+    "降维",
+    "优化器",
+    "初始化",
+    "大规模数据"
+  ],
+  "relevance_score": 0.9,
+  "category": "tool",
+  "key_insight": "通过递归初始化和硬负采样，UMAP 0.6在保持甚至提升降维质量的同时，实现了数量级的性能提升，使百万级数据集的降维变得实用。"
+}

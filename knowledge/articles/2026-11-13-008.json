@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-13-008",
+  "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/business/customer-stories/amplitude",
+  "collected_at": "2026-11-13T04:35:30.393881+00:00",
+  "summary": "Amplitude 基于 OpenAI 模型构建了名为 Wave 的主动式产品代理，该代理能够自动识别用户需求、生成产品改进建议，并利用编码代理协助团队快速实现变更，同时自动测量改进效果。通过这一闭环系统，Amplitude 将产品改进的交付周期从数周缩短至1-2天，显著提升了产品迭代效率。",
+  "tags": [
+    "OpenAI",
+    "产品代理",
+    "编码代理",
+    "Amplitude",
+    "快速交付"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "通过AI代理实现需求识别、代码生成与效果测量的闭环，将产品改进周期压缩至1-2天。"
+}

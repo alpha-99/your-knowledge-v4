@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-13-013",
+  "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/qvac/botpsy",
+  "collected_at": "2026-11-13T04:35:30.393881+00:00",
+  "summary": "BotPsy是一个端侧个人助理，采用亚十亿参数的代理语言模型，旨在设备上实现智能交互。它通过轻量级模型和高效推理，在保护隐私的同时提供个性化服务。该模型具备代理能力，如任务规划、工具调用和上下文记忆，适用于手机、边缘设备等资源受限环境。文章可能展示其架构、训练方法和性能评估，证明小模型也能实现复杂代理行为。",
+  "tags": [
+    "端侧AI",
+    "代理语言模型",
+    "个人助理"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "即使参数小于10亿，通过精心设计和训练，也能在设备上实现有效的代理式个人助理，兼顾隐私与性能。"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-13-009",
+  "title": "Gondola doubles revenue as its team builds more with Codex",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/business/customer-stories/gondola",
+  "collected_at": "2026-11-13T04:35:30.393881+00:00",
+  "summary": "Gondola是一家帮助创意人士获得信用和雇佣的公司，通过集成OpenAI的Codex和ChatGPT，显著提升了开发效率。Codex使首席工程师的产出提高50%，ChatGPT简化了日常沟通和任务管理。该案例展示了AI辅助编程工具在创意产业中的实际应用，强调了AI在提升生产力、优化工作流程方面的价值。",
+  "tags": [
+    "AI辅助编程",
+    "Codex",
+    "ChatGPT"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "AI辅助工具能显著提升创意行业的技术团队效率，Codex将产出提高50%证明了其实际价值。"
+}

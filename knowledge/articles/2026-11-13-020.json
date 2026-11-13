@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-13-020",
+  "title": "Google’s new Gemini model is better at understanding complicated questions",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+  "collected_at": "2026-11-13T04:35:30.393881+00:00",
+  "summary": "Google发布新一代Gemini 4 Hydrogen模型，旨在提升对复杂问题的理解能力，包括多部分问题、难以辨认的错别字以及高度具体的请求。该模型能够将用户的问题拆解为多个部分，并针对每个部分分别给出回答，从而提供更精准、更有帮助的答案。该模型即日起在Google搜索、Gemini应用以及所有Google订阅层级中上线，标志着搜索引擎在智能问答方面迈出重要一步。",
+  "tags": [
+    "Gemini",
+    "搜索",
+    "复杂问题理解"
+  ],
+  "relevance_score": 0.9,
+  "category": "llm",
+  "key_insight": "Gemini 4 Hydrogen通过分解复杂问题来提升回答准确性，推动搜索引擎向更智能的问答演进。"
+}

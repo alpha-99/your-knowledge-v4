@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-13-019",
+  "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+  "collected_at": "2026-11-13T04:35:30.393881+00:00",
+  "summary": "Tabletop是Google Labs推出的群体协作实验，提供可定制的协作空间，支持团队构建交互式行程、投票和锦标赛。该工具可能集成AI辅助功能，帮助用户规划活动、收集意见和进行决策，旨在提升群体协作效率。通过实时交互和可定制组件，Tabletop让团队能够更直观地共同规划和执行任务。",
+  "tags": [
+    "协作",
+    "AI辅助",
+    "交互式工具"
+  ],
+  "relevance_score": 0.7,
+  "category": "tool",
+  "key_insight": "利用AI增强群体协作，实现交互式规划与决策。"
+}

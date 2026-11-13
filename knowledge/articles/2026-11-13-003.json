@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-13-003",
+  "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+  "source": "Hacker News Best",
+  "url": "https://github.com/simpsoka/zigzag",
+  "collected_at": "2026-11-13T04:35:30.393881+00:00",
+  "summary": "作者拥有一台价值300美元的刺绣机，但厂商要求订阅才能使用配套软件。为摆脱订阅限制，他通过逆向工程开发了名为zigzag的开源应用，直接控制刺绣机硬件，实现免费且功能完整的刺绣操作。该项目展示了如何绕过硬件厂商的软件锁定，为DIY爱好者提供了自主控制设备的可能性。",
+  "tags": [
+    "开源",
+    "逆向工程",
+    "硬件控制"
+  ],
+  "relevance_score": 0.8,
+  "category": "tool",
+  "key_insight": "通过逆向工程打破硬件厂商的订阅锁定，赋予用户自主控制设备的权利。"
+}

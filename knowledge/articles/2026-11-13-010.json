@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-13-010",
+  "title": "Holiday Extras is rethinking what it can build with Codex",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+  "collected_at": "2026-11-13T04:35:30.393881+00:00",
+  "summary": "Holiday Extras利用OpenAI的Codex模型，将客户服务专业知识转化为应用程序功能，显著提升预订转化率，并开辟新的增长机会。通过Codex，公司能够快速构建和迭代软件，将非技术员工的隐性知识编码为自动化流程，从而优化客户体验。该案例展示了LLM在代码生成和业务创新中的实际价值。",
+  "tags": [
+    "Codex",
+    "AI辅助编程",
+    "业务增长"
+  ],
+  "relevance_score": 0.8,
+  "category": "tool",
+  "key_insight": "利用Codex将客户专业知识转化为代码，加速应用开发并提升业务转化率。"
+}

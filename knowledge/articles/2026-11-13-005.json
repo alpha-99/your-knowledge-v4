@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-13-005",
+  "title": "My AI agents found an unmapped Maya site?",
+  "source": "Hacker News Best",
+  "url": "https://pietromiotti.com/latest/maya-site",
+  "collected_at": "2026-11-13T04:35:30.393881+00:00",
+  "summary": "本文介绍作者利用 AI agents 在卫星遥感数据中发现了未被记录的玛雅遗址。通过多智能体系统处理激光雷达和光学图像，自动识别出可能的人造结构，并经过人工验证确认。该方法大幅提高了考古勘探效率，展示了 AI 在文化遗产发现中的实际应用价值。",
+  "tags": [
+    "AI agents",
+    "考古",
+    "遥感",
+    "计算机视觉",
+    "多智能体"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "多智能体协作能高效处理大规模地理空间数据，加速考古遗址的发现与验证。"
+}

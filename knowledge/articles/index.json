@@ -1342,5 +1342,131 @@
     "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
     "category": "tool",
     "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-13-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-13-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-13-002",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-13-003",
+    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+    "category": "tool",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-13-004",
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "category": "agent",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-13-005",
+    "title": "My AI agents found an unmapped Maya site?",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-13-006",
+    "title": "libreagi - save OS models",
+    "category": "framework",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-13-007",
+    "title": "UMAP 0.6: new initialization, new optimizers and faster performance [P]",
+    "category": "tool",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-13-008",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-13-009",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-13-010",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "category": "tool",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-13-011",
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-13-012",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "category": "framework",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-13-013",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-13-014",
+    "title": "What Is Eval-Driven Development? How to Improve AI Agents",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-13-015",
+    "title": "Own Your Intelligence: The Key to Lasting AI Advantage",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-13-016",
+    "title": "How our GTM Agent builds consistent, high-quality sales artifacts",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-13-017",
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "category": "llm",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-13-018",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-13-019",
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "category": "tool",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-13-020",
+    "title": "Google’s new Gemini model is better at understanding complicated questions",
+    "category": "llm",
+    "relevance_score": 0.9
   }
 ]

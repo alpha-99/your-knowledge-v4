@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-13-006",
+  "title": "libreagi - save OS models",
+  "source": "Lobsters AI/ML",
+  "url": "https://libreagi.com/",
+  "collected_at": "2026-11-13T04:35:30.393881+00:00",
+  "summary": "LibreAGI 是一个开源项目，旨在为通用人工智能（AGI）提供模型保存与管理功能。它允许用户保存和加载操作系统级别的模型状态，以便于持久化和复用。该项目可能提供工具或框架，帮助开发者管理 AI 模型的生命周期，支持多种模型格式和存储后端。通过简化模型保存流程，LibreAGI 旨在提升 AI 开发效率。",
+  "tags": [
+    "AGI",
+    "模型管理",
+    "开源"
+  ],
+  "relevance_score": 0.8,
+  "category": "framework",
+  "key_insight": "LibreAGI 通过提供模型保存功能，简化了 AGI 系统的持久化与复用。"
+}
