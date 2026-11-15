@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-15-008",
+  "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
+  "source": "Reddit r/MachineLearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/",
+  "collected_at": "2026-11-15T04:18:12.992902+00:00",
+  "summary": "该项目从OpenReview爬取ICLR 2027论文初始评审分数，通过标题匹配arXiv获取论文元数据，再关联OpenAlex确定作者所属机构，最终按大学排名展示平均评审分数。该分析直观揭示了不同学术机构在AI顶会中的论文质量差异，为学术评价和机构对比提供了数据驱动的参考。",
+  "tags": [
+    "ICLR",
+    "评审分数",
+    "大学排名",
+    "OpenReview",
+    "数据可视化"
+  ],
+  "relevance_score": 0.8,
+  "category": "tool",
+  "key_insight": "通过跨数据库匹配（OpenReview、arXiv、OpenAlex）实现论文评审分数与机构的关联，直观展示各大学在AI顶会中的表现。"
+}

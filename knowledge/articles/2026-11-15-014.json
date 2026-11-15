@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-15-014",
+  "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "collected_at": "2026-11-15T04:18:12.992902+00:00",
+  "summary": "llama.cpp 是一个用 C/C++ 编写的开源 LLM 推理引擎，旨在高效地在本地运行大语言模型。v1.0.0 版本标志着其 API 稳定和生态成熟，为开发者提供了可靠的基础设施。该版本引入了更稳定的构建系统、改进的性能优化和更广泛的硬件支持，降低了本地部署 LLM 的门槛。它支持多种量化格式和推理后端，成为本地 AI 生态的重要基石。",
+  "tags": [
+    "llama.cpp",
+    "本地推理",
+    "LLM",
+    "C++",
+    "开源框架"
+  ],
+  "relevance_score": 0.9,
+  "category": "framework",
+  "key_insight": "llama.cpp v1.0.0 的发布标志着本地 LLM 推理进入稳定阶段，为开发者提供了可靠且高效的部署基础。"
+}

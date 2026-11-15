@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-15-015",
+  "title": "Goal Engineering",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/goal-engineering",
+  "collected_at": "2026-11-15T04:18:12.992902+00:00",
+  "summary": "LangChain提出'目标工程'概念，认为未来AI智能体的核心能力将从执行指令转向自主设定并完成开放式目标。文章探讨了如何通过目标分解、进度追踪和动态调整，让智能体在复杂环境中持续驱动任务完成，而非仅响应单次查询。这一范式转变要求智能体具备长期规划、自我评估和资源管理能力，标志着从工具使用到目标导向自主性的进化。",
+  "tags": [
+    "goal engineering",
+    "autonomous agents",
+    "open-ended goals"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "智能体的未来在于从执行指令转向自主追求开放式目标，这需要新的目标分解与动态调整机制。"
+}

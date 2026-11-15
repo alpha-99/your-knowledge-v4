@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-15-009",
+  "title": "Introducing ChatGPT Wallet",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/introducing-chatgpt-wallet",
+  "collected_at": "2026-11-15T04:18:12.992902+00:00",
+  "summary": "OpenAI 推出 ChatGPT Wallet，为 ChatGPT Work、Codex 和 dots 中的智能体提供安全的支付解决方案。该钱包允许智能体在获得用户明确批准后完成购买，并沿用现有信用卡的保护机制，确保交易安全。这标志着 AI 智能体从对话交互向实际执行商业交易的跨越，为 AI 经济奠定基础设施。",
+  "tags": [
+    "agent",
+    "payment",
+    "security",
+    "OpenAI",
+    "e-commerce"
+  ],
+  "relevance_score": 0.95,
+  "category": "agent",
+  "key_insight": "ChatGPT Wallet 让 AI 智能体在用户授权下安全完成真实支付，是 AI 从助手到自主执行者的关键一步。"
+}

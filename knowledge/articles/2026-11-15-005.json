@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-15-005",
+  "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+  "source": "Hacker News Best",
+  "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+  "collected_at": "2026-11-15T04:18:12.992902+00:00",
+  "summary": "Jonathan Blow 在视频中质疑 AI 编程工具的实际价值，指出尽管 AI 能生成代码，但复杂软件的设计、架构和逻辑推理仍依赖人类工程师。他以自己的游戏开发经验为例，说明 AI 并未改变核心开发流程，因为真正的难点在于理解系统需求与权衡，而非代码填充。他警告过度依赖 AI 可能导致技能退化，并强调软件工程本质是设计决策，而非语法生成。",
+  "tags": [
+    "AI编程",
+    "软件工程",
+    "批判性分析"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "AI 编程工具未能解决软件工程的核心挑战，因为真正的难点在于系统设计和逻辑推理，而非代码生成。"
+}

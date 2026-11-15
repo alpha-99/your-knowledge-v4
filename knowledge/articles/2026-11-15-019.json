@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-15-019",
+  "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+  "collected_at": "2026-11-15T04:18:12.992902+00:00",
+  "summary": "Google AI 发布 Gemini Decisions API，基于其最新模型 Gemini Decision，提供快速、校准的多模态决策能力。该 API 旨在将多模态输入（如文本、图像、音频等）直接转化为结构化决策输出，并强调输出概率校准，以提升决策可靠性。它适用于需要快速、可解释决策的场景，如内容审核、医疗辅助诊断、金融风险评估等。",
+  "tags": [
+    "Gemini",
+    "多模态决策",
+    "概率校准"
+  ],
+  "relevance_score": 0.85,
+  "category": "tool",
+  "key_insight": "Gemini Decisions API 将多模态理解与校准决策结合，为高可靠性应用提供即用型决策服务。"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-15-007",
+  "title": "You could have invented transformers from memory",
+  "source": "Lobsters AI/ML",
+  "url": "https://alexwang.ai/posts/associative-memory/",
+  "collected_at": "2026-11-15T04:18:12.992902+00:00",
+  "summary": "文章从联想记忆（associative memory）的视角重新推导Transformer架构。作者指出，注意力机制本质上是一种内容寻址的联想记忆检索过程：查询（query）与键（key）的相似度决定记忆的读取权重，值（value）则作为存储内容。通过将记忆写入和读取形式化为矩阵运算，可以自然导出缩放点积注意力公式。这一视角不仅解释了Transformer为何有效，还揭示了其与神经图灵机、Hopfield网络等记忆模型的深层联系，为理解注意力机制提供了统一框架。",
+  "tags": [
+    "transformer",
+    "attention",
+    "associative-memory",
+    "推导"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "注意力机制可视为联想记忆的检索过程，从记忆原理出发即可重新发明Transformer。"
+}

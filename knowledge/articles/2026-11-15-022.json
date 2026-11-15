@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-15-022",
+  "title": "Amazon has a plan to index the world’s online shopping data",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+  "collected_at": "2026-11-15T04:18:12.992902+00:00",
+  "summary": "Amazon计划构建名为'World Product Graph'的全球产品数据仓库，索引互联网上所有销售的产品，包括非Amazon销售的商品，并通过其网站提供搜索服务。该项目旨在通过AI驱动的搜索和知识图谱技术，让用户直接在Amazon找到任何产品，减少跳出率。涉及大规模数据抓取、实体解析和语义理解，可能利用大语言模型提升搜索相关性，从而巩固Amazon作为电商入口的地位。",
+  "tags": [
+    "知识图谱",
+    "电商搜索",
+    "AI驱动搜索"
+  ],
+  "relevance_score": 0.75,
+  "category": "tool",
+  "key_insight": "Amazon通过构建全球产品图谱，将AI搜索作为电商入口，意图垄断产品数据入口。"
+}

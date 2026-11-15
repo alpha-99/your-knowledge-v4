@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-15-017",
+  "title": "What Is Eval-Driven Development? How to Improve AI Agents",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/what-is-eval-driven-development",
+  "collected_at": "2026-11-15T04:18:12.992902+00:00",
+  "summary": "Eval-driven development（评估驱动开发）是一种构建AI Agent的方法论，核心是围绕一组一致的指标来定义良好行为。流程为：先定义评估标准（eval），再编写评估测试，然后进行实验对比，最后迭代改进。它强调将评估作为开发的第一公民，通过可量化的指标（如准确性、工具调用成功率等）来指导Agent的优化，避免主观感觉和随意调整。该方法能显著提升Agent开发的系统性和可重复性，使团队能基于数据而非直觉进行决策。",
+  "tags": [
+    "eval-driven development",
+    "AI agent",
+    "evaluation"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "先定义评估指标，再写测试，后做实验对比，让AI Agent开发从直觉驱动转向数据驱动。"
+}

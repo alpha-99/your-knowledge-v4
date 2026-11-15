@@ -1468,5 +1468,143 @@
     "title": "Google’s new Gemini model is better at understanding complicated questions",
     "category": "llm",
     "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-15-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-15-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-11-15-002",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-15-003",
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "category": "hardware",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-15-004",
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-15-005",
+    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-15-006",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-15-007",
+    "title": "You could have invented transformers from memory",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-15-008",
+    "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
+    "category": "tool",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-15-009",
+    "title": "Introducing ChatGPT Wallet",
+    "category": "agent",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-11-15-010",
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-15-011",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-15-012",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "category": "tool",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-15-013",
+    "title": "XYBench: Helping with the problem behind the question",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-15-014",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "category": "framework",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-15-015",
+    "title": "Goal Engineering",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-15-016",
+    "title": "LangChain Raises $300M Series C at $3B Valuation",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-15-017",
+    "title": "What Is Eval-Driven Development? How to Improve AI Agents",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-15-018",
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-15-019",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-15-020",
+    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+    "category": "governance",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-15-021",
+    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+    "category": "business",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-15-022",
+    "title": "Amazon has a plan to index the world’s online shopping data",
+    "category": "tool",
+    "relevance_score": 0.75
   }
 ]

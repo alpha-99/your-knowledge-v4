@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-15-016",
+  "title": "LangChain Raises $300M Series C at $3B Valuation",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/series-c",
+  "collected_at": "2026-11-15T04:18:12.992902+00:00",
+  "summary": "LangChain完成3亿美元C轮融资，估值达30亿美元，由CapitalG领投。资金将用于扩展LangSmith，一个代理工程平台，帮助企业构建、部署和监控AI代理，实现“拥有自己的智能”的愿景。LangChain作为LLM应用开发框架，已成为构建AI代理的主流工具，此次融资凸显了市场对代理工程基础设施的强烈需求。",
+  "tags": [
+    "融资",
+    "LangChain",
+    "LangSmith",
+    "AI代理",
+    "LLM框架"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "LangChain融资表明AI代理工程平台成为企业AI战略的核心，市场对可观测、可监控的代理基础设施需求激增。"
+}
