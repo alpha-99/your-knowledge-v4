@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-16-006",
+  "title": "A step toward defining the Standard Model on a lattice",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+  "collected_at": "2026-11-16T04:17:17.785451+00:00",
+  "summary": "OpenAI 博客介绍了一项利用 GPT-6 Astra 辅助的物理学研究，旨在为粒子物理标准模型提供一种非微扰的格点定义。该工作探索了将标准模型置于离散时空格点上的候选方案，并借助大语言模型将理论构想转化为详细证明。文章展示了 AI 在理论物理中从概念到严格数学推导的辅助能力，为格点规范理论及标准模型的非微扰定义提供了新思路。",
+  "tags": [
+    "格点规范理论",
+    "标准模型",
+    "AI辅助科研"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "GPT-6 Astra 能够将物理学家关于标准模型格点化的构想转化为严格的数学证明，展示了 LLM 在理论物理前沿研究中的实用价值。"
+}

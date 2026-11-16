@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-16-011",
+  "title": "Goal Engineering",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/goal-engineering",
+  "collected_at": "2026-11-16T04:17:17.785451+00:00",
+  "summary": "本文探讨了智能体（agents）的未来发展方向——目标工程（Goal Engineering）。核心观点是，下一代智能体将不再局限于执行用户指定的具体任务，而是能够接受开放式目标，自主规划、执行并推动目标完成。文章可能讨论了如何设计目标、评估进展、处理不确定性，以及如何将目标分解为可执行步骤。通过目标工程，智能体可以更自主地工作，减少人工干预，提升复杂任务的完成能力。",
+  "tags": [
+    "goal engineering",
+    "autonomous agents",
+    "planning",
+    "LLM",
+    "LangChain"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "目标工程使智能体从被动执行者转变为主动目标驱动者，通过自主规划与执行实现开放式目标的完成。"
+}

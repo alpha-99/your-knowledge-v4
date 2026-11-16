@@ -1606,5 +1606,119 @@
     "title": "Amazon has a plan to index the world’s online shopping data",
     "category": "tool",
     "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-16-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-16-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-16-002",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-11-16-003",
+    "title": "All AI-generated code should be Open Source",
+    "category": "policy",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-16-004",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-16-005",
+    "title": "You could have invented transformers from memory",
+    "category": "llm",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-16-006",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-16-007",
+    "title": "Introducing ChatGPT Wallet",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-16-008",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "category": "tool",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-16-009",
+    "title": "XYBench: Helping with the problem behind the question",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-16-010",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "category": "framework",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-11-16-011",
+    "title": "Goal Engineering",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-16-012",
+    "title": "LangChain Raises $300M Series C at $3B Valuation",
+    "category": "agent",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-16-013",
+    "title": "What Is Eval-Driven Development? How to Improve AI Agents",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-16-014",
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-16-015",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-16-016",
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "category": "tool",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-16-017",
+    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-16-018",
+    "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "category": "industry",
+    "relevance_score": 0.7
   }
 ]

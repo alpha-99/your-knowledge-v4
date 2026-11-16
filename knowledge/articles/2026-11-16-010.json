@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-16-010",
+  "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "collected_at": "2026-11-16T04:17:17.785451+00:00",
+  "summary": "llama.cpp v1.0.0 标志着本地 AI 生态的重要里程碑。该版本通过强化底层基础设施，显著提升了推理性能与跨平台兼容性，并简化了部署流程。它巩固了 llama.cpp 作为本地大模型推理标准库的地位，为开发者提供了更稳定、高效的基石，推动了边缘 AI 应用的普及与创新。",
+  "tags": [
+    "llama.cpp",
+    "本地推理",
+    "大模型部署"
+  ],
+  "relevance_score": 0.95,
+  "category": "framework",
+  "key_insight": "llama.cpp v1.0.0 通过稳定化与性能优化，确立了本地 AI 推理的行业基准，加速了去中心化 AI 应用落地。"
+}

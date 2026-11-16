@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-16-003",
+  "title": "All AI-generated code should be Open Source",
+  "source": "Hacker News Best",
+  "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+  "collected_at": "2026-11-16T04:17:17.785451+00:00",
+  "summary": "文章主张所有AI生成的代码都应强制开源，认为AI模型训练数据包含大量开源代码，其输出应回馈公共领域。作者指出闭源AI代码会破坏开源生态，导致知识垄断和商业滥用。他建议通过许可证或法律要求，确保AI生成代码遵循开源协议，以维持软件自由和公平竞争。文章引发对AI版权、开源义务和商业模式的广泛讨论。",
+  "tags": [
+    "AI代码",
+    "开源",
+    "知识产权",
+    "许可证",
+    "AI伦理"
+  ],
+  "relevance_score": 0.85,
+  "category": "policy",
+  "key_insight": "AI生成代码应开源以回馈训练数据来源，防止闭源垄断，但需平衡商业利益与开源义务。"
+}

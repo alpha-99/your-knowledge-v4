@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-16-005",
+  "title": "You could have invented transformers from memory",
+  "source": "Lobsters AI/ML",
+  "url": "https://alexwang.ai/posts/associative-memory/",
+  "collected_at": "2026-11-16T04:17:17.785451+00:00",
+  "summary": "文章从联想记忆（associative memory）的视角出发，探讨如何仅凭记忆机制推导出Transformer架构。作者通过类比人类记忆的检索与写入过程，展示了注意力机制如何自然地作为记忆读取操作出现，从而说明Transformer并非凭空发明，而是记忆模型的一种具体实现。文章为理解Transformer的起源提供了新的理论视角。",
+  "tags": [
+    "transformer",
+    "associative-memory",
+    "attention",
+    "derivation"
+  ],
+  "relevance_score": 0.9,
+  "category": "llm",
+  "key_insight": "Transformer的注意力机制可从联想记忆的检索过程自然推导出来，无需依赖复杂工程直觉。"
+}

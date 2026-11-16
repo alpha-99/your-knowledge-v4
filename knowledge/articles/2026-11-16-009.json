@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-16-009",
+  "title": "XYBench: Helping with the problem behind the question",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/allenai/xybench",
+  "collected_at": "2026-11-16T04:17:17.785451+00:00",
+  "summary": "XYBench 是 AllenAI 推出的基准测试，旨在评估多模态大模型在理解图像中隐含问题（即问题背后的意图）方面的能力。它包含 1200 个高质量、人工验证的样本，覆盖 15 个类别，要求模型不仅识别视觉内容，还要推断用户可能提出的问题。该基准揭示了现有模型在主动提问、意图推理上的显著不足，为提升多模态交互的主动性提供了评测标准。",
+  "tags": [
+    "多模态",
+    "基准测试",
+    "意图推理",
+    "视觉问答",
+    "主动提问"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "XYBench 聚焦于图像背后的隐含问题，而非直接回答，暴露了多模态模型在主动推理上的短板。"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-16-017",
+  "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+  "collected_at": "2026-11-16T04:17:17.785451+00:00",
+  "summary": "苹果宣布与临床AI平台OpenEvidence合作，开展Apple Health AI Usage Study，旨在研究用户与对话式AI健康工具的互动方式，并评估其回答的实际有用性。该研究将收集真实用户使用数据，以改进AI健康助手的准确性和实用性，推动医疗AI工具更贴合临床需求。",
+  "tags": [
+    "健康AI",
+    "对话式AI",
+    "用户研究"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "通过真实用户互动研究，提升AI健康工具的回答有效性与临床实用性。"
+}

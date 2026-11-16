@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-16-014",
+  "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+  "collected_at": "2026-11-16T04:17:17.785451+00:00",
+  "summary": "Google 宣布将 Gemini 4 Hydrogen 深度集成到 Google Search 中，通过旋转卡片轮播展示新功能，用户可直接在搜索结果页体验多模态交互。该升级旨在提升搜索的智能化和个性化，利用 Gemini 4 的推理能力提供更精准的答案、摘要和上下文理解。此举标志着搜索引擎与前沿大模型的进一步融合，可能重塑信息获取方式。",
+  "tags": [
+    "Gemini 4",
+    "Google Search",
+    "多模态",
+    "AI集成",
+    "搜索升级"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "搜索引擎与前沿大模型深度绑定，将AI推理直接嵌入用户日常信息获取路径。"
+}
