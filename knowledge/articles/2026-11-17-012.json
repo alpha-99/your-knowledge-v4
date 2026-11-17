@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-17-012",
+  "title": "Science at the Frontier: How scientists use ChatGPT",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/science-at-the-frontier",
+  "collected_at": "2026-11-17T06:01:58.688445+00:00",
+  "summary": "OpenAI对超过1800名科学家使用ChatGPT的情况进行了调查，发现科学家将其广泛应用于文献综述、代码编写、数据分析、论文写作等科研任务。多数用户报告了显著的生产力提升，并认为ChatGPT有助于加速科学发现。研究还揭示了科学家对AI工具在科研流程中整合的期望，以及潜在挑战。该调查为理解大语言模型在科学研究中的实际影响提供了重要数据。",
+  "tags": [
+    "ChatGPT",
+    "科学研究",
+    "生产力"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "ChatGPT已成为科学家日常科研工作的有效助手，显著提升生产力，并有望加速科学发现。"
+}

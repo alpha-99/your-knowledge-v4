@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-17-018",
+  "title": "Goal Engineering",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/goal-engineering",
+  "collected_at": "2026-11-17T06:01:58.688445+00:00",
+  "summary": "文章探讨了目标工程（Goal Engineering）的概念，指出未来AI代理将不再局限于执行预设任务，而是承担开放式目标，并自主驱动完成这些目标。这要求代理具备目标定义、规划、执行和评估的能力，能够处理不确定性和动态环境。LangChain认为这是代理发展的未来方向，强调从任务导向转向目标导向的代理设计，以提升代理的自主性和适应性。",
+  "tags": [
+    "goal engineering",
+    "agents",
+    "open-ended goals",
+    "planning",
+    "autonomy"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "为代理设计开放式目标并驱动其完成，是未来代理发展的关键。"
+}

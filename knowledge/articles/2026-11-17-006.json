@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-17-006",
+  "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.17338",
+  "collected_at": "2026-11-17T06:01:58.688445+00:00",
+  "summary": "本文研究LLM记忆系统中硬过滤（删除过时事实）对下游准确性的影响。当解析器错误删除查询关键事实时，硬过滤会显著降低性能：在完美解析下硬删除带来+0.186至+0.230收益，但在最低可靠性下转为-0.176至-0.181损失。配对干预显示误删比误留造成更大退化，而非删除基线在错误标签引导下仍可能失败。在冻结测试分割上，部署匹配门控达0.655准确率，优于始终硬删除（0.641）但低于测试信息oracle（0.662）。作者主张删除应视为成本敏感：需在匹配数据上验证查询关键误删风险，否则默认无标签保留。",
+  "tags": [
+    "memory filtering",
+    "LLM agents",
+    "cost-sensitive deletion"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "删除应被视为成本敏感：验证查询关键误删风险，否则默认无标签保留。"
+}

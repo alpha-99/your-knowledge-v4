@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-17-008",
+  "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.17340",
+  "collected_at": "2026-11-17T06:01:58.688445+00:00",
+  "summary": "本文提出LoRAWeaver，一种无训练的LoRA适配器路由方法，将适配器选择视为适配器输出空间中的表示对齐问题。通过余弦相似度匹配适配器条件查询表示与任务原型，动态选择适配器，无需重新训练。在LLaMA-2-7B/13B上48任务FLAN-v2基准和分布外任务上，该方法优于无训练基线，并接近训练检索编码器。消融实验证实了方向对齐的有效性。",
+  "tags": [
+    "LoRA",
+    "适配器路由",
+    "参数高效微调"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "通过余弦相似度在适配器输出空间进行方向对齐，实现无需训练的动态适配器路由。"
+}

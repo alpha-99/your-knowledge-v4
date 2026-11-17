@@ -1720,5 +1720,155 @@
     "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
     "category": "industry",
     "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-17-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-17-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-11-17-002",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-17-003",
+    "title": "\"Proof of use\" as a requirement for open source contributions?",
+    "category": "llm",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-17-004",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "category": "llm",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-17-005",
+    "title": "You could have invented transformers from memory",
+    "category": "llm",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-17-006",
+    "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-17-007",
+    "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-17-008",
+    "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-17-009",
+    "title": "Why are ViTs so popular? [D]",
+    "category": "model",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-17-010",
+    "title": "Broadening access to AI for scientists",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-17-011",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "category": "tool",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-17-012",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-17-013",
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-17-014",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "category": "framework",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-17-015",
+    "title": "XYBench: Helping with the problem behind the question",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-17-016",
+    "title": "From tasks to goals",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-17-017",
+    "title": "LangChain Raises $300M Series C at $3B Valuation",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-17-018",
+    "title": "Goal Engineering",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-17-019",
+    "title": "Best Audio Models - Nov 2026",
+    "category": "tool",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-17-020",
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-17-021",
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "category": "llm",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-17-022",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-17-023",
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "category": "agent",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-11-17-024",
+    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+    "category": "hardware",
+    "relevance_score": 0.75
   }
 ]

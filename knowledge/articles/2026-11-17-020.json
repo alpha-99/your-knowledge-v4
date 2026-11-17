@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-17-020",
+  "title": "New Ask Maps features to help with holiday travel and prep",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+  "collected_at": "2026-11-17T06:01:58.688445+00:00",
+  "summary": "Google Maps 推出 Ask Maps 新功能，利用生成式 AI 帮助用户进行假日旅行规划和准备。用户可以通过自然语言提问获取个性化建议，如推荐餐厅、规划路线、查找活动等。该功能结合了 Gemini 模型，旨在简化旅行规划流程，提升用户体验。",
+  "tags": [
+    "Google Maps",
+    "生成式AI",
+    "旅行规划"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "将大语言模型集成到地图应用中，通过自然语言交互显著提升旅行规划的便捷性和个性化。"
+}

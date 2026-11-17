@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-17-024",
+  "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+  "collected_at": "2026-11-17T06:01:58.688445+00:00",
+  "summary": "OpenAI CEO Sam Altman再次回应其关于PC内存购买的争议言论，明确表示希望每个人都能为自己的电脑购买大量RAM，并认为家庭DIY升级是好事。这一表态反映了AI时代对本地计算资源的需求增长，尤其是运行大型语言模型时，内存容量成为关键瓶颈。随着模型参数增大，本地推理需要更高内存带宽和容量，推动消费者硬件升级趋势。Altman的言论也暗示了AI应用普及可能引发内存市场供需变化，对硬件产业链产生深远影响。",
+  "tags": [
+    "RAM",
+    "AI硬件",
+    "内存短缺",
+    "本地推理",
+    "Sam Altman"
+  ],
+  "relevance_score": 0.75,
+  "category": "hardware",
+  "key_insight": "AI模型本地部署对内存容量的需求正在推动消费者硬件升级，RAM成为AI普及的关键资源。"
+}

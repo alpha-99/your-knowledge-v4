@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-17-016",
+  "title": "From tasks to goals",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/from-tasks-to-goals",
+  "collected_at": "2026-11-17T06:01:58.688445+00:00",
+  "summary": "LangChain CEO Harrison Chase 在博客中阐述了 AI 代理从任务特定型向目标导向型的演进。任务特定代理仅能执行预设的单一任务，而目标导向代理能够理解高层目标，自主规划并分解为子任务，灵活应对复杂场景。这种转变使代理具备更强的推理、规划和适应能力，能够处理开放式问题，而非仅遵循固定流程。文章探讨了实现目标导向代理所需的技术架构、工具调用和记忆机制，并展望了未来代理在自主决策和持续学习方面的发展方向。",
+  "tags": [
+    "goal-oriented agents",
+    "autonomous planning",
+    "LangChain"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "AI 代理正从执行单一任务转向理解并追求高层目标，从而实现更自主、灵活的复杂问题解决能力。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-17-009",
+  "title": "Why are ViTs so popular? [D]",
+  "source": "Reddit r/MachineLearning",
+  "url": "https://www.reddit.com/r/MachineLearning/comments/1xyb8q6/why_are_vits_so_popular_d/",
+  "collected_at": "2026-11-17T06:01:58.688445+00:00",
+  "summary": "该讨论质疑纯ViT的流行，作者认为混合CNN+Attention模型在边缘设备上更高效，因为卷积提供归纳偏置并降低空间维度。纯ViT从头学习归纳偏置看似低效，唯一优势是避免边界填充。作者推测ViT流行可能源于历史偶然、计算资源丰富和蒸馏技术，而非本质优势。讨论聚焦于基础模型和自监督学习中的模型选择，强调混合模型在特定任务上的实用性。",
+  "tags": [
+    "ViT",
+    "CNN",
+    "混合模型",
+    "归纳偏置",
+    "边缘设备"
+  ],
+  "relevance_score": 0.8,
+  "category": "model",
+  "key_insight": "ViT流行可能源于其简洁性和可扩展性，但混合CNN+Attention模型在边缘设备上更具优势。"
+}

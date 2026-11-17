@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-17-019",
+  "title": "Best Audio Models - Nov 2026",
+  "source": "Reddit r/LocalLLaMA",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxpxvi/best_audio_models_nov_2026/",
+  "collected_at": "2026-11-17T06:01:58.688445+00:00",
+  "summary": "这是Reddit r/LocalLLaMA社区发起的2026年11月最佳音频模型讨论帖，聚焦开源ASR、TTS、STT和文本到音乐模型。用户分享实际使用中的设置、工具、用途及长时稳定性经验，强调真实生产场景下的对比，而非短片段演示。讨论旨在为社区提供基于实证的模型推荐。",
+  "tags": [
+    "音频模型",
+    "ASR",
+    "TTS",
+    "开源",
+    "社区评测"
+  ],
+  "relevance_score": 0.7,
+  "category": "tool",
+  "key_insight": "社区强调真实长时使用经验而非短片段演示，是评估音频模型可靠性的关键。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-17-007",
+  "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.17339",
+  "collected_at": "2026-11-17T06:01:58.688445+00:00",
+  "summary": "该研究针对实际部署在设备端的小型量化LLM（Phi-3-mini、Llama-3.2-3B、Qwen2.5-3B、Gemma-2-2B，4-bit精度）审计了四种幻觉检测器（长度归一化token-margin校准、词法n-gram基线、语义熵、SelfCheckGPT-NLI）。在单块T4 GPU上对Llama-3.2-3B和Qwen2.5-3B进行TriviaQA评估，发现跨模型排名严重反转（Spearman rho=-0.80），廉价词法基线与采样一致性方法无显著差异。另发现TruthfulQA-Generation的token-overlap标签器产生近随机AUROC（0.46-0.59），属标签器失败而非检测器失败。研究强调检测器选择应作为错误率分配问题，并开源了评测框架。",
+  "tags": [
+    "幻觉检测",
+    "量化模型",
+    "设备端LLM",
+    "评测审计",
+    "模型鲁棒性"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "幻觉检测器在小型量化模型上的排名不可迁移，且廉价词法基线与复杂采样方法效果相当，提示实践者需重新评估检测器选择策略。"
+}

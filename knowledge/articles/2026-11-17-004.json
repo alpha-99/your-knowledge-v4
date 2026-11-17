@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-17-004",
+  "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+  "source": "Lobsters AI/ML",
+  "url": "https://arxiv.org/abs/2605.29713",
+  "collected_at": "2026-11-17T06:01:58.688445+00:00",
+  "summary": "本书是一本面向生成式AI的数学入门读物，旨在以直观的方式解释生成模型背后的核心数学原理。内容涵盖概率论、信息论、优化方法等基础工具，并逐步引入变分自编码器（VAE）、生成对抗网络（GAN）、扩散模型等主流生成架构的数学推导与直觉理解。适合希望夯实数学基础、深入理解生成式AI工作机制的读者，作为从理论到实践的桥梁。",
+  "tags": [
+    "generative-ai",
+    "mathematics",
+    "primer"
+  ],
+  "relevance_score": 0.75,
+  "category": "llm",
+  "key_insight": "通过直观的数学解释，帮助读者建立对生成式AI核心原理的深刻理解，而非仅停留在应用层面。"
+}

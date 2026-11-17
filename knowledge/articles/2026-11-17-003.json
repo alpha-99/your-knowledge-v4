@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-17-003",
+  "title": "\"Proof of use\" as a requirement for open source contributions?",
+  "source": "Lobsters AI/ML",
+  "url": "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source",
+  "collected_at": "2026-11-17T06:01:58.688445+00:00",
+  "summary": "开源维护者面临大量AI生成的PR，多数处理现实中几乎不会遇到的边缘情况。为过滤这些噪音，维护者提出“使用证明”要求：贡献者需展示其项目依赖该开源项目（通过git历史）或明确描述在生产环境中的实际使用。此举旨在确保真正依赖该软件的人的贡献被优先处理，同时过滤掉AI驱动的无意义贡献。文章在Lobsters社区引发讨论。",
+  "tags": [
+    "open-source",
+    "ai-generated-code",
+    "maintainer",
+    "contribution-guidelines",
+    "proof-of-use"
+  ],
+  "relevance_score": 0.9,
+  "category": "llm",
+  "key_insight": "通过要求贡献者提供实际使用证据，开源维护者可以有效过滤AI生成的无关PR，聚焦真实用户需求。"
+}

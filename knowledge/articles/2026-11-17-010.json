@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-17-010",
+  "title": "Broadening access to AI for scientists",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+  "collected_at": "2026-11-17T06:01:58.688445+00:00",
+  "summary": "OpenAI宣布扩大其ChatGPT for Academic Researchers项目，向全球20万名研究人员免费提供前沿模型（如GPT-4系列）的访问权限，旨在降低AI在科学研究中的使用门槛，促进跨学科创新。该计划覆盖多个学科领域，支持论文撰写、数据分析、代码生成等科研场景，并可能包含API额度或高级功能。此举将加速AI在学术界的普及，推动科学发现进程。",
+  "tags": [
+    "OpenAI",
+    "学术研究",
+    "AI普及",
+    "前沿模型",
+    "免费访问"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "通过免费开放前沿模型，OpenAI旨在降低科研人员使用AI的门槛，加速科学发现，同时扩大其模型在学术生态中的影响力。"
+}
