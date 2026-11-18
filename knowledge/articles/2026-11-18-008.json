@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-18-008",
+  "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.21827",
+  "collected_at": "2026-11-18T05:30:44.851104+00:00",
+  "summary": "本文研究SAR车辆识别中背景捷径、视角间隙与部分类别库的影响。使用ConvNeXt-Small在MSTAR和ATRNet-STAR上发现：遮挡车辆后仍达73.3%和63.3%，说明高分部分来自背景；场景变化时背景反而有害，完整图像22.8%低于仅目标30.8%。SARATR-X更依赖背景。训练视角与测试视角最近角度决定性能，15/30/45度分别57/39/26%；部分类别缺失时性能降至9.0%。建议报告背景/目标对照和视角间隙。",
+  "tags": [
+    "SAR图像识别",
+    "背景捷径",
+    "视角泛化",
+    "基准评估",
+    "ConvNeXt"
+  ],
+  "relevance_score": 0.82,
+  "category": "cv",
+  "key_insight": "SAR车辆识别的高准确率很大程度依赖背景捷径，真实泛化更受视角间隙和类别库完整性限制。"
+}

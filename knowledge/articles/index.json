@@ -1870,5 +1870,137 @@
     "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
     "category": "hardware",
     "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-18-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-18-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-18-002",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-11-18-003",
+    "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+    "category": "framework",
+    "relevance_score": 0.72
+  },
+  {
+    "id": "2026-11-18-004",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "category": "framework",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-18-005",
+    "title": "You could have invented transformers from memory",
+    "category": "llm",
+    "relevance_score": 0.86
+  },
+  {
+    "id": "2026-11-18-006",
+    "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+    "category": "llm",
+    "relevance_score": 0.86
+  },
+  {
+    "id": "2026-11-18-007",
+    "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+    "category": "agent",
+    "relevance_score": 0.86
+  },
+  {
+    "id": "2026-11-18-008",
+    "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+    "category": "cv",
+    "relevance_score": 0.82
+  },
+  {
+    "id": "2026-11-18-009",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "category": "llm",
+    "relevance_score": 0.86
+  },
+  {
+    "id": "2026-11-18-010",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "category": "tool",
+    "relevance_score": 0.82
+  },
+  {
+    "id": "2026-11-18-011",
+    "title": "Introducing ChatGPT for Sales",
+    "category": "tool",
+    "relevance_score": 0.78
+  },
+  {
+    "id": "2026-11-18-012",
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "category": "framework",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-18-013",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "category": "framework",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-18-014",
+    "title": "XYBench: Helping with the problem behind the question",
+    "category": "llm",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-18-015",
+    "title": "How to Choose the Right Sandbox for AI Agents",
+    "category": "agent",
+    "relevance_score": 0.86
+  },
+  {
+    "id": "2026-11-18-016",
+    "title": "Protect sensitive data in your traces: new controls in LangSmith",
+    "category": "framework",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-18-017",
+    "title": "New context engineering challenges in late 2026",
+    "category": "agent",
+    "relevance_score": 0.92
+  },
+  {
+    "id": "2026-11-18-018",
+    "title": "Put Gemini to work for you",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-18-019",
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "category": "tool",
+    "relevance_score": 0.72
+  },
+  {
+    "id": "2026-11-18-020",
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-18-021",
+    "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+    "category": "ai_safety",
+    "relevance_score": 0.78
   }
 ]

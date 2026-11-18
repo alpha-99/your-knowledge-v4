@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-18-010",
+  "title": "Strengthening NATO and allied cyber defenses with AI",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+  "collected_at": "2026-11-18T05:30:44.851104+00:00",
+  "summary": "OpenAI 与北约及盟国网络防御机构合作，将前沿 AI 模型用于受控环境中的防御性网络安全工作：辅助分析代码与配置、发现潜在漏洞、验证补丁和缓解措施、生成测试用例，并在人类专家监督下保护关键系统。项目强调可信防御者、权限最小化、审计与红队评估，目标是提升响应速度和防御能力，而非替代人工判断。",
+  "tags": [
+    "AI安全",
+    "网络安全",
+    "NATO",
+    "漏洞修复",
+    "防御自动化"
+  ],
+  "relevance_score": 0.82,
+  "category": "tool",
+  "key_insight": "AI 在网络安全中的价值集中在受控、可审计的防御辅助，而非自主攻击或无人监督决策。"
+}

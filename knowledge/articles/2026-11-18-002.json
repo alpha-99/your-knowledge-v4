@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-18-002",
+  "title": "langgenius/dify",
+  "source": "github",
+  "url": "https://github.com/langgenius/dify",
+  "collected_at": "2026-11-18T05:30:44.846655+00:00",
+  "summary": "Dify 是一个开源的 LLM 应用开发平台，旨在简化 AI 代理工作流和 RAG 管道的构建。它提供可视化的协作工作区，支持丰富的 AI 模型和工具集成，允许用户通过低代码方式快速迭代。平台支持云端、VPC 或自托管部署，确保团队能从原型阶段平滑过渡到生产环境，无需重建底层技术栈，显著降低了企业级 AI 应用的开发门槛和运维成本。",
+  "tags": [
+    "LLM 应用开发",
+    "RAG",
+    "AI 代理",
+    "低代码平台",
+    "开源"
+  ],
+  "relevance_score": 0.95,
+  "category": "framework",
+  "key_insight": "Dify 通过提供可视化的工作流编排和统一的模型管理，解决了 LLM 应用从原型到生产落地过程中的工程化难题。"
+}

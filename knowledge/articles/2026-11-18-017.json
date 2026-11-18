@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-18-017",
+  "title": "New context engineering challenges in late 2026",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/context-engineering-challenges-late-2026",
+  "collected_at": "2026-11-18T05:30:44.851104+00:00",
+  "summary": "LangChain CEO Harrison Chase 分析了2026年末随着主动型智能体（proactive agents）兴起所带来的上下文工程新挑战。当AI智能体从被动响应转向主动规划和自主行动时，传统的上下文管理方式面临根本性变革。文章探讨了如何在智能体需要自主获取、筛选、压缩和更新上下文信息的场景下，设计高效的harness工程架构，以应对上下文窗口管理、信息时效性、多轮自主决策中的状态一致性等核心难题。",
+  "tags": [
+    "上下文工程",
+    "主动智能体",
+    "harness工程",
+    "agent架构",
+    "LLM应用"
+  ],
+  "relevance_score": 0.92,
+  "category": "agent",
+  "key_insight": "主动型智能体的兴起将上下文工程从静态的prompt管理问题转变为动态的、持续的信息生命周期管理问题，要求harness层具备自主感知、筛选和更新上下文的能力。"
+}

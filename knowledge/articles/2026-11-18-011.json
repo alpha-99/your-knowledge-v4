@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-18-011",
+  "title": "Introducing ChatGPT for Sales",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+  "collected_at": "2026-11-18T05:30:44.851104+00:00",
+  "summary": "OpenAI 推出 ChatGPT for Sales，通过 Sales 插件及 30 多个合作伙伴插件，将 ChatGPT 应用于销售场景。用户可借助它研究潜在客户、准备销售话术、更新 CRM 并推进交易。该方案强调插件化扩展与业务流程集成，把大模型能力嵌入销售工作流，提升线索分析、客户沟通和成交推进效率。",
+  "tags": [
+    "ChatGPT",
+    "Sales",
+    "Plugin",
+    "CRM",
+    "Enterprise AI"
+  ],
+  "relevance_score": 0.78,
+  "category": "tool",
+  "key_insight": "ChatGPT 正从通用对话助手扩展为可连接 CRM 与销售工作流的业务智能工具。"
+}

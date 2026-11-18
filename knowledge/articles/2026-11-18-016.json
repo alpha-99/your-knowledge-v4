@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-18-016",
+  "title": "Protect sensitive data in your traces: new controls in LangSmith",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith",
+  "collected_at": "2026-11-18T05:30:44.851104+00:00",
+  "summary": "LangSmith 推出了新的敏感数据保护控制功能，帮助团队管理 LLM 应用追踪（trace）中的敏感数据访问权限。该功能允许用户配置数据脱敏、访问控制和数据保留策略，确保在调试和监控 LLM 应用时，不会意外暴露用户隐私信息、API 密钥或其他敏感内容。这对于需要满足合规要求（如 GDPR、SOC2）的企业级 LLM 部署尤为重要，使团队能够在保持可观测性的同时保障数据安全。",
+  "tags": [
+    "LangSmith",
+    "数据安全",
+    "可观测性",
+    "LLM监控",
+    "隐私保护"
+  ],
+  "relevance_score": 0.75,
+  "category": "framework",
+  "key_insight": "LLM 可观测性平台需要在调试透明度与敏感数据保护之间取得平衡，LangSmith 通过细粒度访问控制解决了这一核心矛盾。"
+}

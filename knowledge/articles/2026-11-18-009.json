@@ -1,0 +1,21 @@
+{
+  "id": "2026-11-18-009",
+  "title": "Introducing GPT-6.2 Astra and Sol",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+  "collected_at": "2026-11-18T05:30:44.851104+00:00",
+  "summary": "OpenAI 推出 GPT-6.2 Astra 与 Sol 两款模型，面向专业工作流、编程、计算机操作和 API 调用场景进行优化。项目强调在提升输出质量与任务执行能力的同时降低推理成本，并覆盖 ChatGPT Work、Codex 和 API 等入口，体现大模型从通用对话向企业级生产力工具演进。",
+  "tags": [
+    "GPT-6.2",
+    "Astra",
+    "Sol",
+    "OpenAI",
+    "LLM",
+    "coding",
+    "computer use",
+    "API"
+  ],
+  "relevance_score": 0.86,
+  "category": "llm",
+  "key_insight": "OpenAI 正通过 Astra 与 Sol 的双模型策略，将大模型能力进一步聚焦到专业办公、编程与计算机操作等高价值生产力场景。"
+}

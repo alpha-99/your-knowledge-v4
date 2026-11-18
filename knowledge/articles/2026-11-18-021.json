@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-18-021",
+  "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+  "collected_at": "2026-11-18T05:30:44.851104+00:00",
+  "summary": "Meta首席AI官Alexandr Wang在Instagram发布AI生成短片推广Muse，视频中出现Wang、Zuckerberg、Sam Altman等高管形象，引发对AI深度伪造、肖像授权与平台审核的讨论。文章指出Instagram上大量AI生成内容模糊真实与虚构边界，即使科技高管也难以避免被合成或误认，凸显生成式AI在社交媒体传播中的治理挑战。",
+  "tags": [
+    "AI deepfake",
+    "Instagram",
+    "Meta",
+    "肖像授权",
+    "内容审核"
+  ],
+  "relevance_score": 0.78,
+  "category": "ai_safety",
+  "key_insight": "生成式AI让高管形象可被低成本合成，社交平台需强化来源标识、授权审核与虚假信息治理。"
+}

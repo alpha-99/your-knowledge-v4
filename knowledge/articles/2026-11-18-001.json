@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-18-001",
+  "title": "firecrawl/firecrawl",
+  "source": "github",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "collected_at": "2026-11-18T05:30:44.846652+00:00",
+  "summary": "Firecrawl是一个开源的知识基础设施项目，提供统一的API接口来搜索、爬取和抓取网页内容。它将网站内容转换为干净的、LLM就绪的Markdown格式，集成550+数据提供商。该项目旨在为AI Agent和RAG管道提供结构化的网络数据源，解决原始网页数据难以被大语言模型直接消费的问题，支持动态页面渲染、JavaScript执行和多种输出格式。",
+  "tags": [
+    "web-scraping",
+    "data-infrastructure",
+    "LLM-ready",
+    "RAG",
+    "API"
+  ],
+  "relevance_score": 0.85,
+  "category": "tool",
+  "key_insight": "Firecrawl通过统一API将原始网页数据转化为LLM可直接消费的结构化内容，是连接互联网知识与AI智能体的关键数据管道层。"
+}

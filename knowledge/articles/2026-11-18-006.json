@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-18-006",
+  "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.21682",
+  "collected_at": "2026-11-18T05:30:44.851104+00:00",
+  "summary": "NEBench R1 构建面向核工程推理能力的大模型评测基准，包含 7,546 道来自美国核管理委员会反应堆操作员执照考试的选择题，覆盖 18 座核设施，并按知识能力目录分类，附官方解释。研究评测 6 个 LLM，准确率 34.0%–73.9%，形成三个性能层级。基于多维评分的 LLM 评审发现：模型虽能理解题意，但事实、程序准确性和干扰项分析较弱，正确答案未必有可靠技术依据；推理链更长反而准确率更低，提示推理长度可能反映题目难度而非解题能力。",
+  "tags": [
+    "LLM评测",
+    "核工程",
+    "推理能力",
+    "安全关键领域",
+    "基准测试"
+  ],
+  "relevance_score": 0.86,
+  "category": "llm",
+  "key_insight": "在核工程等高安全领域，模型答对并不等于推理可靠，需同时评估答案准确率与推理质量。"
+}

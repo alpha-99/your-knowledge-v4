@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-18-019",
+  "title": "New Ask Maps features to help with holiday travel and prep",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+  "collected_at": "2026-11-18T05:30:44.851104+00:00",
+  "summary": "Google Maps推出'Ask Maps'新功能，利用AI技术帮助用户规划假日出行。该功能允许用户通过自然语言对话方式查询旅行相关信息，包括目的地推荐、行程规划、交通方式比较等。新功能针对假日旅行场景进行了优化，能够处理复杂的出行需求，提供个性化的旅行建议和准备工作指导。这是Google将大语言模型能力深度整合到地图产品中的又一举措。",
+  "tags": [
+    "Google Maps",
+    "AI助手",
+    "自然语言交互",
+    "旅行规划",
+    "LLM应用"
+  ],
+  "relevance_score": 0.72,
+  "category": "tool",
+  "key_insight": "Google将LLM能力嵌入地图产品，通过'Ask Maps'对话式AI将复杂的旅行规划简化为自然语言交互，展示了AI Agent在垂直场景中的实用化落地路径。"
+}

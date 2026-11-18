@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-18-014",
+  "title": "XYBench: Helping with the problem behind the question",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/allenai/xybench",
+  "collected_at": "2026-11-18T05:30:44.851104+00:00",
+  "summary": "XYBench是由AllenAI发布的一个AI基准测试框架，旨在评估模型理解问题背后深层问题的能力。与传统基准测试仅关注表面问答不同，XYBench强调模型需要识别并解决用户提问背后的真实需求和问题本质。该基准测试关注模型在复杂场景下的推理能力，能够区分模型是简单匹配答案还是真正理解了问题的核心意图，为评估AI助手的实用性和深度理解能力提供了新的维度。",
+  "tags": [
+    "benchmark",
+    "evaluation",
+    "reasoning",
+    "NLP",
+    "AI-assessment"
+  ],
+  "relevance_score": 0.75,
+  "category": "llm",
+  "key_insight": "评估AI模型不应仅看其能否回答问题，更应考察其能否理解并解决问题背后的真实需求。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-18-005",
+  "title": "You could have invented transformers from memory",
+  "source": "Lobsters AI/ML",
+  "url": "https://alexwang.ai/posts/associative-memory/",
+  "collected_at": "2026-11-18T05:30:44.851104+00:00",
+  "summary": "文章从记忆系统视角重新解释 Transformer：注意力本质是键值关联记忆，查询通过 softmax 检索相关键值；多头、残差、位置编码等可视为记忆容量、并行读写与序列位置建模的工程选择。作者认为 Transformer 并非凭空发明，而可由记忆/联想计算原理推导，强调架构设计应围绕记忆检索、更新与泛化展开，为理解 LLM 架构提供简洁理论框架。",
+  "tags": [
+    "Transformer",
+    "Attention",
+    "Associative Memory",
+    "LLM Architecture",
+    "Key-Value Memory"
+  ],
+  "relevance_score": 0.86,
+  "category": "llm",
+  "key_insight": "Transformer 可被理解为一种基于键值检索的关联记忆系统，而非单纯的序列建模黑盒。"
+}

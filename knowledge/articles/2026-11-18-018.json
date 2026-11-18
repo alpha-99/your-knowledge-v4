@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-18-018",
+  "title": "Put Gemini to work for you",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+  "collected_at": "2026-11-18T05:30:44.851104+00:00",
+  "summary": "Google Gemini推出任务自动化功能，用户可通过自然语言描述任务（如'Describe a task'），由Gemini自动执行。该功能以免费形式提供，界面设计简洁，以'What can I get done for you?'为核心交互入口。这标志着Google将Gemini从对话助手向任务执行型AI Agent方向演进，旨在降低用户使用门槛，让AI直接完成用户指定的具体任务，而非仅提供信息或建议。",
+  "tags": [
+    "Gemini",
+    "AI Agent",
+    "任务自动化",
+    "Google AI",
+    "自然语言交互"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "Google正将Gemini从对话式AI助手转型为可执行具体任务的AI Agent，通过自然语言任务描述实现端到端自动化。"
+}

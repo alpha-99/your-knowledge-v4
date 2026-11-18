@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-18-015",
+  "title": "How to Choose the Right Sandbox for AI Agents",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/how-to-choose-the-right-sandbox-for-your-agent",
+  "collected_at": "2026-11-18T05:30:44.851104+00:00",
+  "summary": "本文讨论为 AI Agent 选择安全沙箱的关键原则。核心包括文件系统隔离、网络访问控制、资源限制和微虚拟机方案，用于降低代码执行、数据泄露和系统滥用风险。文章强调应根据 Agent 的任务复杂度、权限需求和部署环境选择隔离强度，而非仅依赖单一容器或默认配置。",
+  "tags": [
+    "AI Agent",
+    "沙箱安全",
+    "微虚拟机",
+    "资源隔离",
+    "LangChain"
+  ],
+  "relevance_score": 0.86,
+  "category": "agent",
+  "key_insight": "AI Agent 的安全边界应通过文件系统、网络、资源和执行环境的多层隔离共同构建。"
+}
