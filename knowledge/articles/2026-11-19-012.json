@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-19-012",
+  "title": "The Silent Consensus",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/the-silent-consensus",
+  "collected_at": "2026-11-19T05:29:23.007019+00:00",
+  "summary": "本文由OpenAI战略未来主管Dean Ball撰写，探讨了更强大的AI如何通过潜移默化的方式重塑社会共识与制度。作者指出，随着AI能力增强，社会可能面临'无声共识'的风险，即AI在不知不觉中改变机构运作方式。文章强调，人类必须主动设计治理机制，确保对关键机构的控制权，避免技术力量主导社会变革。",
+  "tags": [
+    "AI治理",
+    "社会影响",
+    "机构控制"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "AI能力的提升可能通过改变信息环境和社会共识，悄然重塑制度，人类必须主动介入以保持控制。"
+}

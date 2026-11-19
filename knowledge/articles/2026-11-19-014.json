@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-19-014",
+  "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/business/customer-stories/sumitomo-life",
+  "collected_at": "2026-11-19T05:29:23.007019+00:00",
+  "summary": "住友生命保险通过引入ChatGPT Enterprise，将生成式AI融入日常业务。高管率先使用，形成示范效应，推动全公司采纳。主要应用场景包括：保险研究、提案准备和投资分析代码编写。该案例展示了企业级LLM部署中，领导层参与对组织变革的关键作用，以及AI在金融保险领域的实际落地路径。",
+  "tags": [
+    "ChatGPT Enterprise",
+    "企业级LLM",
+    "组织采纳",
+    "保险科技",
+    "高管驱动"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "高管先行使用是推动企业级LLM规模化采纳的关键杠杆，而非单纯的技术部署。"
+}

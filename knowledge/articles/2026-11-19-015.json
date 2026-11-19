@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-19-015",
+  "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "collected_at": "2026-11-19T05:29:23.007019+00:00",
+  "summary": "DaisyRose-27B 是一个 27B 参数的大语言模型，专注于提升后训练（post-training）效率。该模型通过创新的后训练方法，在保持高性能的同时显著降低训练成本和时间。文章详细介绍了其技术路线，包括数据配比、训练策略和优化技巧，展示了在推理、数学和代码等任务上的优异表现。该工作旨在推动大模型后训练的高效化，为资源受限的研究者提供可行方案。",
+  "tags": [
+    "大语言模型",
+    "后训练",
+    "效率优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "通过优化后训练流程，DaisyRose-27B 在同等性能下大幅降低了训练资源消耗，为高效大模型开发提供了新范式。"
+}

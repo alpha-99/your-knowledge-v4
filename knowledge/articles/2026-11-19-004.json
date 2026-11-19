@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-19-004",
+  "title": "AI is killing All About Berlin",
+  "source": "Hacker News Best",
+  "url": "https://nicolasbouliane.com/blog/death-by-ai",
+  "collected_at": "2026-11-19T05:29:23.007019+00:00",
+  "summary": "文章以“All About Berlin”网站为例，详细分析了AI大模型对独立内容网站的冲击。AI生成内容导致搜索引擎排名下降，AI爬虫抓取增加服务器负担，而用户更倾向于直接获取AI摘要而非点击原文。作者认为这是系统性风险，并探讨了内容创作者如何应对这一趋势。",
+  "tags": [
+    "AI影响",
+    "内容生态",
+    "流量下降"
+  ],
+  "relevance_score": 0.9,
+  "category": "llm",
+  "key_insight": "AI生成内容正在侵蚀原创网站的流量，迫使内容创作者重新思考商业模式。"
+}

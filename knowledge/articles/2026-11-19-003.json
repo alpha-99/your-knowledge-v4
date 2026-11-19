@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-19-003",
+  "title": "AI agents ask better questions than KPMG accountants in audit trial",
+  "source": "Hacker News Best",
+  "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+  "collected_at": "2026-11-19T05:29:23.007019+00:00",
+  "summary": "该文章报道了一项审计试验，对比了AI代理与KPMG会计师在审计过程中提出问题的能力。结果显示，AI代理能够提出更精准、更深入的问题，有助于发现潜在风险和改进审计流程。这项研究展示了AI在专业服务领域的潜力，尤其是通过智能提问增强审计质量。文章基于实际试验数据，引发对AI替代或辅助人类专业角色的讨论。",
+  "tags": [
+    "AI agent",
+    "audit",
+    "accounting",
+    "KPMG",
+    "question generation"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "AI代理在审计试验中展现出比人类会计师更优的提问能力，表明智能体可提升专业服务中的信息获取质量。"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-19-007",
+  "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+  "source": "Lobsters AI/ML",
+  "url": "https://arxiv.org/abs/2607.02512",
+  "collected_at": "2026-11-19T05:29:23.007019+00:00",
+  "summary": "该论文提出一种名为“Program-as-Weights”的编程范式，用于模糊函数。其核心思想是将程序编码为权重，使模型能够学习模糊逻辑，从而融合程序合成与神经网络的优势。该范式可能为可解释AI和模糊推理提供新的途径，通过权重表示程序结构，实现可微的模糊函数学习。",
+  "tags": [
+    "program-as-weights",
+    "fuzzy-functions",
+    "neuro-symbolic",
+    "programming-paradigm"
+  ],
+  "relevance_score": 0.8,
+  "category": "framework",
+  "key_insight": "将程序表示为权重，使模糊函数可学习，实现神经符号融合。"
+}

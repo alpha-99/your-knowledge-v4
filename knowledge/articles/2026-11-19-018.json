@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-19-018",
+  "title": "LangSmith for Coding Agents: Now track spend by outcome",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/langsmith-coding-agents-roi",
+  "collected_at": "2026-11-19T05:29:23.007019+00:00",
+  "summary": "LangSmith 新增了针对编码代理的报告功能，能够追踪代理的支出并将其与生成的拉取请求（PR）关联。这使得团队可以评估编码代理的投资回报率（ROI），了解每个 PR 的成本，并优化代理的使用。该功能提供了细粒度的成本分析，帮助开发者和管理者做出更明智的决策。",
+  "tags": [
+    "LangSmith",
+    "coding agents",
+    "spend tracking"
+  ],
+  "relevance_score": 0.9,
+  "category": "tool",
+  "key_insight": "通过将编码代理的支出与产出 PR 关联，LangSmith 提供了衡量编码代理 ROI 的新方法。"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-19-019",
+  "title": "How to Choose the Right Sandbox for AI Agents",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/how-to-choose-the-right-sandbox-for-your-agent",
+  "collected_at": "2026-11-19T05:29:23.007019+00:00",
+  "summary": "本文针对AI代理的安全运行需求，系统阐述了如何选择合适的沙箱环境。核心考量包括文件系统隔离（防止代理访问宿主敏感文件）、网络访问控制（限制出站流量以防数据泄露）、资源限制（CPU/内存/磁盘配额避免资源耗尽）以及微VM（提供硬件级隔离，适合高安全场景）。文章对比了进程级沙箱、容器和微VM的优缺点，并给出基于代理权限需求的选择策略，强调在隔离强度与性能开销之间取得平衡。",
+  "tags": [
+    "AI代理安全",
+    "沙箱",
+    "微VM"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "选择沙箱需根据代理的权限需求，在隔离强度与性能开销之间取得平衡。"
+}

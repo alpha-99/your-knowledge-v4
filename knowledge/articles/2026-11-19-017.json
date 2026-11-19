@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-19-017",
+  "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+  "collected_at": "2026-11-19T05:29:23.007019+00:00",
+  "summary": "本文探讨了将预训练时间序列模型集成到流式数据处理平台（Streamhouse）中的新前沿。作者指出，传统时间序列模型通常用于离线批处理，而流式环境需要实时、增量式的推理。文章介绍了如何利用IBM的TinyTimeMixers等轻量级模型，在流处理管道中实现高效的时间序列预测和异常检测，并展示了多个实际用例，如物联网传感器监控、金融交易实时分析等。该方案兼顾了低延迟与高精度，为实时决策提供了新范式。",
+  "tags": [
+    "时间序列",
+    "流处理",
+    "预测",
+    "实时分析",
+    "预训练模型"
+  ],
+  "relevance_score": 0.8,
+  "category": "framework",
+  "key_insight": "将轻量级预训练时间序列模型嵌入流处理管道，可实现低延迟、高精度的实时预测与异常检测，开辟了流式AI的新应用场景。"
+}

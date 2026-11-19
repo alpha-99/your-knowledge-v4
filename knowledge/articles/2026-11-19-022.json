@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-19-022",
+  "title": "Put Gemini to work for you",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+  "collected_at": "2026-11-19T05:29:23.007019+00:00",
+  "summary": "Google 在 Gemini 应用中推出 Tasks 功能，用户通过自然语言描述任务（如“帮我订披萨”），Gemini 可自主规划并执行多步骤操作，整合日历、邮件、地图等工具，实现从意图到行动的闭环。该功能免费开放，旨在让 AI 从对话助手升级为主动执行任务的智能代理，提升日常事务处理效率。",
+  "tags": [
+    "Gemini",
+    "AI Agent",
+    "任务自动化"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "Gemini Tasks 标志着 AI 从被动对话转向主动执行，通过自然语言任务描述驱动多工具协同，是智能代理落地的关键一步。"
+}

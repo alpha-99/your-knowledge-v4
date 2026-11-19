@@ -2002,5 +2002,167 @@
     "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
     "category": "ai_safety",
     "relevance_score": 0.78
+  },
+  {
+    "id": "2026-11-19-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-19-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-19-002",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-19-003",
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-19-004",
+    "title": "AI is killing All About Berlin",
+    "category": "llm",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-19-005",
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-19-006",
+    "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+    "category": "framework",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-19-007",
+    "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+    "category": "framework",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-19-008",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "category": "llm",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-19-009",
+    "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+    "category": "ai_safety",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-19-010",
+    "title": "Training Language Models for Introspective Oversight",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-19-011",
+    "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-19-012",
+    "title": "The Silent Consensus",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-19-013",
+    "title": "Research acceleration: The jagged frontier",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-19-014",
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-19-015",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-19-016",
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-19-017",
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "category": "framework",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-19-018",
+    "title": "LangSmith for Coding Agents: Now track spend by outcome",
+    "category": "tool",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-19-019",
+    "title": "How to Choose the Right Sandbox for AI Agents",
+    "category": "agent",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-19-020",
+    "title": "Protect sensitive data in your traces: new controls in LangSmith",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-19-021",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "category": "llm",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-19-022",
+    "title": "Put Gemini to work for you",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-19-023",
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "category": "tool",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-19-024",
+    "title": "The nation’s largest school districts consider ditching Google Search",
+    "category": "tool",
+    "relevance_score": 0.82
+  },
+  {
+    "id": "2026-11-19-025",
+    "title": "Trump’s latest land grab is an AI hub in the Philippines",
+    "category": "tool",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-19-026",
+    "title": "Nvidia’s rise, visualized",
+    "category": "tool",
+    "relevance_score": 0.8
   }
 ]

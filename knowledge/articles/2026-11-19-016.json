@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-19-016",
+  "title": "Why your fine-tuning job takes longer than the FLOPs say",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+  "collected_at": "2026-11-19T05:29:23.007019+00:00",
+  "summary": "文章指出，实际微调大模型的时间往往远超理论FLOPs计算值，原因在于FLOPs仅衡量计算量，忽略了内存带宽、数据加载、通信开销、优化器状态更新及梯度同步等非计算瓶颈。作者通过实验分析，揭示了内存访问模式、批次大小、序列长度和并行策略对训练效率的显著影响，并提出了更准确的耗时预测方法，帮助工程师优化训练配置，避免资源浪费。",
+  "tags": [
+    "微调",
+    "FLOPs",
+    "训练效率"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "微调时间远超FLOPs预测，主要受内存带宽和通信开销等非计算因素制约，需综合建模才能准确估算。"
+}

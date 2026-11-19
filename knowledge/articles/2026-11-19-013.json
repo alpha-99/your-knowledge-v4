@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-19-013",
+  "title": "Research acceleration: The jagged frontier",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "collected_at": "2026-11-19T05:29:23.007019+00:00",
+  "summary": "OpenAI 通过实验测量编码代理（coding agents）在加速 AI 研究中的表现，发现其性能呈现“锯齿状前沿”（jagged frontier）：在部分任务上能显著加速，但在其他任务上表现不佳甚至倒退。研究指出，代理在代码生成、调试等结构化任务中表现优异，但在需要深度推理、长程规划或跨模块整合的复杂研究任务中仍显不足。这一现象对递归自我改进（recursive self-improvement）具有关键启示：当前代理尚不足以自主推动 AI 研究加速，但作为辅助工具已能提升效率，未来需结合更强大的推理能力与任务分解策略。",
+  "tags": [
+    "coding agents",
+    "AI research acceleration",
+    "recursive self-improvement"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "编码代理在加速 AI 研究上呈现不均匀的“锯齿状”性能，表明递归自我改进目前仍受限于复杂推理与长程规划能力。"
+}

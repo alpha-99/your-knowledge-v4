@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-19-011",
+  "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.23375",
+  "collected_at": "2026-11-19T05:29:23.007019+00:00",
+  "summary": "该论文提出软件热力学理论，将编码代理的token消耗类比为热力学中的功与热，以测试套件作为麦克斯韦妖。通过让代理反复执行编码-撤销循环，测量软件温度，发现约80%的token属于热（即未改变请求状态的调用），自由能仅占成功运行平均成本的14-22%，且编码成本是撤销的1.1-1.5倍。该理论为分析和优化编码代理提供了新工具。",
+  "tags": [
+    "agent",
+    "thermodynamics",
+    "token efficiency",
+    "coding agent",
+    "software entropy"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "编码代理约80%的token消耗是无效的'热'，自由能仅占14-22%，表明存在巨大优化空间。"
+}
