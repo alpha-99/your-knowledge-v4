@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-20-014",
+  "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+  "collected_at": "2026-11-20T05:16:59.169709+00:00",
+  "summary": "本文探讨了时间序列模型在流式数据仓库（Streamhouse）中的集成应用，展示了如何将预测模型直接部署在流处理管道上，实现实时异常检测与预测。文章介绍了IBM Research在Streamhouse架构中构建时间序列推理服务的实践，包括模型管理、特征工程和在线推理，并讨论了多个用例，如设备监控、能源负载预测和金融风险预警。作者强调了流式推理与批处理推理的差异，以及如何利用流处理引擎的窗口和状态管理来优化模型性能。",
+  "tags": [
+    "time-series",
+    "streaming",
+    "streamhouse",
+    "real-time",
+    "forecasting"
+  ],
+  "relevance_score": 0.75,
+  "category": "framework",
+  "key_insight": "将时间序列模型嵌入流式数据仓库，可实现低延迟、高吞吐的实时预测和异常检测，为运营决策提供即时洞察。"
+}

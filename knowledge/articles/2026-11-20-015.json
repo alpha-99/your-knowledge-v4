@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-20-015",
+  "title": "Why agent governance starts with observability",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/agent-governance-observability",
+  "collected_at": "2026-11-20T05:16:59.169709+00:00",
+  "summary": "本文探讨了AI智能体治理中可观测性的核心作用。文章指出，随着智能体自主性增强，治理策略必须从可观测性入手，通过追踪、评估和监控智能体的行为、决策和输出，确保其符合预期目标和安全规范。可观测性不仅用于调试，更是治理的基础，能够帮助团队识别风险、验证合规性并建立信任。LangChain提供了相关工具支持，强调在智能体生命周期中集成可观测性实践。",
+  "tags": [
+    "agent governance",
+    "observability",
+    "LangChain"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "可观测性是智能体治理的基石，没有可观测性，治理无从谈起。"
+}

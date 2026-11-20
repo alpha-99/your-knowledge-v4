@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-20-017",
+  "title": "LangSmith Tool Gateway: Secure, governed tool use for agents",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/langsmith-tool-gateway",
+  "collected_at": "2026-11-20T05:16:59.169709+00:00",
+  "summary": "LangSmith Tool Gateway 是 LangChain 推出的工具网关（公开测试版），为 AI Agent 的每次工具调用提供统一的凭据管理、身份认证和访问控制。它通过策略引擎、审批流程和全链路追踪，确保工具调用安全、合规且可审计。该网关解决了 Agent 调用外部工具时凭证分散、权限失控和缺乏治理的痛点，使企业能够安全地让 Agent 使用内部或第三方工具。",
+  "tags": [
+    "agent",
+    "tool-gateway",
+    "security",
+    "governance",
+    "langsmith"
+  ],
+  "relevance_score": 0.85,
+  "category": "tool",
+  "key_insight": "通过集中式网关统一管理 Agent 工具调用的身份、凭证与策略，将安全治理从应用层下沉到基础设施层。"
+}

@@ -2164,5 +2164,143 @@
     "title": "Nvidia’s rise, visualized",
     "category": "tool",
     "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-20-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-20-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.92
+  },
+  {
+    "id": "2026-11-20-002",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-11-20-003",
+    "title": "Rebuilding my local voice assistant pipeline",
+    "category": "agent",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-20-004",
+    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "category": "framework",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-20-005",
+    "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+    "category": "framework",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-20-006",
+    "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-20-007",
+    "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
+    "category": "agent",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-20-008",
+    "title": "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
+    "category": "agent",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-20-009",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-20-010",
+    "title": "Deploying Daybreak Red",
+    "category": "framework",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-20-011",
+    "title": "See PR scans in action",
+    "category": "tool",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-20-012",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-20-013",
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-20-014",
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "category": "framework",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-20-015",
+    "title": "Why agent governance starts with observability",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-20-016",
+    "title": "LangChain Raises $300M Series C at $3B Valuation",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-20-017",
+    "title": "LangSmith Tool Gateway: Secure, governed tool use for agents",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-20-018",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-20-019",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-20-020",
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "category": "agent",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-20-021",
+    "title": "A brief history of Nvidia’s recent stock fluctuations",
+    "category": "hardware",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-20-022",
+    "title": "Meta’s Muse Charm might cost $300",
+    "category": "agent",
+    "relevance_score": 0.7
   }
 ]

@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-20-005",
+  "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+  "source": "Lobsters AI/ML",
+  "url": "https://energy-based-reasoners.github.io/",
+  "collected_at": "2026-11-20T05:16:59.169709+00:00",
+  "summary": "该研究提出将循环推理器（Recurrent Reasoner）重新解释为能量模型（Energy-Based Model），通过能量函数定义推理过程，使多步推理成为能量最小化问题。这种方法统一了推理与能量优化，有望提升推理的稳定性、可解释性和泛化能力，为构建更可靠的推理系统提供新的理论框架。",
+  "tags": [
+    "energy-based model",
+    "recurrent reasoning",
+    "inference",
+    "machine learning"
+  ],
+  "relevance_score": 0.8,
+  "category": "framework",
+  "key_insight": "将循环推理器重新表述为能量模型，使推理过程成为能量最小化，从而提升推理的鲁棒性和泛化能力。"
+}

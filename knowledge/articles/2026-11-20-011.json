@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-20-011",
+  "title": "See PR scans in action",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/business/learn/pr-scans-demo",
+  "collected_at": "2026-11-20T05:16:59.169709+00:00",
+  "summary": "该演示展示了 OpenAI 的 PR 扫描功能在拉取请求工作流中的实际应用。通过视频演示，用户可以看到如何审查扫描结果，该功能利用 AI 自动分析代码变更，识别潜在问题、安全漏洞或改进建议，并将其直接集成到 PR 审查流程中，帮助开发者更高效地完成代码审查。",
+  "tags": [
+    "code review",
+    "AI scanning",
+    "pull request"
+  ],
+  "relevance_score": 0.8,
+  "category": "tool",
+  "key_insight": "AI 扫描结果集成到 PR 工作流，提升代码审查效率。"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-20-013",
+  "title": "Why your fine-tuning job takes longer than the FLOPs say",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+  "collected_at": "2026-11-20T05:16:59.169709+00:00",
+  "summary": "文章分析了微调任务实际耗时与理论FLOPs计算不一致的现象。FLOPs仅衡量计算量，而实际训练时间受内存带宽、数据加载、梯度同步、优化器状态更新等非计算开销影响，导致耗时显著增加。作者提出了更准确的预测方法，考虑硬件特性和训练配置，帮助开发者合理规划资源。",
+  "tags": [
+    "微调",
+    "性能分析",
+    "FLOPs"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "微调实际时间远大于FLOPs预测，因为非计算开销（如内存访问和通信）主导了训练时间。"
+}

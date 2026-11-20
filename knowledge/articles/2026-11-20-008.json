@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-20-008",
+  "title": "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.25087",
+  "collected_at": "2026-11-20T05:16:59.169709+00:00",
+  "summary": "SailSearch提出一种人类引导的算法研究工作流，使用两个语言模型代理，分别负责搜索和验证，应用于Market Split和最大独立集问题。在Market Split上，随机算法通过多格基搜索与格基约简交替，在24小时双核CPU限制下，首次以CPU-only方式解决了18个先前未解决的QOBLIB实例，每个随机种子平均解决130-133个基准实例。在MIS上，生成器将植入的XOR约束编码为带认证最优值的图，但测试求解器在8小时内返回的解比最优值低5-15个顶点。该工作展示了LLM代理辅助算法发现的实际潜力。",
+  "tags": [
+    "agent",
+    "combinatorial optimization",
+    "algorithm discovery",
+    "LLM",
+    "Market Split"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "通过人类引导的双代理工作流，LLM能够自动发现新的组合优化算法，并解决多个开放实例。"
+}

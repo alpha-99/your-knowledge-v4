@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-20-020",
+  "title": "Apple is hiring engineers to build its own AI agent",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+  "collected_at": "2026-11-20T05:16:59.169709+00:00",
+  "summary": "苹果公司正在招聘工程师，以构建自己的AI代理（AI agent）。该代理能够执行多种任务，包括网页浏览、跨应用操作、代码编写和调用服务。这一招聘信息由彭博社发现，表明苹果正致力于开发一个代理式AI助手，以增强其生态系统中的智能交互能力。",
+  "tags": [
+    "AI agent",
+    "Apple",
+    "招聘"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "苹果正通过自研代理式AI助手，强化其生态内的跨应用自动化能力。"
+}

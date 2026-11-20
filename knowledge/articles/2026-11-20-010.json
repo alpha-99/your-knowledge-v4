@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-20-010",
+  "title": "Deploying Daybreak Red",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/business/learn/deploying-daybreak-red",
+  "collected_at": "2026-11-20T05:16:59.169709+00:00",
+  "summary": "Daybreak Red 是 OpenAI 推出的受监督安全调查参考架构，旨在帮助安全团队高效开展威胁检测与事件响应。该架构集成了安全控制、部署配置和监控机制，支持人类专家对 AI 调查过程进行实时监督与干预。核心组件包括数据采集、分析引擎、决策辅助和报告生成模块，并内置访问控制、审计日志和异常检测等安全防护。通过标准化部署流程和持续监控，Daybreak Red 提升了安全调查的准确性和可追溯性，同时确保 AI 行为符合组织安全政策。",
+  "tags": [
+    "安全调查",
+    "参考架构",
+    "AI安全"
+  ],
+  "relevance_score": 0.9,
+  "category": "framework",
+  "key_insight": "Daybreak Red 通过将 AI 调查能力嵌入受人类监督的参考架构，实现了安全调查的自动化与可控性的平衡。"
+}

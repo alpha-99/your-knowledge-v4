@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-20-006",
+  "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.25043",
+  "collected_at": "2026-11-20T05:16:59.169709+00:00",
+  "summary": "本文提出一种授权有界的代理架构，集成于自驱动实验室的DMTA循环分析-设计界面，使代理能自主选择测量并解释数据，但所有状态改变操作需经授权、验证和审计。在LC-MS氧化剂筛选中，代理提交任务、解析质谱和DAD数据、标记失败并生成氧化剂排名，与脚本结果一致。模拟中，代理在约第七次注入即找到最高产率条件（随机需14.5次），且注入限制≥8时总能识别。该工作缩小了分析到设计差距，同时保证动作有界可验证，向SDL自主性迈进一步。",
+  "tags": [
+    "自驱动实验室",
+    "授权边界",
+    "AI代理"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "通过授权边界和审计机制，让AI代理在自驱动实验室中安全地执行分析-设计闭环，实现可验证的自主性。"
+}

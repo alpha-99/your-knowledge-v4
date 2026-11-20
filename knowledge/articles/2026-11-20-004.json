@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-20-004",
+  "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+  "source": "Lobsters AI/ML",
+  "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+  "collected_at": "2026-11-20T05:16:59.169709+00:00",
+  "summary": "该文章介绍了Google Research提出的睡眠框架（Sleep Framework），一种用于大型语言模型（LLM）持续学习的新方法。该方法受人类睡眠中记忆巩固过程的启发，在训练过程中引入模拟睡眠阶段，通过重放旧样本或调整参数来巩固已学知识，从而缓解灾难性遗忘。实验表明，该框架能有效提升模型在连续任务上的性能，同时保持对新任务的学习能力。这一工作为LLM的持续学习提供了新的思路。",
+  "tags": [
+    "continual learning",
+    "LLM",
+    "memory consolidation"
+  ],
+  "relevance_score": 0.8,
+  "category": "framework",
+  "key_insight": "通过模拟睡眠阶段的记忆巩固机制，有效缓解LLM在持续学习中的灾难性遗忘。"
+}

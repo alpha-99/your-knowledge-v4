@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-20-007",
+  "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.25070",
+  "collected_at": "2026-11-20T05:16:59.169709+00:00",
+  "summary": "本文提出CodeReAct智能体框架，通过自然语言交互实现工业设备维护的智能工作订单管理。该框架将工业数据标准化为业务对象，利用分析函数API调用，采用类似人类解决问题的思考-行动-观察过程，自动生成可执行代码以完成复杂分析任务。以冷水机组维护为案例，验证了该框架能有效处理多年工作订单数据、识别异常并支持决策，显著减少对数据科学家的依赖。",
+  "tags": [
+    "LLM Agent",
+    "工业维护",
+    "代码生成"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "通过Thought-Action-Observation过程自动生成代码，实现工业维护工作订单的智能管理，减少数据科学家参与。"
+}
