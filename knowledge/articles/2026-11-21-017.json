@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-21-017",
+  "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+  "collected_at": "2026-11-21T05:09:39.004124+00:00",
+  "summary": "Anthropic数学家Levent Alpöge声称在AI模型Claude的协助下证明了黎曼猜想，这是数学界最著名的未解难题之一，也是千禧年大奖难题。若经同行评审验证，将标志着AI在数学领域取得又一里程碑式成就，并可能重塑数学研究范式。目前该证明尚未公开验证，需谨慎对待。",
+  "tags": [
+    "AI数学证明",
+    "黎曼猜想",
+    "Claude"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "AI辅助数学证明可能成为解决长期未解难题的新范式，但需严格验证。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-21-015",
+  "title": "The Gemini app is now available on lower-memory Android devices.",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+  "collected_at": "2026-11-21T05:09:39.004124+00:00",
+  "summary": "Google宣布其Gemini应用现已支持低内存Android设备，使更多用户能够使用Gemini Live和自定义图像生成功能。通过优化模型和内存管理，Google将大语言模型能力扩展到低端硬件，降低了使用门槛。此举体现了端侧AI部署的进步，通过模型压缩和资源调度，让AI功能在有限内存设备上流畅运行，推动AI普惠化。",
+  "tags": [
+    "Gemini",
+    "Android",
+    "低内存设备",
+    "端侧AI",
+    "模型优化"
+  ],
+  "relevance_score": 0.75,
+  "category": "llm",
+  "key_insight": "通过模型压缩和内存优化，Gemini应用成功扩展到低内存Android设备，加速了端侧AI的普及。"
+}

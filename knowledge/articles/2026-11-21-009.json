@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-21-009",
+  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "collected_at": "2026-11-21T05:09:39.004124+00:00",
+  "summary": "本文介绍Hugging Face推出的harness adapters，一种将不同模型适配到评估框架（harness）的适配器机制。通过标准化接口，用户可轻松接入各类模型，并针对特定任务优化推理性能与成本。适配器支持动态选择模型、批处理及缓存策略，在保持评估质量的同时显著降低计算开销。该方案已在大规模基准测试中验证，能有效提升资源利用率。",
+  "tags": [
+    "模型适配",
+    "性能优化",
+    "成本效率",
+    "评估框架"
+  ],
+  "relevance_score": 0.85,
+  "category": "framework",
+  "key_insight": "通过适配器解耦模型与评估框架，实现性能与成本的最优平衡。"
+}

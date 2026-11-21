@@ -2302,5 +2302,113 @@
     "title": "Meta’s Muse Charm might cost $300",
     "category": "agent",
     "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-21-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-21-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-21-002",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.95
+  },
+  {
+    "id": "2026-11-21-003",
+    "title": "Rebuilding my local voice assistant pipeline",
+    "category": "agent",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-21-004",
+    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-21-005",
+    "title": "Combatting adversarial distillation",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-21-006",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-21-007",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "category": "benchmark",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-21-008",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "category": "llm",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-21-009",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "category": "framework",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-21-010",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-21-011",
+    "title": "LangChain Raises $300M Series C at $3B Valuation",
+    "category": "agent",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-21-012",
+    "title": "LangSmith Tool Gateway: Secure, governed tool use for agents",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-21-013",
+    "title": "Why agent governance starts with observability",
+    "category": "agent",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-21-014",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-21-015",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "category": "llm",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-21-016",
+    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+    "category": "policy",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-21-017",
+    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "category": "llm",
+    "relevance_score": 0.85
   }
 ]

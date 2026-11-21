@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-21-013",
+  "title": "Why agent governance starts with observability",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/agent-governance-observability",
+  "collected_at": "2026-11-21T05:09:39.004124+00:00",
+  "summary": "文章指出，AI代理治理（Agent Governance）必须从可观测性（Observability）开始。代理系统具有自主决策、工具调用和复杂工作流，其行为难以预测，因此需要全面的监控、追踪和评估机制来确保安全、合规与可靠性。可观测性为治理提供了透明度、审计线索和调试能力，是建立信任和风险控制的基础。LangChain通过LangSmith等工具，帮助开发者记录代理轨迹、评估输出、检测异常，从而将可观测性嵌入代理开发生命周期，实现从开发到生产的持续治理。",
+  "tags": [
+    "agent governance",
+    "observability",
+    "LangSmith",
+    "AI safety",
+    "monitoring"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "没有可观测性，AI代理治理无从谈起；可观测性是代理系统透明化、可审计和可控制的前提。"
+}

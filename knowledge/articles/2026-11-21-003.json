@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-21-003",
+  "title": "Rebuilding my local voice assistant pipeline",
+  "source": "Lobsters AI/ML",
+  "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+  "collected_at": "2026-11-21T05:09:39.004124+00:00",
+  "summary": "本文介绍了作者对其本地语音助手管道的重构过程。通过模块化设计，将语音识别（STT）、意图理解（NLU）、对话管理和语音合成（TTS）解耦，并集成最新的开源模型（如Whisper、LLM），实现完全本地化的语音交互。重构后的管道提升了响应速度、隐私保护能力，并支持灵活扩展新功能，展示了如何利用现代AI技术构建高效、可定制的个人语音助手。",
+  "tags": [
+    "语音助手",
+    "本地部署",
+    "管道重构"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "通过模块化管道和开源模型集成，本地语音助手可以在保证隐私的同时获得接近云端的智能体验。"
+}
