@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-22-010",
+  "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+  "collected_at": "2026-11-22T04:35:06.796491+00:00",
+  "summary": "DaisyRose-27B是由RadixArk团队开发的270亿参数大语言模型，专注于提升后训练（Post-Training）阶段的效率。该项目探索了更高效的对齐与微调方法，在保持模型质量的同时显著降低了后训练的计算成本和时间开销，推动了大模型训练流程的优化边界。",
+  "tags": [
+    "大语言模型",
+    "后训练效率",
+    "模型对齐",
+    "LLM微调",
+    "27B参数"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "通过优化后训练流程，可以在不牺牲模型性能的前提下大幅降低大模型对齐与微调的计算成本。"
+}

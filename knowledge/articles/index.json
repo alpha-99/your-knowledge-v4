@@ -2410,5 +2410,107 @@
     "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
     "category": "llm",
     "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-22-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-22-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-22-002",
+    "title": "DietrichGebert/ponytail",
+    "category": "agent",
+    "relevance_score": 0.72
+  },
+  {
+    "id": "2026-11-22-003",
+    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+    "category": "security",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-22-004",
+    "title": "Rebuilding my local voice assistant pipeline",
+    "category": "framework",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-22-005",
+    "title": "Combatting adversarial distillation",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-22-006",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-22-007",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "category": "benchmark",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-22-008",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "category": "llm",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-22-009",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-22-010",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-22-011",
+    "title": "How to build a knowledge factory for AI agents",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-22-012",
+    "title": "LangChain Raises $300M Series C at $3B Valuation",
+    "category": "agent",
+    "relevance_score": 0.82
+  },
+  {
+    "id": "2026-11-22-013",
+    "title": "LangSmith Tool Gateway: Secure, governed tool use for agents",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-22-014",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "category": "tool",
+    "relevance_score": 0.92
+  },
+  {
+    "id": "2026-11-22-015",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "category": "llm",
+    "relevance_score": 0.78
+  },
+  {
+    "id": "2026-11-22-016",
+    "title": "Can Anthropic afford to put safety first?",
+    "category": "ai_governance",
+    "relevance_score": 0.72
   }
 ]

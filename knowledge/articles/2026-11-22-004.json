@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-22-004",
+  "title": "Rebuilding my local voice assistant pipeline",
+  "source": "Lobsters AI/ML",
+  "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+  "collected_at": "2026-11-22T04:35:06.796491+00:00",
+  "summary": "本文介绍作者重建本地语音助手管道的过程。作者将原有语音助手系统重写，采用本地化（on-device）架构，涵盖语音识别（ASR）、自然语言理解（NLU）和语音合成（TTS）等核心模块。重建目标是提升响应速度、降低延迟、增强隐私保护，并减少对云端API的依赖。文章详细讨论了各组件的技术选型与集成方案，体现了端侧AI推理在语音交互场景中的工程实践。",
+  "tags": [
+    "语音助手",
+    "本地推理",
+    "ASR",
+    "管道架构",
+    "隐私计算"
+  ],
+  "relevance_score": 0.75,
+  "category": "framework",
+  "key_insight": "通过本地化重建语音助手管道，可以在保障隐私的同时实现低延迟的端到端语音交互体验。"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-22-012",
+  "title": "LangChain Raises $300M Series C at $3B Valuation",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/series-c",
+  "collected_at": "2026-11-22T04:35:06.796491+00:00",
+  "summary": "LangChain完成3亿美元C轮融资，估值达30亿美元，由CapitalG领投。资金将用于推进LangSmith，即面向企业级AI Agent的工程化平台，帮助公司构建、调试、监控和优化智能体应用。该轮融资反映市场对Agent基础设施、可观测性、评估与生产化能力的重视，也显示LangChain正从开发框架向企业AI工程平台扩展。",
+  "tags": [
+    "LangChain",
+    "LangSmith",
+    "Agent平台",
+    "融资"
+  ],
+  "relevance_score": 0.82,
+  "category": "agent",
+  "key_insight": "LangChain正从AI开发框架升级为面向企业级Agent工程与可观测性的平台型基础设施。"
+}

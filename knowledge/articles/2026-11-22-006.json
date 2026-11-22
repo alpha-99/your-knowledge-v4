@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-22-006",
+  "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/business/customer-stories/hebbia",
+  "collected_at": "2026-11-22T04:35:06.796491+00:00",
+  "summary": "Hebbia 在金融研究场景中测试了 GPT-6 Astra，并通过预发布评估发现其在信息来源覆盖度、引用相关性和成果呈现质量方面均有提升。该项目展示了大模型在专业金融分析任务中的实际价值，尤其适合需要多源资料整合、证据引用和结构化输出的研究场景。",
+  "tags": [
+    "GPT-6 Astra",
+    "金融研究",
+    "大模型应用",
+    "引用质量",
+    "OpenAI"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "GPT-6 Astra 在金融研究中展现出更强的多源覆盖、引用准确性和输出呈现能力。"
+}

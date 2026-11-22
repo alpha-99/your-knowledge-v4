@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-22-008",
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/inkling2mini",
+  "collected_at": "2026-11-22T04:35:06.796491+00:00",
+  "summary": "Inkling 2 Mini 是 Hugging Face 推出的新一代小型模型，专为本地部署场景优化。该模型在保持紧凑体积的同时实现了前沿性能水平，能够在消费级硬件上高效运行，无需依赖云端服务。作为第二代产品，它在推理速度、内存占用和输出质量之间取得了良好平衡，适合隐私敏感场景、离线应用及资源受限环境下的 AI 任务处理。",
+  "tags": [
+    "本地部署",
+    "小型模型",
+    "边缘计算",
+    "Hugging Face",
+    "推理优化"
+  ],
+  "relevance_score": 0.75,
+  "category": "llm",
+  "key_insight": "Inkling 2 Mini 证明了小型模型可以在本地硬件上实现接近大模型的推理能力，为隐私优先和离线 AI 应用提供了实用解决方案。"
+}

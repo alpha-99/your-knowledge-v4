@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-22-003",
+  "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+  "source": "Lobsters AI/ML",
+  "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+  "collected_at": "2026-11-22T04:35:06.796491+00:00",
+  "summary": "研究人员在AI供应链中植入了200万个'金丝雀'（追踪标记），以检测数据泄露问题。实验发现，AI供应链存在严重的隐私漏洞，大量用户敏感数据正以惊人的速率被暴露。该研究揭示了AI模型训练数据、微调数据集及供应链各环节中可能存在的未授权数据泄露风险，对AI系统的数据安全和隐私保护提出了严峻挑战。",
+  "tags": [
+    "AI供应链安全",
+    "数据隐私",
+    "金丝雀追踪",
+    "数据泄露"
+  ],
+  "relevance_score": 0.85,
+  "category": "security",
+  "key_insight": "AI供应链中的数据泄露问题远比预期严重，200万金丝雀标记实验暴露了用户隐私数据正以惊人速率被未授权暴露的系统性风险。"
+}

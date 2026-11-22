@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-22-001",
+  "title": "firecrawl/firecrawl",
+  "source": "github",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "collected_at": "2026-11-22T04:35:06.791082+00:00",
+  "summary": "Firecrawl 是一款专为 AI 代理设计的知识基础设施工具，旨在通过统一 API 简化网络数据获取。它支持搜索、抓取及访问 550+ 数据源，将非结构化网页内容转化为适合 LLM 消费的结构化数据。该项目显著降低了代理获取实时外部知识的门槛，是构建增强型 AI 应用的关键组件。",
+  "tags": [
+    "网页抓取",
+    "AI 代理",
+    "大模型",
+    "数据提取",
+    "API 接口"
+  ],
+  "relevance_score": 0.9,
+  "category": "tool",
+  "key_insight": "通过统一 API 聚合海量数据源，解决 AI 代理实时获取结构化网络知识的难题。"
+}

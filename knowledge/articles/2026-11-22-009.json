@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-22-009",
+  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "collected_at": "2026-11-22T04:35:06.796491+00:00",
+  "summary": "Hugging Face 提出 harness adapters 概念，通过轻量级适配器将模型适配到特定的推理框架（harness），从而在不重新训练完整模型的情况下提升推理性能和降低成本。该方法允许用户将常用模型快速适配到不同的推理引擎中，优化 token 生成效率、内存利用率和吞吐量，实现更经济的 LLM 部署方案。",
+  "tags": [
+    "LLM推理优化",
+    "模型适配",
+    "推理框架",
+    "成本优化",
+    "Hugging Face"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "通过轻量级 harness adapter 将模型适配到特定推理框架，可在不重新训练的前提下同时提升推理性能和降低成本。"
+}
