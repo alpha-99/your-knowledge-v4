@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-23-007",
+  "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.26722",
+  "collected_at": "2026-11-23T05:11:10.559608+00:00",
+  "summary": "TOUMAII是一个大规模工具调用偏好数据集，包含约450万个经过验证的偏好对，源自Agent-Ark/Toucan-1.5M对话，覆盖多轮、单轮、并行和顺序函数调用场景。同时发布TOUMAII-Gen合成数据生成管道，可消费现有工具调用SFT数据集，自动生成包含自然失败模式的偏好数据。通过微调3B参数模型验证，其性能与高质量工具调用偏好数据集相当，并基于ToolACE生成小型偏好集，证明管道源无关性。",
+  "tags": [
+    "tool-calling",
+    "DPO",
+    "preference dataset",
+    "synthetic data",
+    "agent"
+  ],
+  "relevance_score": 0.9,
+  "category": "tool",
+  "key_insight": "通过对比正确与错误工具调用生成偏好对，使DPO能有效优化工具调用，且生成管道可跨源复用。"
+}

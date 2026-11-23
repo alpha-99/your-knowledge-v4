@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-23-011",
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/inkling2mini",
+  "collected_at": "2026-11-23T05:11:10.559608+00:00",
+  "summary": "Inkling 2 Mini 是一款面向本地部署的高性能小型语言模型，旨在为资源受限环境提供前沿的生成能力。通过模型压缩、量化或蒸馏技术，它在保持轻量级的同时优化了推理速度和内存占用，使用户无需依赖云端即可获得高质量文本生成体验。该模型特别适合边缘设备、个人工作站或离线场景，平衡了性能与便携性。",
+  "tags": [
+    "小型语言模型",
+    "本地部署",
+    "性能优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "Inkling 2 Mini 在保持轻量级的同时实现了前沿性能，使本地 AI 部署更加高效可行。"
+}

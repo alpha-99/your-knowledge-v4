@@ -2512,5 +2512,137 @@
     "title": "Can Anthropic afford to put safety first?",
     "category": "ai_governance",
     "relevance_score": 0.72
+  },
+  {
+    "id": "2026-11-23-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-23-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-23-002",
+    "title": "DietrichGebert/ponytail",
+    "category": "agent",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-23-003",
+    "title": "Rebuilding my local voice assistant pipeline",
+    "category": "agent",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-23-004",
+    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-23-005",
+    "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-23-006",
+    "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-23-007",
+    "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+    "category": "tool",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-23-008",
+    "title": "Perplexity and Intelligence",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-23-009",
+    "title": "Combatting adversarial distillation",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-23-010",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "category": "llm",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-23-011",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-23-012",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "category": "framework",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-23-013",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-23-014",
+    "title": "How to build a knowledge factory for AI agents",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-23-015",
+    "title": "LangChain Raises $300M Series C at $3B Valuation",
+    "category": "framework",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-23-016",
+    "title": "LangSmith Tool Gateway: Secure, governed tool use for agents",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-23-017",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "category": "tool",
+    "relevance_score": 0.9
+  },
+  {
+    "id": "2026-11-23-018",
+    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+    "category": "ai-ethics",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-23-019",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "category": "tool",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-23-020",
+    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "category": "tool",
+    "relevance_score": 0.8
+  },
+  {
+    "id": "2026-11-23-021",
+    "title": "The vibe-coding revolution is coming to all the gadgets",
+    "category": "tool",
+    "relevance_score": 0.85
   }
 ]

@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-23-003",
+  "title": "Rebuilding my local voice assistant pipeline",
+  "source": "Lobsters AI/ML",
+  "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+  "collected_at": "2026-11-23T05:11:10.559608+00:00",
+  "summary": "本文介绍了作者重新构建本地语音助手管道的经验。通过模块化设计，将语音识别、意图理解和语音合成解耦，并采用本地运行的轻量级模型，以降低延迟并保护隐私。文章详细比较了不同ASR和TTS方案，并分享了性能优化技巧。",
+  "tags": [
+    "voice-assistant",
+    "local-ai",
+    "asr",
+    "llm",
+    "platypush"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "通过模块化架构和本地模型，语音助手可以在保证隐私的同时实现低延迟响应。"
+}

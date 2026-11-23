@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-23-005",
+  "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.26663",
+  "collected_at": "2026-11-23T05:11:10.559608+00:00",
+  "summary": "本研究通过头脑风暴实验（N=168）考察AI伙伴数量（1个vs2个）与行为形成方式（平均人类行为校准vs参与者定制）对团队产出的影响。结果显示，双AI房间在共享板上发布更多想法，但人类原创想法大幅减少；单AI时，与平均校准AI配对的人类发布最多，但双AI时该效应消失。AI社交对话促进人类发布，而AI发布量则抑制之。AI存在提升人类想法的全局多样性，但仅第二个AI增加会话内分化。研究表明AI伙伴数量与形成方式会重塑人类贡献，单代理结果不能推广到多代理团队。",
+  "tags": [
+    "human-AI collaboration",
+    "brainstorming",
+    "team composition",
+    "generative AI",
+    "productivity"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "AI伙伴的数量和形成方式会改变人类在团队中的贡献模式，单AI的积极效应在加入第二个AI后消失甚至逆转。"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-23-021",
+  "title": "The vibe-coding revolution is coming to all the gadgets",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+  "collected_at": "2026-11-23T05:11:10.559608+00:00",
+  "summary": "本文探讨了\"vibe-coding\"（氛围编程）趋势，即用自然语言描述意图让AI生成代码，正从开发者工具扩展到电视、相机等日常设备。这种模式使非程序员也能通过对话定制设备功能，但可能带来安全性和可靠性挑战。文章强调这一变革将重塑人机交互方式，但也需警惕过度依赖AI生成代码的风险。",
+  "tags": [
+    "vibe-coding",
+    "AI编程",
+    "智能设备"
+  ],
+  "relevance_score": 0.85,
+  "category": "tool",
+  "key_insight": "Vibe-coding将自然语言编程从开发者工具扩展到消费电子设备，使非程序员也能定制功能，但需关注安全与可靠性。"
+}

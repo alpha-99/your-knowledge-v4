@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-23-008",
+  "title": "Perplexity and Intelligence",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/perplexity-and-intelligence",
+  "collected_at": "2026-11-23T05:11:10.559608+00:00",
+  "summary": "本文探讨困惑度（perplexity）作为评估AI模型进展的指标，指出其能衡量模型对语言数据的预测能力，并可能帮助开发者建立评估新兴能力的共享方法。困惑度越低，模型预测越准确，反映其智能水平。文章强调标准化评估的重要性，以促进AI模型间的可比性和透明度。",
+  "tags": [
+    "困惑度",
+    "模型评估",
+    "AI进展",
+    "语言建模",
+    "标准化"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "困惑度作为衡量模型预测能力的指标，为AI进展提供了可量化的评估标准，有助于建立共享的评估框架。"
+}

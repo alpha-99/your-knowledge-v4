@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-23-009",
+  "title": "Combatting adversarial distillation",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/combatting-adversarial-distillation",
+  "collected_at": "2026-11-23T05:11:10.559608+00:00",
+  "summary": "OpenAI 提出分层防御策略对抗对抗性蒸馏（adversarial distillation），即攻击者通过大量查询模型输出，试图提取模型能力并构建替代模型。该方案整合模型训练、安全防护、检测与执行四层机制：训练阶段强化鲁棒性并嵌入水印；推理阶段实施输出监控与速率限制；检测阶段识别异常蒸馏行为；执行阶段对违规者采取封禁等法律措施。该策略旨在保护前沿模型的知识产权，同时维持合法研究访问。",
+  "tags": [
+    "对抗性蒸馏",
+    "模型安全",
+    "知识产权保护"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "分层防御将训练、防护、检测与执行结合，形成纵深防御体系，以应对模型能力提取攻击。"
+}

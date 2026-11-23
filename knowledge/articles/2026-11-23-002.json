@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-23-002",
+  "title": "DietrichGebert/ponytail",
+  "source": "github",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "collected_at": "2026-11-23T05:11:10.557091+00:00",
+  "summary": "该项目通过模仿“最懒的资深开发人员”的思维模式，优化 AI 智能体的代码生成行为。其核心理念是“最好的代码是你从未写过的代码”，通过提示工程或智能体架构调整，引导 AI 优先考虑简洁性，避免过度工程化和冗余代码生成。这有助于降低计算成本、提升代码可维护性，并减少 AI 生成的“垃圾代码”。该工具可能提供提示压缩、代码删除或行为约束功能，使智能体在生成代码时更加克制和高效。",
+  "tags": [
+    "ai-agent",
+    "code-optimization",
+    "prompt-engineering"
+  ],
+  "relevance_score": 0.75,
+  "category": "agent",
+  "key_insight": "通过引导 AI 智能体优先考虑“不写代码”而非“写代码”，该工具旨在减少 AI 生成的冗余，并提高代码库的可维护性。"
+}
