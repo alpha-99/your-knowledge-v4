@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-24-003",
+  "title": "Rebuilding my local voice assistant pipeline",
+  "source": "Lobsters AI/ML",
+  "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+  "collected_at": "2026-11-24T07:55:15.261712+00:00",
+  "summary": "作者重新构建了本地语音助手管道，采用全本地化部署方案，避免依赖云端服务。管道通常包含语音识别（如Whisper）、自然语言处理/LLM推理、以及文本转语音（TTS）等模块。项目强调隐私保护、低延迟和可定制性，展示了如何用开源组件搭建端到端的本地语音交互系统，适合对数据隐私有要求或希望减少外部API依赖的用户。",
+  "tags": [
+    "语音助手",
+    "本地部署",
+    "Whisper",
+    "隐私计算",
+    "开源工具链"
+  ],
+  "relevance_score": 0.75,
+  "category": "tool",
+  "key_insight": "通过全本地化开源组件组合，可以构建隐私安全、低延迟且可完全定制的语音助手系统，无需依赖任何云端API。"
+}

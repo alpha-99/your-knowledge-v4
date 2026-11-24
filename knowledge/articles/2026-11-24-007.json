@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-24-007",
+  "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/allenai/robotrack",
+  "collected_at": "2026-11-24T07:55:15.261712+00:00",
+  "summary": "RoboTrack是由AllenAI开发的一种面向真实世界机器人操作任务的点跟踪方法。该方法通过视觉跟踪技术，在机器人执行抓取、移动等操作时持续追踪物体表面的关键点，为机器人学习提供精确的物体状态反馈。相比传统方法，RoboTrack针对真实场景中的遮挡、形变和光照变化等挑战进行了优化，能够稳定地跟踪物体在操作过程中的运动轨迹，为基于模仿学习的机器人策略训练提供可靠的数据基础。",
+  "tags": [
+    "机器人操作",
+    "点跟踪",
+    "视觉跟踪",
+    "模仿学习",
+    "真实世界"
+  ],
+  "relevance_score": 0.7,
+  "category": "framework",
+  "key_insight": "通过鲁棒的视觉点跟踪技术解决真实机器人操作中物体状态持续观测的难题，为机器人模仿学习提供精确的物体运动数据。"
+}

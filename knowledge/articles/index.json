@@ -2644,5 +2644,89 @@
     "title": "The vibe-coding revolution is coming to all the gadgets",
     "category": "tool",
     "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-24-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-24-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-24-002",
+    "title": "DietrichGebert/ponytail",
+    "category": "agent",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-24-003",
+    "title": "Rebuilding my local voice assistant pipeline",
+    "category": "tool",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-24-004",
+    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "category": "llm",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-24-005",
+    "title": "Connected intelligence for in-house legal",
+    "category": "agent",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-24-006",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-24-007",
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "category": "framework",
+    "relevance_score": 0.7
+  },
+  {
+    "id": "2026-11-24-008",
+    "title": "How to build and maintain an agentic evaluation",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-24-009",
+    "title": "How to build a knowledge factory for AI agents",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-24-010",
+    "title": "LangChain Raises $300M Series C at $3B Valuation",
+    "category": "agent",
+    "relevance_score": 0.88
+  },
+  {
+    "id": "2026-11-24-011",
+    "title": "LangSmith Tool Gateway: Secure, governed tool use for agents",
+    "category": "agent",
+    "relevance_score": 0.85
+  },
+  {
+    "id": "2026-11-24-012",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "category": "rag",
+    "relevance_score": 0.75
+  },
+  {
+    "id": "2026-11-24-013",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "category": "tool",
+    "relevance_score": 0.92
   }
 ]

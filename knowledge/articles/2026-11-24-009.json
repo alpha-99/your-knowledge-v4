@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-24-009",
+  "title": "How to build a knowledge factory for AI agents",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/knowledge-factory",
+  "collected_at": "2026-11-24T07:55:15.261712+00:00",
+  "summary": "LangChain 提出“知识工厂”模式，用于让 AI Agent 持续维护企业知识。生产型 Agent 在执行任务时发现缺失、过期或冲突信息，并主动标记知识缺口；后台 Curator Agent 根据这些信号检索、验证并更新知识库，形成闭环。该方案将知识维护从人工定期整理转为由 Agent 驱动的事件响应流程，有助于降低幻觉、提升回答时效性，并支持多 Agent 协作与自动化运维。",
+  "tags": [
+    "AI Agent",
+    "知识工厂",
+    "Agent 运维",
+    "LangChain",
+    "RAG"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "让 Agent 自己发现知识缺口并触发后台 Curator 修复，可把企业知识维护变成持续闭环。"
+}

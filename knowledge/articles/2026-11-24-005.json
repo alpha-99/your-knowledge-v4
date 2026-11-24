@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-24-005",
+  "title": "Connected intelligence for in-house legal",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+  "collected_at": "2026-11-24T07:55:15.261712+00:00",
+  "summary": "本文介绍OpenAI与LECG、Cooley专家讨论企业法务如何借助AI连接业务上下文、沉淀可复用工作流，并更高效利用外部律师资源。重点不是单一问答，而是将合同、政策、案件、审批等分散信息整合为可执行流程，提升法务响应速度、一致性与合规风险管控。",
+  "tags": [
+    "企业法务",
+    "AI工作流",
+    "外部律师协作",
+    "上下文整合"
+  ],
+  "relevance_score": 0.75,
+  "category": "agent",
+  "key_insight": "AI的价值在于把法务知识、业务背景和外部律师协作转化为可复用、可追踪的工作流。"
+}

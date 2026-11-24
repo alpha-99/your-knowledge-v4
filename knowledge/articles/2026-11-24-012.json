@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-24-012",
+  "title": "A more tailored Google Search that’s uniquely yours",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+  "collected_at": "2026-11-24T07:55:15.261712+00:00",
+  "summary": "Google推出'Personal Intelligence'功能，将Google Search与用户的个人数据（Gmail、Google Photos、Google Calendar、Google Drive、Google Wallet）深度整合。该功能利用用户跨多个Google服务的个人上下文信息，为搜索查询提供更精准、个性化的结果。例如，当用户搜索'我的航班'时，系统可结合日历和邮件中的航班信息直接给出答案。这标志着Google Search从通用搜索引擎向个人化智能助手的演进，本质上是在搜索场景中应用了类似RAG（检索增强生成）的技术，将个人数据作为检索上下文。",
+  "tags": [
+    "Google Search",
+    "Personal Intelligence",
+    "个性化搜索",
+    "RAG",
+    "数据整合"
+  ],
+  "relevance_score": 0.75,
+  "category": "rag",
+  "key_insight": "Google将个人数据作为搜索的检索增强上下文，实现了从通用搜索到个人化智能助手的范式转变，本质是大规模RAG在消费级搜索产品中的落地。"
+}

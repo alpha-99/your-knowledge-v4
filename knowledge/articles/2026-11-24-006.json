@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-24-006",
+  "title": "Richpanel helps companies automate 50% of support in 30 days",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+  "collected_at": "2026-11-24T07:55:15.261712+00:00",
+  "summary": "Richpanel 基于 GPT-6 系列模型构建 AI 客服支持系统：使用 GPT-6 Astra 与 GPT-6.1 Sol 为智能体配置工具调用、业务流程和自动化处理逻辑，使用 GPT-6 Luna 负责用户对话交互。该方案旨在将企业客服支持工作自动化约 50%，并在 30 天内完成部署，提升响应效率与运营一致性。",
+  "tags": [
+    "AI客服",
+    "智能体",
+    "GPT-6",
+    "自动化支持",
+    "企业应用"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "通过分工型大模型组合，将对话能力与工具执行能力分离，可显著提升 AI 客服的自动化落地效率。"
+}

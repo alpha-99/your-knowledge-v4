@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-24-008",
+  "title": "How to build and maintain an agentic evaluation",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/agentic-evals",
+  "collected_at": "2026-11-24T07:55:15.261712+00:00",
+  "summary": "本文介绍了如何构建和维护面向AI Agent系统的评估框架。文章探讨了Agentic评估的核心挑战，包括多步骤推理、工具调用、环境交互等场景下的评估方法。提出了从任务定义、评估指标设计、测试用例构建到持续维护的完整方法论，强调评估需要随Agent能力演进而迭代更新，并讨论了自动化评估与人工评估的结合策略。",
+  "tags": [
+    "agentic-evaluation",
+    "AI-Agent",
+    "评估框架",
+    "LLM评测",
+    "HuggingFace"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "Agentic评估需要构建动态、可维护的评估体系，而非静态基准测试，因为Agent的多步推理和工具使用能力需要持续跟踪和迭代验证。"
+}
