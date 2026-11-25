@@ -1,6 +1,12 @@
 # AI 知识库 RSS 数据源配置
-# 每个源包含: name, url, category, enabled
+# 每个源包含: name, url, category, enabled, limit(可选)
 # enabled 控制该源是否参与采集
+#
+# ── 采集条数：两层配置 ──────────────────────────────────────
+# 全局配置：plan 的 per_source_limit（可用环境变量 PER_SOURCE_LIMIT 覆盖）
+# 源级配置：本文件中该源的 limit 字段
+# 解析规则：源配置了 limit → 用源级；未配置 → 回退全局配置
+#   例：limit: 10        # 该源固定抓 10 条，忽略全局配置
 
 sources:
   # ── 综合技术 ──
@@ -8,75 +14,89 @@ sources:
     url: "https://hnrss.org/best?q=ai+OR+llm+OR+agent+OR+machine-learning+OR+deep-learning+OR+transformer+OR+rag+OR+openai+OR+claude+OR+gpt&points=10"
     category: "综合技术"
     enabled: true
+    limit: 3
 
   - name: "Lobsters AI/ML"
     url: "https://lobste.rs/t/ai,ml.rss"
     category: "综合技术"
     enabled: true
+    limit: 3
 
   # ── AI 研究 ──
   - name: "arXiv cs.AI"
     url: "https://rss.arxiv.org/rss/cs.AI"
     category: "AI研究"
     enabled: true
+    limit: 5             # 源级配置优先于全局配置：论文量大，固定抓 10 条
 
   - name: "arXiv cs.CL"
     url: "https://rss.arxiv.org/rss/cs.CL"
     category: "AI研究"
     enabled: false # 量太大，按需开启
+    limit: 3
 
   - name: "Reddit r/MachineLearning"
     url: "https://www.reddit.com/r/MachineLearning/hot.rss"
     category: "AI研究"
     enabled: true
+    limit: 3
 
   # ── 公司博客 ──
   - name: "OpenAI Blog"
     url: "https://openai.com/blog/rss.xml"
     category: "公司博客"
     enabled: true
+    limit: 3
 
   - name: "Anthropic Research"
     url: "https://www.anthropic.com/research/rss.xml"
     category: "公司博客"
     enabled: true
+    limit: 3
 
   - name: "Hugging Face Blog"
     url: "https://huggingface.co/blog/feed.xml"
     category: "公司博客"
     enabled: true
+    limit: 3
 
   # ── 中文社区（默认 disable，需确认 RSS 可用性） ──
   - name: "机器之心"
     url: "https://www.jiqizhixin.com/rss"
     category: "中文社区"
     enabled: false
+    limit: 3
 
   - name: "量子位"
     url: "https://www.qbitai.com/feed"
     category: "中文社区"
     enabled: false
+    limit: 3
 
   # ── 框架 ──
   - name: "LangChain Blog"
     url: "https://blog.langchain.dev/rss.xml"
     category: "框架"
     enabled: true
+    limit: 3
 
   # ── 开源社区 ──
   - name: "Reddit r/LocalLLaMA"
     url: "https://www.reddit.com/r/LocalLLaMA/hot.rss"
     category: "开源社区"
     enabled: true
+    limit: 3
 
   # ── 行业动态 ──
   - name: "Google AI Blog"
     url: "https://blog.google/technology/ai/rss/"
     category: "行业动态"
     enabled: true
+    limit: 3
 
   # ── 科技新闻 ──
   - name: "The Verge (AI)"
     url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
     category: "科技新闻"
     enabled: true
+    limit: 3

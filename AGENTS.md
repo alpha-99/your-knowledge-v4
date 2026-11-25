@@ -148,6 +148,17 @@ python patterns/supervisor.py "采集并分析今天的 AI 领域进展"
 - 预算超标：抛出 `BudgetExceededError`，中止工作流
 - Prompt 注入：检测并标记，记入审计日志
 
+### 采集条数（两层配置）
+
+RSS 每源采集条数采用两层配置，解析逻辑见 `workflows/rss_collector.py` 的 `resolve_feed_limit`：
+
+| 层级 | 配置位置 | 生效条件 |
+|------|---------|---------|
+| 源级 | `pipeline/rss_sources.yaml` 中该源的 `limit: N` | 配置了即用源级 |
+| 全局 | plan 的 `per_source_limit`（三档策略默认，`PER_SOURCE_LIMIT` 环境变量可覆盖） | 源未配置 `limit` 时回退 |
+
+非法的 `limit`（非正整数）会被丢弃并回退到全局配置，同时打印告警。
+
 ## 技术栈
 - **工作流引擎**：LangGraph (StateGraph + 条件边)
 - **LLM**：DeepSeek / Qwen（OpenAI 兼容 API）

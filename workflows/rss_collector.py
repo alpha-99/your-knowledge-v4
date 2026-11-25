@@ -7,6 +7,7 @@ RSS 多数据源采集模块 — 读取 pipeline/rss_sources.yaml 配置并抓�
 3. 每个源独立容错：单个源网络/解析失败只记录日志并跳过，不中断整个采集
 4. 输出与 GitHub 采集相同的 source 结构，可直接进入 analyze 节点
 5. 文本字段同样经过 tests.security.sanitize_input 清洗（防注入）
+6. 每源采集条数为两层配置：源级 limit 优先，未配置回退全局 per_source_limit
 """
 
 import os
@@ -29,8 +30,30 @@ def rss_enabled() -> bool:
     """
     return os.getenv("RSS_ENABLED", "1").lower() in ("1", "true", "yes", "on")
 
-# 每个 feed 的最大抓取条数，默认取 plan 的 per_source_limit
+# 每个 feed 的最大抓取条数（全局默认），默认取 plan 的 per_source_limit
 DEFAULT_PER_FEED_LIMIT = 10
+
+# YAML 中每源覆盖条数的字段名（两层配置的下层）
+SOURCE_LIMIT_KEY = "limit"
+
+
+def _coerce_limit(value: object) -> int | None:
+    """把 YAML 里的条数配置规范成正整数，非法/未配置返回 None"""
+    if isinstance(value, bool) or not isinstance(value, int):
+        return None
+    return value if value > 0 else None
+
+
+def resolve_feed_limit(feed: dict, global_limit: int) -> int:
+    """两层配置解析：源自身 limit 优先，未配置则回退到全局 per_source_limit
+
+    Example:
+        >>> resolve_feed_limit({"limit": 3}, 10)
+        3
+        >>> resolve_feed_limit({}, 10)
+        10
+    """
+    return _coerce_limit(feed.get(SOURCE_LIMIT_KEY)) or global_limit
 
 
 def _localname(tag: str) -> str:
@@ -67,7 +90,8 @@ def load_rss_sources(config_path: Path | None = None) -> list[dict]:
     """读取 RSS 数据源配置，返回启用的源列表
 
     Returns:
-        list[dict]: 每个元素 {name, url, category}
+        list[dict]: 每个元素 {name, url, category}，
+        源内配置了 limit 时额外带 {"limit": int}（两层配置的下层）
     """
     path = config_path or DEFAULT_CONFIG_PATH
     if not path.exists():
@@ -83,11 +107,19 @@ def load_rss_sources(config_path: Path | None = None) -> list[dict]:
             continue
         if not item.get("url"):
             continue
-        sources.append({
+        source = {
             "name": item.get("name", "rss"),
             "url": item["url"],
             "category": item.get("category", "其他"),
-        })
+        }
+        limit = _coerce_limit(item.get(SOURCE_LIMIT_KEY))
+        if limit is None:
+            if SOURCE_LIMIT_KEY in item:
+                print(f"[RSSCollector] {source['name']} 的 {SOURCE_LIMIT_KEY} 非法"
+                      f"({item[SOURCE_LIMIT_KEY]!r})，回退到全局配置")
+        else:
+            source[SOURCE_LIMIT_KEY] = limit
+        sources.append(source)
     return sources
 
 
@@ -146,8 +178,11 @@ def fetch_feed(feed: dict, per_feed_limit: int = DEFAULT_PER_FEED_LIMIT) -> tupl
 def collect_rss_sources(per_source_limit: int = DEFAULT_PER_FEED_LIMIT) -> tuple[list[dict], int]:
     """采集所有启用的 RSS 源，合并为统一 source 结构
 
+    每源条数为两层配置：per_source_limit 是全局配置（来自 plan / PER_SOURCE_LIMIT），
+    源自身在 rss_sources.yaml 里配的 limit 优先于全局配置。
+
     Args:
-        per_source_limit: 每个 feed 最多抓取条数
+        per_source_limit: 全局每源上限，源未配置 limit 时生效
 
     Returns:
         (sources, error_count):
@@ -163,14 +198,23 @@ def collect_rss_sources(per_source_limit: int = DEFAULT_PER_FEED_LIMIT) -> tuple
         print("[RSSCollector] 没有启用的 RSS 源")
         return [], 0
 
-    print(f"[RSSCollector] 开始采集 {len(feeds)} 个源 (每源上限 {per_source_limit})...")
+    # 逐源解析两层配置：源级 limit 优先，未配置回退到全局 per_source_limit
+    limits = [resolve_feed_limit(f, per_source_limit) for f in feeds]
+    overridden = [
+        f"{f['name']}={l}"
+        for f, l in zip(feeds, limits)
+        if _coerce_limit(f.get(SOURCE_LIMIT_KEY))
+    ]
+    print(f"[RSSCollector] 开始采集 {len(feeds)} 个源 (全局上限 {per_source_limit})...")
+    if overridden:
+        print("[RSSCollector] 源级 limit 覆盖全局配置: " + ", ".join(overridden))
 
     sources: list[dict] = []
     error_count = 0
     now = datetime.now(timezone.utc).isoformat()
 
-    for feed in feeds:
-        items, err = fetch_feed(feed, per_source_limit)
+    for feed, limit in zip(feeds, limits):
+        items, err = fetch_feed(feed, limit)
         error_count += err
         for it in items:
             sources.append({
