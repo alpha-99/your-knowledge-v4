@@ -155,7 +155,7 @@ if __name__ == "__main__":
                 print(f"  [需人工处理] 自动修订已达上限")
 
             elif node_name == "save":
-                print(f"  已保存到 knowledge/articles/")
+                print(f"  已保存到 knowledge/articles/{{YYYY-MM-DD}}/")
 
     except BudgetExceededError as e:
         guard = get_cost_guard()

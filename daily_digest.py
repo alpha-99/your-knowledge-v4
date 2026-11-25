@@ -7,10 +7,10 @@ import asyncio
 import json
 import logging
 from datetime import datetime, timezone
-from pathlib import Path
 from typing import Any
 
 from distribution.publisher import PublishResult, publish_daily_digest
+from workflows.article_paths import iter_article_files
 
 logger = logging.getLogger(__name__)
 
@@ -30,9 +30,7 @@ def _load_articles(date: str | None = None) -> list[dict[str, Any]]:
     if date is None:
         date = datetime.now(timezone.utc).date().isoformat()
 
-    dir_path = Path(KNOWLEDGE_DIR)
-    pattern = f"{date}-*.json"
-    article_files = sorted(dir_path.glob(pattern))
+    article_files = iter_article_files(KNOWLEDGE_DIR, date)
 
     articles: list[dict[str, Any]] = []
     for fp in article_files:

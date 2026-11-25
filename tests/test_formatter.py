@@ -333,6 +333,20 @@ _KNOWLEDGE_DIR = str(
 )
 
 
+def _latest_data_date() -> str:
+    """取知识库中最新一个有数据的日期。
+
+    历史版本这些测试硬编码 2026-07-10，而该日期从未有采集数据，
+    断言只会命中「暂无新增知识条目」空分支，无法验证真实输出。
+    条目按天分文件夹存放，因此直接从日期目录名取最新值。
+    """
+    from workflows.article_paths import article_files_by_date
+
+    dates = list(article_files_by_date(_KNOWLEDGE_DIR))
+    assert dates, "测试需要至少一天的历史采集数据"
+    return dates[-1][0]
+
+
 def test_digest_returns_all_formats() -> None:
     digest = generate_daily_digest(
         knowledge_dir=_KNOWLEDGE_DIR, date="2026-07-10", top_n=3,
@@ -364,7 +378,7 @@ def test_digest_default_date_is_today() -> None:
 def test_digest_grouped_by_category() -> None:
     """验证 Markdown 输出按 category 分组，每组有 ## 标题。"""
     digest = generate_daily_digest(
-        knowledge_dir=_KNOWLEDGE_DIR, date="2026-07-10", top_n=3,
+        knowledge_dir=_KNOWLEDGE_DIR, date=_latest_data_date(), top_n=3,
     )
     md = digest["markdown"]
     # 至少包含 2 个 ## 分类标题
@@ -393,7 +407,7 @@ def test_digest_top_n_per_category() -> None:
 def test_digest_summary_line() -> None:
     """简报开头包含篇数和分类数统计。"""
     digest = generate_daily_digest(
-        knowledge_dir=_KNOWLEDGE_DIR, date="2026-07-10", top_n=3,
+        knowledge_dir=_KNOWLEDGE_DIR, date=_latest_data_date(), top_n=3,
     )
     md = digest["markdown"]
     assert "篇" in md
@@ -413,7 +427,7 @@ def test_digest_categories_sorted_by_avg_score() -> None:
 def test_digest_telegram_has_category_headers() -> None:
     """Telegram 输出中每个分类有 *category* 标题行。"""
     digest = generate_daily_digest(
-        knowledge_dir=_KNOWLEDGE_DIR, date="2026-07-10", top_n=1,
+        knowledge_dir=_KNOWLEDGE_DIR, date=_latest_data_date(), top_n=1,
     )
     tg = digest["telegram"]
     assert "*framework*" in tg or "*agent*" in tg or "*rag*" in tg or "*tool*" in tg
@@ -474,13 +488,13 @@ def test_digest_from_index_faster_than_full_digest() -> None:
     import timeit
     idx_time = timeit.timeit(
         lambda: digest_from_index(
-            knowledge_dir=_KNOWLEDGE_DIR, date="2026-07-10", top_n=3,
+            knowledge_dir=_KNOWLEDGE_DIR, date=_latest_data_date(), top_n=3,
         ),
         number=50,
     )
     full_time = timeit.timeit(
         lambda: generate_daily_digest(
-            knowledge_dir=_KNOWLEDGE_DIR, date="2026-07-10", top_n=1,
+            knowledge_dir=_KNOWLEDGE_DIR, date=_latest_data_date(), top_n=1,
         ),
         number=50,
     )

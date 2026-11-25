@@ -11,6 +11,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+from workflows.article_paths import iter_article_files
+
 
 _TELEGRAM_ESCAPE_CHARS = r"_*[]()~`>#+-=|{}.!"
 
@@ -305,9 +307,7 @@ def generate_daily_digest(
     if date is None:
         date = datetime.now(timezone.utc).date().isoformat()
 
-    dir_path = Path(knowledge_dir)
-    pattern = f"{date}-*.json"
-    article_files = sorted(dir_path.glob(pattern))
+    article_files = iter_article_files(knowledge_dir, date)
 
     articles: list[dict[str, Any]] = []
     for fp in article_files:

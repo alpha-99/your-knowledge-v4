@@ -23,14 +23,15 @@ allowed-tools:
 
 ### Step 2: 执行检索
 
-1. 使用 Glob 定位目标文件：
+1. 使用 Glob 定位目标文件（条目按天分文件夹存放）：
    ```
-   knowledge/articles/{date-pattern}-*.json
+   knowledge/articles/{date}/*.json
    ```
+   全量检索用 `knowledge/articles/*/*.json`。
 
 2. 使用 Grep 在文件内容中搜索关键词：
    ```
-   grep -l "关键词" knowledge/articles/*.json
+   grep -rl "关键词" knowledge/articles/*/
    ```
 
 3. 读取匹配的 JSON 文件，提取结构化字段

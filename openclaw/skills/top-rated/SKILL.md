@@ -16,7 +16,7 @@ allowed-tools:
 
 ## 做法
 
-1. Read knowledge/articles/index.json
+1. Read knowledge/articles/index.json（条目按天分文件夹存放：`knowledge/articles/{YYYY-MM-DD}/{id}.json`；需要读全文时用索引里的 `path` 字段）
 2. 按 relevance_score 降序排序
 3. 默认取 top 5(用户给数字就用用户的)
 4. 去重(同一个 title 只保留 score 最高的一条)

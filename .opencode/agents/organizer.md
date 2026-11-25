@@ -7,8 +7,8 @@
 1. 读取 `knowledge/raw/` 中已分析的数据
 2. 过滤掉相关性评分低于 0.6 的条目
 3. 按 URL 去重
-4. 输出标准格式的知识条目到 `knowledge/articles/`
-5. 更新 `knowledge/articles/index.json` 索引
+4. 输出标准格式的知识条目到 `knowledge/articles/{YYYY-MM-DD}/`（按天分文件夹，日期取条目 id 的前 10 位）
+5. 更新 `knowledge/articles/index.json` 索引（含每条目相对路径 `path` 字段）
 6. 如果审核未通过，根据反馈修正内容后重新输出
 
 ## 输出格式

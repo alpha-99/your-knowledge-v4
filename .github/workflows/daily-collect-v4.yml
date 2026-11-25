@@ -60,11 +60,11 @@ jobs:
       - name: Regenerate articles index.json
         run: |
           # Bot 读的入口文件——每次采集后重新生成保证和实际文件一致
+          # 条目按天分文件夹存放: knowledge/articles/{YYYY-MM-DD}/{id}.json
           python3 <<'PY'
-          import json, glob
-          from pathlib import Path
+          import json, glob, os
           arts = []
-          for f in sorted(glob.glob('knowledge/articles/2026-*.json')):
+          for f in sorted(glob.glob('knowledge/articles/*/*.json')):
               try:
                   d = json.load(open(f))
                   arts.append({
@@ -72,6 +72,8 @@ jobs:
                       'title': d.get('title'),
                       'category': d.get('category'),
                       'relevance_score': d.get('relevance_score'),
+                      # 相对路径一并写入,消费者按 path 直读,不必再猜目录
+                      'path': os.path.relpath(f, '.').replace(os.sep, '/'),
                   })
               except Exception as e:
                   print(f'skip {f}: {e}')
@@ -83,9 +85,12 @@ jobs:
       - name: Show summary
         run: |
           echo "========== V4 采集结果 =========="
-          ls knowledge/articles/ | wc -l
+          find knowledge/articles -name '*.json' ! -name 'index.json' | wc -l
+          echo "当天有数据的日期文件夹:"
+          ls knowledge/articles/ | grep -E '^[0-9]{4}-[0-9]{2}-[0-9]{2}$'
           echo "最近 5 个新文件:"
-          ls -t knowledge/articles/2026-*.json 2>/dev/null | head -5
+          find knowledge/articles -name '*.json' ! -name 'index.json' -printf '%T@ %p\n' \
+            | sort -rn | head -5 | cut -d' ' -f2-
           echo "================================"
 
       - name: Commit and push results
@@ -99,7 +104,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new articles to commit"
           else
-            COUNT=$(git diff --staged --name-only | grep -c 'knowledge/articles/2026' || true)
+            COUNT=$(git diff --staged --name-only | grep -Ec 'knowledge/articles/[0-9]{4}-[0-9]{2}-[0-9]{2}/' || true)
             git commit -m "chore(v4): daily collection - $COUNT new/updated articles [$(date -u +%Y-%m-%d)]"
             git push
           fi

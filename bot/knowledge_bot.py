@@ -13,6 +13,8 @@ from enum import Enum
 from pathlib import Path
 from typing import Any
 
+from workflows.article_paths import iter_article_files
+
 
 # ======================================================================
 # 枚举定义
@@ -149,7 +151,7 @@ class KnowledgeSearchEngine:
         self.articles = []
         if not self._articles_dir.exists():
             return
-        for filepath in sorted(self._articles_dir.glob("*.json")):
+        for filepath in iter_article_files(self._articles_dir):
             if filepath.name == "index.json":
                 continue
             try:

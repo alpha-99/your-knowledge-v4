@@ -18,7 +18,7 @@ allowed-tools:
 
 ### Step 1: 读索引定位今日数据
 
-用 `Read` 读 `knowledge/articles/index.json`（含每篇文章的 `id` / `title` / `category` / `relevance_score` / `tags` / `collected_at`）。
+用 `Read` 读 `knowledge/articles/index.json`（含每篇文章的 `id` / `title` / `category` / `relevance_score` / `tags` / `collected_at` / `path`）。
 
 **在内存里筛**今日的条目（`collected_at` 字段以今日日期开头）；今日无数据则回退到最近 7 天。
 
@@ -30,7 +30,9 @@ allowed-tools:
 2. 按 `relevance_score` 降序排序
 3. 取 Top 5
 
-只对最终要进简报的 Top 5，用 `Read knowledge/articles/{id}.json` 拿 `summary` / `url` 等完整字段（**不要批量读全部**）。
+只对最终要进简报的 Top 5，用 `Read` 读索引里该条目的 `path` 字段（形如 `knowledge/articles/{YYYY-MM-DD}/{id}.json`）拿 `summary` / `url` 等完整字段（**不要批量读全部**）。
+
+> 条目按天分文件夹存放：`knowledge/articles/{YYYY-MM-DD}/{id}.json`。没有 `path` 字段的历史索引，按 `knowledge/articles/{id 前 10 位}/{id}.json` 推导。
 
 ### Step 3: 按 category 分组生成 Markdown 简报
 

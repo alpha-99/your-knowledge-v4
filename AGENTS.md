@@ -68,15 +68,19 @@ v3-multi-agent/
 │
 └── knowledge/
     ├── raw/                           #   原始采集数据
-    └── articles/                      #   整理后的知识条目
+    └── articles/                      #   整理后的知识条目（按天分文件夹）
+        ├── index.json                 #   全局索引（含每条目 path 相对路径）
+        └── 2026-11-04/                #   一天的采集结果
+            └── 2026-11-04-000.json
 ```
 
 ## 编码规范
 
 ### 文件命名
 - 原始数据：`knowledge/raw/{source}-{YYYY-MM-DD}.json`
-- 知识条目：`knowledge/articles/{YYYY-MM-DD}-{NNN}.json`
-- 索引文件：`knowledge/articles/index.json`
+- 知识条目：`knowledge/articles/{YYYY-MM-DD}/{YYYY-MM-DD}-{NNN}.json`（按天分文件夹，日期取 id 前 10 位）
+- 索引文件：`knowledge/articles/index.json`（含每条目 `path` 相对路径字段）
+- 路径读写统一走 `workflows/article_paths.py`（写入用 `date_subdir`，读取用 `iter_article_files`）
 
 ### JSON 格式
 - 2 空格缩进，UTF-8 编码

@@ -1,2732 +1,3117 @@
 [
   {
-    "id": "2026-09-26-000",
-    "title": "NousResearch/hermes-agent",
-    "category": "agent",
-    "relevance_score": 0.85
-  },
-  {
-    "id": "2026-09-26-001",
-    "title": "langgenius/dify",
-    "category": "framework",
-    "relevance_score": 0.95
-  },
-  {
-    "id": "2026-09-26-002",
-    "title": "langchain-ai/langchain",
-    "category": "agent",
-    "relevance_score": 0.95
-  },
-  {
-    "id": "2026-09-26-003",
-    "title": "Shubhamsaboo/awesome-llm-apps",
-    "category": "agent",
-    "relevance_score": 0.9
-  },
-  {
-    "id": "2026-09-26-004",
-    "title": "earendil-works/pi",
-    "category": "agent",
-    "relevance_score": 0.8
-  },
-  {
-    "id": "2026-09-26-005",
-    "title": "JuliusBrussee/caveman",
-    "category": "agent",
-    "relevance_score": 0.82
-  },
-  {
-    "id": "2026-09-26-006",
-    "title": "infiniflow/ragflow",
-    "category": "rag",
-    "relevance_score": 0.95
-  },
-  {
-    "id": "2026-09-26-007",
-    "title": "OpenHands/OpenHands",
-    "category": "agent",
-    "relevance_score": 0.9
-  },
-  {
-    "id": "2026-09-26-008",
-    "title": "unclecode/crawl4ai",
-    "category": "tool",
-    "relevance_score": 0.9
-  },
-  {
-    "id": "2026-09-26-009",
-    "title": "bytedance/deer-flow",
-    "category": "agent",
-    "relevance_score": 0.9
-  },
-  {
     "id": "2026-11-04-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-000.json"
   },
   {
     "id": "2026-11-04-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-001.json"
   },
   {
     "id": "2026-11-04-002",
     "title": "DietrichGebert/ponytail",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-002.json"
   },
   {
     "id": "2026-11-04-003",
     "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-003.json"
   },
   {
     "id": "2026-11-04-004",
     "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
     "category": "ai",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-004.json"
   },
   {
     "id": "2026-11-04-005",
     "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
     "category": "tool",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-005.json"
   },
   {
     "id": "2026-11-04-006",
     "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-006.json"
   },
   {
     "id": "2026-11-04-007",
     "title": "Let’s Build a Brain",
     "category": "tool",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-007.json"
   },
   {
     "id": "2026-11-04-008",
     "title": "Alignment Faking Depends on the Value, Not Just the Model",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-008.json"
   },
   {
     "id": "2026-11-04-009",
     "title": "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs",
     "category": "framework",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-009.json"
   },
   {
     "id": "2026-11-04-010",
     "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
     "category": "framework",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-010.json"
   },
   {
     "id": "2026-11-04-011",
     "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-011.json"
   },
   {
     "id": "2026-11-04-012",
     "title": "Accelerating engineering for the physical world",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-012.json"
   },
   {
     "id": "2026-11-04-013",
     "title": "How Cisco defends at machine speed with OpenAI",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-013.json"
   },
   {
     "id": "2026-11-04-014",
     "title": "Heimstaden is changing residential real estate management with AI",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-014.json"
   },
   {
     "id": "2026-11-04-015",
     "title": "StateBench: Testing how language models track state changes over long documents",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-015.json"
   },
   {
     "id": "2026-11-04-016",
     "title": "Palette: teaching a small model to build decks in your design language",
     "category": "llm",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-016.json"
   },
   {
     "id": "2026-11-04-017",
     "title": "LangSmith BYOC is now available on AWS, Azure, and Google Cloud",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-017.json"
   },
   {
     "id": "2026-11-04-018",
     "title": "How We Optimized Browser Use for Deep Agents",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-018.json"
   },
   {
     "id": "2026-11-04-019",
     "title": "Why human insight is a strategic advantage for building better agents",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-019.json"
   },
   {
     "id": "2026-11-04-020",
     "title": "The latest AI news we announced in October 2026",
     "category": "multimodal",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-020.json"
   },
   {
     "id": "2026-11-04-021",
     "title": "Our newest AI Quest: Mapping the human brain",
     "category": "education",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-021.json"
   },
   {
     "id": "2026-11-04-022",
     "title": "Southeast Asia’s digital economy to hit $368 billion",
     "category": "ai",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-022.json"
   },
   {
     "id": "2026-11-04-023",
     "title": "The biggest modding site in PC gaming is taking a stance on AI",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-04/2026-11-04-023.json"
   },
   {
     "id": "2026-11-05-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-000.json"
   },
   {
     "id": "2026-11-05-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-001.json"
   },
   {
     "id": "2026-11-05-002",
     "title": "langgenius/dify",
     "category": "framework",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-002.json"
   },
   {
     "id": "2026-11-05-003",
     "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-003.json"
   },
   {
     "id": "2026-11-05-004",
     "title": "An easy way to try local AI with braindead-local-intelligence",
     "category": "tool",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-004.json"
   },
   {
     "id": "2026-11-05-005",
     "title": "Let’s Build a Brain",
     "category": "tool",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-005.json"
   },
   {
     "id": "2026-11-05-006",
     "title": "Alignment Faking Depends on the Value, Not Just the Model",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-006.json"
   },
   {
     "id": "2026-11-05-007",
     "title": "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs",
     "category": "framework",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-007.json"
   },
   {
     "id": "2026-11-05-008",
     "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-008.json"
   },
   {
     "id": "2026-11-05-009",
     "title": "OpenAI to acquire Pierre Computer Company, Inc.",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-009.json"
   },
   {
     "id": "2026-11-05-010",
     "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-010.json"
   },
   {
     "id": "2026-11-05-011",
     "title": "A thousand fewer paths to root",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-011.json"
   },
   {
     "id": "2026-11-05-012",
     "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-012.json"
   },
   {
     "id": "2026-11-05-013",
     "title": "StateBench: Testing how language models track state changes over long documents",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-013.json"
   },
   {
     "id": "2026-11-05-014",
     "title": "Palette: teaching a small model to build decks in your design language",
     "category": "multimodal",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-014.json"
   },
   {
     "id": "2026-11-05-015",
     "title": "LangSmith BYOC is now available on AWS, Azure, and Google Cloud",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-015.json"
   },
   {
     "id": "2026-11-05-016",
     "title": "Why human insight is a strategic advantage for building better agents",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-016.json"
   },
   {
     "id": "2026-11-05-017",
     "title": "How We Optimized Browser Use for Deep Agents",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-017.json"
   },
   {
     "id": "2026-11-05-018",
     "title": "The latest AI news we announced in October 2026",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-018.json"
   },
   {
     "id": "2026-11-05-019",
     "title": "Our newest AI Quest: Mapping the human brain",
     "category": "tool",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-019.json"
   },
   {
     "id": "2026-11-05-020",
     "title": "Southeast Asia’s digital economy to hit $368 billion",
     "category": "tool",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-020.json"
   },
   {
     "id": "2026-11-05-021",
     "title": "Qualcomm is betting big on data centers as smartphone sales sink",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-021.json"
   },
   {
     "id": "2026-11-05-022",
     "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-05/2026-11-05-022.json"
   },
   {
     "id": "2026-11-06-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-000.json"
   },
   {
     "id": "2026-11-06-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-001.json"
   },
   {
     "id": "2026-11-06-002",
     "title": "langgenius/dify",
     "category": "framework",
-    "relevance_score": 0.95
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-002.json"
   },
   {
     "id": "2026-11-06-003",
     "title": "Claude Code sends your email address to websites",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-003.json"
   },
   {
     "id": "2026-11-06-004",
     "title": "GPT-6 Astra covertly underperforms on safety research",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-004.json"
   },
   {
     "id": "2026-11-06-005",
     "title": "Ask HN: What's your current AI agentic setup?",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-005.json"
   },
   {
     "id": "2026-11-06-006",
     "title": "Reflections on Rust in the LLM Age — Bryan Cantrill | Rust NYC",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-006.json"
   },
   {
     "id": "2026-11-06-007",
     "title": "Software Line Specialist",
     "category": "tool",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-007.json"
   },
   {
     "id": "2026-11-06-008",
     "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-008.json"
   },
   {
     "id": "2026-11-06-009",
     "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-009.json"
   },
   {
     "id": "2026-11-06-010",
     "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-010.json"
   },
   {
     "id": "2026-11-06-011",
     "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-011.json"
   },
   {
     "id": "2026-11-06-012",
     "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-012.json"
   },
   {
     "id": "2026-11-06-013",
     "title": "Australian universities are creating AI-native graduates",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-013.json"
   },
   {
     "id": "2026-11-06-014",
     "title": "Cult.fit builds operational muscle with Codex",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-014.json"
   },
   {
     "id": "2026-11-06-015",
     "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-015.json"
   },
   {
     "id": "2026-11-06-016",
     "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-016.json"
   },
   {
     "id": "2026-11-06-017",
     "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-017.json"
   },
   {
     "id": "2026-11-06-018",
     "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-018.json"
   },
   {
     "id": "2026-11-06-019",
     "title": "How We Optimized Browser Use for Deep Agents",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-019.json"
   },
   {
     "id": "2026-11-06-020",
     "title": "Browser Use in Managed Deep Agents",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-020.json"
   },
   {
     "id": "2026-11-06-021",
     "title": "Agents Are Going Async",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-021.json"
   },
   {
     "id": "2026-11-06-022",
     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-022.json"
   },
   {
     "id": "2026-11-06-023",
     "title": "The latest AI news we announced in October 2026",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-023.json"
   },
   {
     "id": "2026-11-06-024",
     "title": "Our newest AI Quest: Mapping the human brain",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-024.json"
   },
   {
     "id": "2026-11-06-025",
     "title": "OpenAI is stepping back from NDAs for data center projects",
     "category": "policy",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-025.json"
   },
   {
     "id": "2026-11-06-026",
     "title": "Airbnb is working on an AI travel agent",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-026.json"
   },
   {
     "id": "2026-11-06-027",
     "title": "Perplexity launches its own take on AI agents for work",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-06/2026-11-06-027.json"
   },
   {
     "id": "2026-11-07-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-000.json"
   },
   {
     "id": "2026-11-07-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-001.json"
   },
   {
     "id": "2026-11-07-002",
     "title": "langgenius/dify",
     "category": "framework",
-    "relevance_score": 0.95
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-002.json"
   },
   {
     "id": "2026-11-07-003",
     "title": "Reflections on Rust in the LLM Age",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-003.json"
   },
   {
     "id": "2026-11-07-004",
     "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-004.json"
   },
   {
     "id": "2026-11-07-005",
     "title": "An easy way to try local AI with braindead-local-intelligence",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-005.json"
   },
   {
     "id": "2026-11-07-006",
     "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-006.json"
   },
   {
     "id": "2026-11-07-007",
     "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-007.json"
   },
   {
     "id": "2026-11-07-008",
     "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-008.json"
   },
   {
     "id": "2026-11-07-009",
     "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
     "category": "ml",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-009.json"
   },
   {
     "id": "2026-11-07-010",
     "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-010.json"
   },
   {
     "id": "2026-11-07-011",
     "title": "Measuring how AI agents handle everyday wet-lab science",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-011.json"
   },
   {
     "id": "2026-11-07-012",
     "title": "Australian universities are creating AI-native graduates",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-012.json"
   },
   {
     "id": "2026-11-07-013",
     "title": "ToyBlocks: A controlled world for robot learning and evaluation",
     "category": "framework",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-013.json"
   },
   {
     "id": "2026-11-07-014",
     "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-014.json"
   },
   {
     "id": "2026-11-07-015",
     "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-015.json"
   },
   {
     "id": "2026-11-07-016",
     "title": "Managed Deep Agents v0.10: Browser Use and Async Subagents",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-016.json"
   },
   {
     "id": "2026-11-07-017",
     "title": "Agents Are Going Async",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-017.json"
   },
   {
     "id": "2026-11-07-018",
     "title": "How We Optimized Browser Use for Deep Agents",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-018.json"
   },
   {
     "id": "2026-11-07-019",
     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-019.json"
   },
   {
     "id": "2026-11-07-020",
     "title": "The latest AI news we announced in October 2026",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-020.json"
   },
   {
     "id": "2026-11-07-021",
     "title": "Our newest AI Quest: Mapping the human brain",
     "category": "tool",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-021.json"
   },
   {
     "id": "2026-11-07-022",
     "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-022.json"
   },
   {
     "id": "2026-11-07-023",
     "title": "China reportedly recruited AI exec to spy on Jensen Huang",
     "category": "security",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-023.json"
   },
   {
     "id": "2026-11-07-024",
     "title": "All the latest updates on AI data centers",
     "category": "infrastructure",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-07/2026-11-07-024.json"
   },
   {
     "id": "2026-11-08-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-000.json"
   },
   {
     "id": "2026-11-08-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.95
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-001.json"
   },
   {
     "id": "2026-11-08-002",
     "title": "langgenius/dify",
     "category": "framework",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-002.json"
   },
   {
     "id": "2026-11-08-003",
     "title": "Catching prompt injections hidden in PDFs",
     "category": "security",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-003.json"
   },
   {
     "id": "2026-11-08-004",
     "title": "Reflections on Rust in the LLM Age",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-004.json"
   },
   {
     "id": "2026-11-08-005",
     "title": "The most scathing reviewer 2 review I have ever read",
     "category": "agent",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-005.json"
   },
   {
     "id": "2026-11-08-006",
     "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-006.json"
   },
   {
     "id": "2026-11-08-007",
     "title": "Measuring how AI agents handle everyday wet-lab science",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-007.json"
   },
   {
     "id": "2026-11-08-008",
     "title": "Australian universities are creating AI-native graduates",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-008.json"
   },
   {
     "id": "2026-11-08-009",
     "title": "ToyBlocks: A controlled world for robot learning and evaluation",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-009.json"
   },
   {
     "id": "2026-11-08-010",
     "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
     "category": "asr",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-010.json"
   },
   {
     "id": "2026-11-08-011",
     "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
     "category": "world_model",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-011.json"
   },
   {
     "id": "2026-11-08-012",
     "title": "Managed Deep Agents v0.10: Browser Use and Async Subagents",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-012.json"
   },
   {
     "id": "2026-11-08-013",
     "title": "Agents Are Going Async",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-013.json"
   },
   {
     "id": "2026-11-08-014",
     "title": "How We Optimized Browser Use for Deep Agents",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-014.json"
   },
   {
     "id": "2026-11-08-015",
     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-015.json"
   },
   {
     "id": "2026-11-08-016",
     "title": "The latest AI news we announced in October 2026",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-016.json"
   },
   {
     "id": "2026-11-08-017",
     "title": "Our newest AI Quest: Mapping the human brain",
     "category": "tool",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-017.json"
   },
   {
     "id": "2026-11-08-018",
     "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
     "category": "llm",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-018.json"
   },
   {
     "id": "2026-11-08-019",
     "title": "The US let Nvidia sell chips to an empty office in China",
     "category": "policy",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-019.json"
   },
   {
     "id": "2026-11-08-020",
     "title": "AI broke the cybersecurity world. What’s next?",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-08/2026-11-08-020.json"
   },
   {
     "id": "2026-11-09-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-000.json"
   },
   {
     "id": "2026-11-09-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.92
+    "relevance_score": 0.92,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-001.json"
   },
   {
     "id": "2026-11-09-002",
     "title": "langgenius/dify",
     "category": "framework",
-    "relevance_score": 0.95
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-002.json"
   },
   {
     "id": "2026-11-09-003",
     "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
     "category": "tool",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-003.json"
   },
   {
     "id": "2026-11-09-004",
     "title": "OpenAI raises $11B at a $1.25T valuation",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-004.json"
   },
   {
     "id": "2026-11-09-005",
     "title": "Goodbye Claude, hello Pi",
     "category": "llm",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-005.json"
   },
   {
     "id": "2026-11-09-006",
     "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
     "category": "tool",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-006.json"
   },
   {
     "id": "2026-11-09-007",
     "title": "Catching prompt injections hidden in PDFs",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-007.json"
   },
   {
     "id": "2026-11-09-008",
     "title": "Firecracker VM Escape: PwnEscape Part 2",
     "category": "security",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-008.json"
   },
   {
     "id": "2026-11-09-009",
     "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
     "category": "llm",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-009.json"
   },
   {
     "id": "2026-11-09-010",
     "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-010.json"
   },
   {
     "id": "2026-11-09-011",
     "title": "Measuring how AI agents handle everyday wet-lab science",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-011.json"
   },
   {
     "id": "2026-11-09-012",
     "title": "Australian universities are creating AI-native graduates",
     "category": "tool",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-012.json"
   },
   {
     "id": "2026-11-09-013",
     "title": "ToyBlocks: A controlled world for robot learning and evaluation",
     "category": "framework",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-013.json"
   },
   {
     "id": "2026-11-09-014",
     "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
     "category": "asr",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-014.json"
   },
   {
     "id": "2026-11-09-015",
     "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
     "category": "framework",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-015.json"
   },
   {
     "id": "2026-11-09-016",
     "title": "Managed Deep Agents v0.10: Browser Use and Async Subagents",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-016.json"
   },
   {
     "id": "2026-11-09-017",
     "title": "Agents Are Going Async",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-017.json"
   },
   {
     "id": "2026-11-09-018",
     "title": "How We Optimized Browser Use for Deep Agents",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-018.json"
   },
   {
     "id": "2026-11-09-019",
     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-019.json"
   },
   {
     "id": "2026-11-09-020",
     "title": "The latest AI news we announced in October 2026",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-020.json"
   },
   {
     "id": "2026-11-09-021",
     "title": "Our newest AI Quest: Mapping the human brain",
     "category": "tool",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-021.json"
   },
   {
     "id": "2026-11-09-022",
     "title": "Apple is racing to make Siri more agentic",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-09/2026-11-09-022.json"
   },
   {
     "id": "2026-11-10-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-000.json"
   },
   {
     "id": "2026-11-10-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-001.json"
   },
   {
     "id": "2026-11-10-002",
     "title": "langgenius/dify",
     "category": "framework",
-    "relevance_score": 0.95
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-002.json"
   },
   {
     "id": "2026-11-10-003",
     "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-003.json"
   },
   {
     "id": "2026-11-10-004",
     "title": "Claude Fable 5.2 and Mythos 5.2",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-004.json"
   },
   {
     "id": "2026-11-10-005",
     "title": "Catching prompt injections hidden in PDFs",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-005.json"
   },
   {
     "id": "2026-11-10-006",
     "title": "Reflections on Rust in the LLM Age",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-006.json"
   },
   {
     "id": "2026-11-10-007",
     "title": "Enhancing Academic Advisement with Case-Based Reasoning",
     "category": "agent",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-007.json"
   },
   {
     "id": "2026-11-10-008",
     "title": "NormGym: Evaluating Normative Competence through Social Interaction",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-008.json"
   },
   {
     "id": "2026-11-10-009",
     "title": "LLM-Based Feature Extraction for Multi-Criteria Inventory Classification",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-009.json"
   },
   {
     "id": "2026-11-10-010",
     "title": "Did we ever really get to the bottom of why BatchNorm works? [D]",
     "category": "deep_learning",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-010.json"
   },
   {
     "id": "2026-11-10-011",
     "title": "ChatGPT Enterprise now available in AWS Marketplace",
     "category": "llm",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-011.json"
   },
   {
     "id": "2026-11-10-012",
     "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
     "category": "framework",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-012.json"
   },
   {
     "id": "2026-11-10-013",
     "title": "CodeRabbit scales agentic software development and ships 20x more",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-013.json"
   },
   {
     "id": "2026-11-10-014",
     "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-014.json"
   },
   {
     "id": "2026-11-10-015",
     "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-015.json"
   },
   {
     "id": "2026-11-10-016",
     "title": "ToyBlocks: A controlled world for robot learning and evaluation",
     "category": "framework",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-016.json"
   },
   {
     "id": "2026-11-10-017",
     "title": "How Stripe Built Kai on Deep Agents in 1 Week",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-017.json"
   },
   {
     "id": "2026-11-10-018",
     "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-018.json"
   },
   {
     "id": "2026-11-10-019",
     "title": "Iterating Towards LLM Reliability with Evaluation Driven Development",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-019.json"
   },
   {
     "id": "2026-11-10-020",
     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-020.json"
   },
   {
     "id": "2026-11-10-021",
     "title": "The latest AI news we announced in October 2026",
     "category": "llm",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-021.json"
   },
   {
     "id": "2026-11-10-022",
     "title": "Our newest AI Quest: Mapping the human brain",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-022.json"
   },
   {
     "id": "2026-11-10-023",
     "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
     "category": "tool",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-023.json"
   },
   {
     "id": "2026-11-10-024",
     "title": "What could China get from Jensen Huang?",
     "category": "hardware",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-10/2026-11-10-024.json"
   },
   {
     "id": "2026-11-11-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-000.json"
   },
   {
     "id": "2026-11-11-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.95
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-001.json"
   },
   {
     "id": "2026-11-11-002",
     "title": "langgenius/dify",
     "category": "framework",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-002.json"
   },
   {
     "id": "2026-11-11-003",
     "title": "AI usage generates a fragile codebase",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-003.json"
   },
   {
     "id": "2026-11-11-004",
     "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-004.json"
   },
   {
     "id": "2026-11-11-005",
     "title": "Claude Fable 5.2 and Mythos 5.2",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-005.json"
   },
   {
     "id": "2026-11-11-006",
     "title": "Online learning on the programmable dataplane (2022)",
     "category": "ml",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-006.json"
   },
   {
     "id": "2026-11-11-007",
     "title": "Catching prompt injections hidden in PDFs",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-007.json"
   },
   {
     "id": "2026-11-11-008",
     "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-008.json"
   },
   {
     "id": "2026-11-11-009",
     "title": "Veterans' Mental Health Crisis Severity Annotation: Do LLMs Agree More Than Human Experts?",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-009.json"
   },
   {
     "id": "2026-11-11-010",
     "title": "LoRazor: Trimming Adapter Execution for Efficient Multi-LoRA Serving",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-010.json"
   },
   {
     "id": "2026-11-11-011",
     "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
     "category": "framework",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-011.json"
   },
   {
     "id": "2026-11-11-012",
     "title": "Gilbert + Tobin rethinks the business of law with AI",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-012.json"
   },
   {
     "id": "2026-11-11-013",
     "title": "Helping caregivers use AI in everyday life",
     "category": "tool",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-013.json"
   },
   {
     "id": "2026-11-11-014",
     "title": "Introducing Businesses in ChatGPT",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-014.json"
   },
   {
     "id": "2026-11-11-015",
     "title": "Pay for Hugging Face Hub with your Google Cloud Account",
     "category": "tool",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-015.json"
   },
   {
     "id": "2026-11-11-016",
     "title": "Decision Models in Hugging Face",
     "category": "framework",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-016.json"
   },
   {
     "id": "2026-11-11-017",
     "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-017.json"
   },
   {
     "id": "2026-11-11-018",
     "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-018.json"
   },
   {
     "id": "2026-11-11-019",
     "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-019.json"
   },
   {
     "id": "2026-11-11-020",
     "title": "How Workday Built an Enterprise-Scale AI Agent Platform with LangGraph and LangSmith",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-020.json"
   },
   {
     "id": "2026-11-11-021",
     "title": "Gemini Intelligence: New features, on more devices",
     "category": "llm",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-021.json"
   },
   {
     "id": "2026-11-11-022",
     "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-022.json"
   },
   {
     "id": "2026-11-11-023",
     "title": "Google Cloud launches Gemini for healthcare.",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-023.json"
   },
   {
     "id": "2026-11-11-024",
     "title": "The US is winning the AI race. Jensen Huang could have blown it",
     "category": "industry",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-024.json"
   },
   {
     "id": "2026-11-11-025",
     "title": "ChatGPT is getting verified AI ‘Business Agents’",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-025.json"
   },
   {
     "id": "2026-11-11-026",
     "title": "The indie game community is in disarray over AI and Big Walk",
     "category": "tool",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-11/2026-11-11-026.json"
   },
   {
     "id": "2026-11-12-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-000.json"
   },
   {
     "id": "2026-11-12-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.95
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-001.json"
   },
   {
     "id": "2026-11-12-002",
     "title": "langgenius/dify",
     "category": "framework",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-002.json"
   },
   {
     "id": "2026-11-12-003",
     "title": "Writing a SIGGRAPH paper from scratch",
     "category": "tool",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-003.json"
   },
   {
     "id": "2026-11-12-004",
     "title": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
     "category": "infrastructure",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-004.json"
   },
   {
     "id": "2026-11-12-005",
     "title": "Can we talk about the ML research coming from China? [D]",
     "category": "llm",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-005.json"
   },
   {
     "id": "2026-11-12-006",
     "title": "Gilbert + Tobin rethinks the business of law with AI",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-006.json"
   },
   {
     "id": "2026-11-12-007",
     "title": "ChatGPT Plus for veterans and servicemembers",
     "category": "llm",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-007.json"
   },
   {
     "id": "2026-11-12-008",
     "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-008.json"
   },
   {
     "id": "2026-11-12-009",
     "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-009.json"
   },
   {
     "id": "2026-11-12-010",
     "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
     "category": "rag",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-010.json"
   },
   {
     "id": "2026-11-12-011",
     "title": "Pay for Hugging Face Hub with your Google Cloud Account",
     "category": "tool",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-011.json"
   },
   {
     "id": "2026-11-12-012",
     "title": "How our GTM Agent builds consistent, high-quality sales artifacts",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-012.json"
   },
   {
     "id": "2026-11-12-013",
     "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-013.json"
   },
   {
     "id": "2026-11-12-014",
     "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-014.json"
   },
   {
     "id": "2026-11-12-015",
     "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-015.json"
   },
   {
     "id": "2026-11-12-016",
     "title": "United won’t let your AI agent book your flight",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-016.json"
   },
   {
     "id": "2026-11-12-017",
     "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
     "category": "tool",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-12/2026-11-12-017.json"
   },
   {
     "id": "2026-11-13-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-000.json"
   },
   {
     "id": "2026-11-13-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-001.json"
   },
   {
     "id": "2026-11-13-002",
     "title": "langgenius/dify",
     "category": "framework",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-002.json"
   },
   {
     "id": "2026-11-13-003",
     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-003.json"
   },
   {
     "id": "2026-11-13-004",
     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
     "category": "agent",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-004.json"
   },
   {
     "id": "2026-11-13-005",
     "title": "My AI agents found an unmapped Maya site?",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-005.json"
   },
   {
     "id": "2026-11-13-006",
     "title": "libreagi - save OS models",
     "category": "framework",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-006.json"
   },
   {
     "id": "2026-11-13-007",
     "title": "UMAP 0.6: new initialization, new optimizers and faster performance [P]",
     "category": "tool",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-007.json"
   },
   {
     "id": "2026-11-13-008",
     "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-008.json"
   },
   {
     "id": "2026-11-13-009",
     "title": "Gondola doubles revenue as its team builds more with Codex",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-009.json"
   },
   {
     "id": "2026-11-13-010",
     "title": "Holiday Extras is rethinking what it can build with Codex",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-010.json"
   },
   {
     "id": "2026-11-13-011",
     "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-011.json"
   },
   {
     "id": "2026-11-13-012",
     "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
     "category": "framework",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-012.json"
   },
   {
     "id": "2026-11-13-013",
     "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-013.json"
   },
   {
     "id": "2026-11-13-014",
     "title": "What Is Eval-Driven Development? How to Improve AI Agents",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-014.json"
   },
   {
     "id": "2026-11-13-015",
     "title": "Own Your Intelligence: The Key to Lasting AI Advantage",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-015.json"
   },
   {
     "id": "2026-11-13-016",
     "title": "How our GTM Agent builds consistent, high-quality sales artifacts",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-016.json"
   },
   {
     "id": "2026-11-13-017",
     "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-017.json"
   },
   {
     "id": "2026-11-13-018",
     "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-018.json"
   },
   {
     "id": "2026-11-13-019",
     "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
     "category": "tool",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-019.json"
   },
   {
     "id": "2026-11-13-020",
     "title": "Google’s new Gemini model is better at understanding complicated questions",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-13/2026-11-13-020.json"
   },
   {
     "id": "2026-11-15-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-000.json"
   },
   {
     "id": "2026-11-15-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.95
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-001.json"
   },
   {
     "id": "2026-11-15-002",
     "title": "langgenius/dify",
     "category": "framework",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-002.json"
   },
   {
     "id": "2026-11-15-003",
     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
     "category": "hardware",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-003.json"
   },
   {
     "id": "2026-11-15-004",
     "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-004.json"
   },
   {
     "id": "2026-11-15-005",
     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-005.json"
   },
   {
     "id": "2026-11-15-006",
     "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-006.json"
   },
   {
     "id": "2026-11-15-007",
     "title": "You could have invented transformers from memory",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-007.json"
   },
   {
     "id": "2026-11-15-008",
     "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-008.json"
   },
   {
     "id": "2026-11-15-009",
     "title": "Introducing ChatGPT Wallet",
     "category": "agent",
-    "relevance_score": 0.95
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-009.json"
   },
   {
     "id": "2026-11-15-010",
     "title": "Shield helps technicians hand off legacy portal work with OpenAI",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-010.json"
   },
   {
     "id": "2026-11-15-011",
     "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-011.json"
   },
   {
     "id": "2026-11-15-012",
     "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
     "category": "tool",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-012.json"
   },
   {
     "id": "2026-11-15-013",
     "title": "XYBench: Helping with the problem behind the question",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-013.json"
   },
   {
     "id": "2026-11-15-014",
     "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
     "category": "framework",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-014.json"
   },
   {
     "id": "2026-11-15-015",
     "title": "Goal Engineering",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-015.json"
   },
   {
     "id": "2026-11-15-016",
     "title": "LangChain Raises $300M Series C at $3B Valuation",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-016.json"
   },
   {
     "id": "2026-11-15-017",
     "title": "What Is Eval-Driven Development? How to Improve AI Agents",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-017.json"
   },
   {
     "id": "2026-11-15-018",
     "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-018.json"
   },
   {
     "id": "2026-11-15-019",
     "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-019.json"
   },
   {
     "id": "2026-11-15-020",
     "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
     "category": "governance",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-020.json"
   },
   {
     "id": "2026-11-15-021",
     "title": "Jensen Huang and the decline of the visionary showman founder CEO",
     "category": "business",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-021.json"
   },
   {
     "id": "2026-11-15-022",
     "title": "Amazon has a plan to index the world’s online shopping data",
     "category": "tool",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-15/2026-11-15-022.json"
   },
   {
     "id": "2026-11-16-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-000.json"
   },
   {
     "id": "2026-11-16-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-001.json"
   },
   {
     "id": "2026-11-16-002",
     "title": "langgenius/dify",
     "category": "framework",
-    "relevance_score": 0.95
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-002.json"
   },
   {
     "id": "2026-11-16-003",
     "title": "All AI-generated code should be Open Source",
     "category": "policy",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-003.json"
   },
   {
     "id": "2026-11-16-004",
     "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-004.json"
   },
   {
     "id": "2026-11-16-005",
     "title": "You could have invented transformers from memory",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-005.json"
   },
   {
     "id": "2026-11-16-006",
     "title": "A step toward defining the Standard Model on a lattice",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-006.json"
   },
   {
     "id": "2026-11-16-007",
     "title": "Introducing ChatGPT Wallet",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-007.json"
   },
   {
     "id": "2026-11-16-008",
     "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-008.json"
   },
   {
     "id": "2026-11-16-009",
     "title": "XYBench: Helping with the problem behind the question",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-009.json"
   },
   {
     "id": "2026-11-16-010",
     "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
     "category": "framework",
-    "relevance_score": 0.95
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-010.json"
   },
   {
     "id": "2026-11-16-011",
     "title": "Goal Engineering",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-011.json"
   },
   {
     "id": "2026-11-16-012",
     "title": "LangChain Raises $300M Series C at $3B Valuation",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-012.json"
   },
   {
     "id": "2026-11-16-013",
     "title": "What Is Eval-Driven Development? How to Improve AI Agents",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-013.json"
   },
   {
     "id": "2026-11-16-014",
     "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-014.json"
   },
   {
     "id": "2026-11-16-015",
     "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-015.json"
   },
   {
     "id": "2026-11-16-016",
     "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
     "category": "tool",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-016.json"
   },
   {
     "id": "2026-11-16-017",
     "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-017.json"
   },
   {
     "id": "2026-11-16-018",
     "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
     "category": "industry",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-16/2026-11-16-018.json"
   },
   {
     "id": "2026-11-17-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-000.json"
   },
   {
     "id": "2026-11-17-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.95
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-001.json"
   },
   {
     "id": "2026-11-17-002",
     "title": "langgenius/dify",
     "category": "framework",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-002.json"
   },
   {
     "id": "2026-11-17-003",
     "title": "\"Proof of use\" as a requirement for open source contributions?",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-003.json"
   },
   {
     "id": "2026-11-17-004",
     "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
     "category": "llm",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-004.json"
   },
   {
     "id": "2026-11-17-005",
     "title": "You could have invented transformers from memory",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-005.json"
   },
   {
     "id": "2026-11-17-006",
     "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-006.json"
   },
   {
     "id": "2026-11-17-007",
     "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-007.json"
   },
   {
     "id": "2026-11-17-008",
     "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-008.json"
   },
   {
     "id": "2026-11-17-009",
     "title": "Why are ViTs so popular? [D]",
     "category": "model",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-009.json"
   },
   {
     "id": "2026-11-17-010",
     "title": "Broadening access to AI for scientists",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-010.json"
   },
   {
     "id": "2026-11-17-011",
     "title": "Strengthening the fight against online child sexual abuse with new tools and support",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-011.json"
   },
   {
     "id": "2026-11-17-012",
     "title": "Science at the Frontier: How scientists use ChatGPT",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-012.json"
   },
   {
     "id": "2026-11-17-013",
     "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-013.json"
   },
   {
     "id": "2026-11-17-014",
     "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
     "category": "framework",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-014.json"
   },
   {
     "id": "2026-11-17-015",
     "title": "XYBench: Helping with the problem behind the question",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-015.json"
   },
   {
     "id": "2026-11-17-016",
     "title": "From tasks to goals",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-016.json"
   },
   {
     "id": "2026-11-17-017",
     "title": "LangChain Raises $300M Series C at $3B Valuation",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-017.json"
   },
   {
     "id": "2026-11-17-018",
     "title": "Goal Engineering",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-018.json"
   },
   {
     "id": "2026-11-17-019",
     "title": "Best Audio Models - Nov 2026",
     "category": "tool",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-019.json"
   },
   {
     "id": "2026-11-17-020",
     "title": "New Ask Maps features to help with holiday travel and prep",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-020.json"
   },
   {
     "id": "2026-11-17-021",
     "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-021.json"
   },
   {
     "id": "2026-11-17-022",
     "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-022.json"
   },
   {
     "id": "2026-11-17-023",
     "title": "California sues OpenAI over rogue AI hacking incidents",
     "category": "agent",
-    "relevance_score": 0.95
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-023.json"
   },
   {
     "id": "2026-11-17-024",
     "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
     "category": "hardware",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-17/2026-11-17-024.json"
   },
   {
     "id": "2026-11-18-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-000.json"
   },
   {
     "id": "2026-11-18-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-001.json"
   },
   {
     "id": "2026-11-18-002",
     "title": "langgenius/dify",
     "category": "framework",
-    "relevance_score": 0.95
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-002.json"
   },
   {
     "id": "2026-11-18-003",
     "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
     "category": "framework",
-    "relevance_score": 0.72
+    "relevance_score": 0.72,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-003.json"
   },
   {
     "id": "2026-11-18-004",
     "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
     "category": "framework",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-004.json"
   },
   {
     "id": "2026-11-18-005",
     "title": "You could have invented transformers from memory",
     "category": "llm",
-    "relevance_score": 0.86
+    "relevance_score": 0.86,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-005.json"
   },
   {
     "id": "2026-11-18-006",
     "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
     "category": "llm",
-    "relevance_score": 0.86
+    "relevance_score": 0.86,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-006.json"
   },
   {
     "id": "2026-11-18-007",
     "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
     "category": "agent",
-    "relevance_score": 0.86
+    "relevance_score": 0.86,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-007.json"
   },
   {
     "id": "2026-11-18-008",
     "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
     "category": "cv",
-    "relevance_score": 0.82
+    "relevance_score": 0.82,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-008.json"
   },
   {
     "id": "2026-11-18-009",
     "title": "Introducing GPT-6.2 Astra and Sol",
     "category": "llm",
-    "relevance_score": 0.86
+    "relevance_score": 0.86,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-009.json"
   },
   {
     "id": "2026-11-18-010",
     "title": "Strengthening NATO and allied cyber defenses with AI",
     "category": "tool",
-    "relevance_score": 0.82
+    "relevance_score": 0.82,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-010.json"
   },
   {
     "id": "2026-11-18-011",
     "title": "Introducing ChatGPT for Sales",
     "category": "tool",
-    "relevance_score": 0.78
+    "relevance_score": 0.78,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-011.json"
   },
   {
     "id": "2026-11-18-012",
     "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
     "category": "framework",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-012.json"
   },
   {
     "id": "2026-11-18-013",
     "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
     "category": "framework",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-013.json"
   },
   {
     "id": "2026-11-18-014",
     "title": "XYBench: Helping with the problem behind the question",
     "category": "llm",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-014.json"
   },
   {
     "id": "2026-11-18-015",
     "title": "How to Choose the Right Sandbox for AI Agents",
     "category": "agent",
-    "relevance_score": 0.86
+    "relevance_score": 0.86,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-015.json"
   },
   {
     "id": "2026-11-18-016",
     "title": "Protect sensitive data in your traces: new controls in LangSmith",
     "category": "framework",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-016.json"
   },
   {
     "id": "2026-11-18-017",
     "title": "New context engineering challenges in late 2026",
     "category": "agent",
-    "relevance_score": 0.92
+    "relevance_score": 0.92,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-017.json"
   },
   {
     "id": "2026-11-18-018",
     "title": "Put Gemini to work for you",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-018.json"
   },
   {
     "id": "2026-11-18-019",
     "title": "New Ask Maps features to help with holiday travel and prep",
     "category": "tool",
-    "relevance_score": 0.72
+    "relevance_score": 0.72,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-019.json"
   },
   {
     "id": "2026-11-18-020",
     "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-020.json"
   },
   {
     "id": "2026-11-18-021",
     "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
     "category": "ai_safety",
-    "relevance_score": 0.78
+    "relevance_score": 0.78,
+    "path": "knowledge/articles/2026-11-18/2026-11-18-021.json"
   },
   {
     "id": "2026-11-19-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-000.json"
   },
   {
     "id": "2026-11-19-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-001.json"
   },
   {
     "id": "2026-11-19-002",
     "title": "langgenius/dify",
     "category": "framework",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-002.json"
   },
   {
     "id": "2026-11-19-003",
     "title": "AI agents ask better questions than KPMG accountants in audit trial",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-003.json"
   },
   {
     "id": "2026-11-19-004",
     "title": "AI is killing All About Berlin",
     "category": "llm",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-004.json"
   },
   {
     "id": "2026-11-19-005",
     "title": "Google's AI answers reducing search traffic by 40%",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-005.json"
   },
   {
     "id": "2026-11-19-006",
     "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
     "category": "framework",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-006.json"
   },
   {
     "id": "2026-11-19-007",
     "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
     "category": "framework",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-007.json"
   },
   {
     "id": "2026-11-19-008",
     "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
     "category": "llm",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-008.json"
   },
   {
     "id": "2026-11-19-009",
     "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
     "category": "ai_safety",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-009.json"
   },
   {
     "id": "2026-11-19-010",
     "title": "Training Language Models for Introspective Oversight",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-010.json"
   },
   {
     "id": "2026-11-19-011",
     "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-011.json"
   },
   {
     "id": "2026-11-19-012",
     "title": "The Silent Consensus",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-012.json"
   },
   {
     "id": "2026-11-19-013",
     "title": "Research acceleration: The jagged frontier",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-013.json"
   },
   {
     "id": "2026-11-19-014",
     "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-014.json"
   },
   {
     "id": "2026-11-19-015",
     "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-015.json"
   },
   {
     "id": "2026-11-19-016",
     "title": "Why your fine-tuning job takes longer than the FLOPs say",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-016.json"
   },
   {
     "id": "2026-11-19-017",
     "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
     "category": "framework",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-017.json"
   },
   {
     "id": "2026-11-19-018",
     "title": "LangSmith for Coding Agents: Now track spend by outcome",
     "category": "tool",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-018.json"
   },
   {
     "id": "2026-11-19-019",
     "title": "How to Choose the Right Sandbox for AI Agents",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-019.json"
   },
   {
     "id": "2026-11-19-020",
     "title": "Protect sensitive data in your traces: new controls in LangSmith",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-020.json"
   },
   {
     "id": "2026-11-19-021",
     "title": "The Gemini app is now available on lower-memory Android devices.",
     "category": "llm",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-021.json"
   },
   {
     "id": "2026-11-19-022",
     "title": "Put Gemini to work for you",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-022.json"
   },
   {
     "id": "2026-11-19-023",
     "title": "New Ask Maps features to help with holiday travel and prep",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-023.json"
   },
   {
     "id": "2026-11-19-024",
     "title": "The nation’s largest school districts consider ditching Google Search",
     "category": "tool",
-    "relevance_score": 0.82
+    "relevance_score": 0.82,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-024.json"
   },
   {
     "id": "2026-11-19-025",
     "title": "Trump’s latest land grab is an AI hub in the Philippines",
     "category": "tool",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-025.json"
   },
   {
     "id": "2026-11-19-026",
     "title": "Nvidia’s rise, visualized",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-19/2026-11-19-026.json"
   },
   {
     "id": "2026-11-20-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-000.json"
   },
   {
     "id": "2026-11-20-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.92
+    "relevance_score": 0.92,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-001.json"
   },
   {
     "id": "2026-11-20-002",
     "title": "langgenius/dify",
     "category": "framework",
-    "relevance_score": 0.95
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-002.json"
   },
   {
     "id": "2026-11-20-003",
     "title": "Rebuilding my local voice assistant pipeline",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-003.json"
   },
   {
     "id": "2026-11-20-004",
     "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
     "category": "framework",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-004.json"
   },
   {
     "id": "2026-11-20-005",
     "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
     "category": "framework",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-005.json"
   },
   {
     "id": "2026-11-20-006",
     "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-006.json"
   },
   {
     "id": "2026-11-20-007",
     "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-007.json"
   },
   {
     "id": "2026-11-20-008",
     "title": "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-008.json"
   },
   {
     "id": "2026-11-20-009",
     "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-009.json"
   },
   {
     "id": "2026-11-20-010",
     "title": "Deploying Daybreak Red",
     "category": "framework",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-010.json"
   },
   {
     "id": "2026-11-20-011",
     "title": "See PR scans in action",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-011.json"
   },
   {
     "id": "2026-11-20-012",
     "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-012.json"
   },
   {
     "id": "2026-11-20-013",
     "title": "Why your fine-tuning job takes longer than the FLOPs say",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-013.json"
   },
   {
     "id": "2026-11-20-014",
     "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
     "category": "framework",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-014.json"
   },
   {
     "id": "2026-11-20-015",
     "title": "Why agent governance starts with observability",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-015.json"
   },
   {
     "id": "2026-11-20-016",
     "title": "LangChain Raises $300M Series C at $3B Valuation",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-016.json"
   },
   {
     "id": "2026-11-20-017",
     "title": "LangSmith Tool Gateway: Secure, governed tool use for agents",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-017.json"
   },
   {
     "id": "2026-11-20-018",
     "title": "Introducing Tool Retrieval in the Gemini API",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-018.json"
   },
   {
     "id": "2026-11-20-019",
     "title": "The Gemini app is now available on lower-memory Android devices.",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-019.json"
   },
   {
     "id": "2026-11-20-020",
     "title": "Apple is hiring engineers to build its own AI agent",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-020.json"
   },
   {
     "id": "2026-11-20-021",
     "title": "A brief history of Nvidia’s recent stock fluctuations",
     "category": "hardware",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-021.json"
   },
   {
     "id": "2026-11-20-022",
     "title": "Meta’s Muse Charm might cost $300",
     "category": "agent",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-20/2026-11-20-022.json"
   },
   {
     "id": "2026-11-21-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-000.json"
   },
   {
     "id": "2026-11-21-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-001.json"
   },
   {
     "id": "2026-11-21-002",
     "title": "langgenius/dify",
     "category": "framework",
-    "relevance_score": 0.95
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-002.json"
   },
   {
     "id": "2026-11-21-003",
     "title": "Rebuilding my local voice assistant pipeline",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-003.json"
   },
   {
     "id": "2026-11-21-004",
     "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-004.json"
   },
   {
     "id": "2026-11-21-005",
     "title": "Combatting adversarial distillation",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-005.json"
   },
   {
     "id": "2026-11-21-006",
     "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-006.json"
   },
   {
     "id": "2026-11-21-007",
     "title": "Can AI help scientists identify promising drug candidates?",
     "category": "benchmark",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-007.json"
   },
   {
     "id": "2026-11-21-008",
     "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
     "category": "llm",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-008.json"
   },
   {
     "id": "2026-11-21-009",
     "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
     "category": "framework",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-009.json"
   },
   {
     "id": "2026-11-21-010",
     "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-010.json"
   },
   {
     "id": "2026-11-21-011",
     "title": "LangChain Raises $300M Series C at $3B Valuation",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-011.json"
   },
   {
     "id": "2026-11-21-012",
     "title": "LangSmith Tool Gateway: Secure, governed tool use for agents",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-012.json"
   },
   {
     "id": "2026-11-21-013",
     "title": "Why agent governance starts with observability",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-013.json"
   },
   {
     "id": "2026-11-21-014",
     "title": "Introducing Tool Retrieval in the Gemini API",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-014.json"
   },
   {
     "id": "2026-11-21-015",
     "title": "The Gemini app is now available on lower-memory Android devices.",
     "category": "llm",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-015.json"
   },
   {
     "id": "2026-11-21-016",
     "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
     "category": "policy",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-016.json"
   },
   {
     "id": "2026-11-21-017",
     "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-21/2026-11-21-017.json"
   },
   {
     "id": "2026-11-22-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-000.json"
   },
   {
     "id": "2026-11-22-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-001.json"
   },
   {
     "id": "2026-11-22-002",
     "title": "DietrichGebert/ponytail",
     "category": "agent",
-    "relevance_score": 0.72
+    "relevance_score": 0.72,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-002.json"
   },
   {
     "id": "2026-11-22-003",
     "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
     "category": "security",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-003.json"
   },
   {
     "id": "2026-11-22-004",
     "title": "Rebuilding my local voice assistant pipeline",
     "category": "framework",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-004.json"
   },
   {
     "id": "2026-11-22-005",
     "title": "Combatting adversarial distillation",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-005.json"
   },
   {
     "id": "2026-11-22-006",
     "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-006.json"
   },
   {
     "id": "2026-11-22-007",
     "title": "Can AI help scientists identify promising drug candidates?",
     "category": "benchmark",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-007.json"
   },
   {
     "id": "2026-11-22-008",
     "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
     "category": "llm",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-008.json"
   },
   {
     "id": "2026-11-22-009",
     "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-009.json"
   },
   {
     "id": "2026-11-22-010",
     "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-010.json"
   },
   {
     "id": "2026-11-22-011",
     "title": "How to build a knowledge factory for AI agents",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-011.json"
   },
   {
     "id": "2026-11-22-012",
     "title": "LangChain Raises $300M Series C at $3B Valuation",
     "category": "agent",
-    "relevance_score": 0.82
+    "relevance_score": 0.82,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-012.json"
   },
   {
     "id": "2026-11-22-013",
     "title": "LangSmith Tool Gateway: Secure, governed tool use for agents",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-013.json"
   },
   {
     "id": "2026-11-22-014",
     "title": "Introducing Tool Retrieval in the Gemini API",
     "category": "tool",
-    "relevance_score": 0.92
+    "relevance_score": 0.92,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-014.json"
   },
   {
     "id": "2026-11-22-015",
     "title": "The Gemini app is now available on lower-memory Android devices.",
     "category": "llm",
-    "relevance_score": 0.78
+    "relevance_score": 0.78,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-015.json"
   },
   {
     "id": "2026-11-22-016",
     "title": "Can Anthropic afford to put safety first?",
     "category": "ai_governance",
-    "relevance_score": 0.72
+    "relevance_score": 0.72,
+    "path": "knowledge/articles/2026-11-22/2026-11-22-016.json"
   },
   {
     "id": "2026-11-23-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-000.json"
   },
   {
     "id": "2026-11-23-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-001.json"
   },
   {
     "id": "2026-11-23-002",
     "title": "DietrichGebert/ponytail",
     "category": "agent",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-002.json"
   },
   {
     "id": "2026-11-23-003",
     "title": "Rebuilding my local voice assistant pipeline",
     "category": "agent",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-003.json"
   },
   {
     "id": "2026-11-23-004",
     "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-004.json"
   },
   {
     "id": "2026-11-23-005",
     "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-005.json"
   },
   {
     "id": "2026-11-23-006",
     "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-006.json"
   },
   {
     "id": "2026-11-23-007",
     "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
     "category": "tool",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-007.json"
   },
   {
     "id": "2026-11-23-008",
     "title": "Perplexity and Intelligence",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-008.json"
   },
   {
     "id": "2026-11-23-009",
     "title": "Combatting adversarial distillation",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-009.json"
   },
   {
     "id": "2026-11-23-010",
     "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
     "category": "llm",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-010.json"
   },
   {
     "id": "2026-11-23-011",
     "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-011.json"
   },
   {
     "id": "2026-11-23-012",
     "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
     "category": "framework",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-012.json"
   },
   {
     "id": "2026-11-23-013",
     "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-013.json"
   },
   {
     "id": "2026-11-23-014",
     "title": "How to build a knowledge factory for AI agents",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-014.json"
   },
   {
     "id": "2026-11-23-015",
     "title": "LangChain Raises $300M Series C at $3B Valuation",
     "category": "framework",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-015.json"
   },
   {
     "id": "2026-11-23-016",
     "title": "LangSmith Tool Gateway: Secure, governed tool use for agents",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-016.json"
   },
   {
     "id": "2026-11-23-017",
     "title": "Introducing Tool Retrieval in the Gemini API",
     "category": "tool",
-    "relevance_score": 0.9
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-017.json"
   },
   {
     "id": "2026-11-23-018",
     "title": "Walter Isaacson on curiosity and creativity in the AI age.",
     "category": "ai-ethics",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-018.json"
   },
   {
     "id": "2026-11-23-019",
     "title": "The Gemini app is now available on lower-memory Android devices.",
     "category": "tool",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-019.json"
   },
   {
     "id": "2026-11-23-020",
     "title": "Binding of Isaac developer removes AI music from Repentance Plus",
     "category": "tool",
-    "relevance_score": 0.8
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-020.json"
   },
   {
     "id": "2026-11-23-021",
     "title": "The vibe-coding revolution is coming to all the gadgets",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-23/2026-11-23-021.json"
   },
   {
     "id": "2026-11-24-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-24/2026-11-24-000.json"
   },
   {
     "id": "2026-11-24-001",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-24/2026-11-24-001.json"
   },
   {
     "id": "2026-11-24-002",
     "title": "DietrichGebert/ponytail",
     "category": "agent",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-24/2026-11-24-002.json"
   },
   {
     "id": "2026-11-24-003",
     "title": "Rebuilding my local voice assistant pipeline",
     "category": "tool",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-24/2026-11-24-003.json"
   },
   {
     "id": "2026-11-24-004",
     "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
     "category": "llm",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-24/2026-11-24-004.json"
   },
   {
     "id": "2026-11-24-005",
     "title": "Connected intelligence for in-house legal",
     "category": "agent",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-24/2026-11-24-005.json"
   },
   {
     "id": "2026-11-24-006",
     "title": "Richpanel helps companies automate 50% of support in 30 days",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-24/2026-11-24-006.json"
   },
   {
     "id": "2026-11-24-007",
     "title": "RoboTrack: Point tracking for real-world robotic manipulation",
     "category": "framework",
-    "relevance_score": 0.7
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-24/2026-11-24-007.json"
   },
   {
     "id": "2026-11-24-008",
     "title": "How to build and maintain an agentic evaluation",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-24/2026-11-24-008.json"
   },
   {
     "id": "2026-11-24-009",
     "title": "How to build a knowledge factory for AI agents",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-24/2026-11-24-009.json"
   },
   {
     "id": "2026-11-24-010",
     "title": "LangChain Raises $300M Series C at $3B Valuation",
     "category": "agent",
-    "relevance_score": 0.88
+    "relevance_score": 0.88,
+    "path": "knowledge/articles/2026-11-24/2026-11-24-010.json"
   },
   {
     "id": "2026-11-24-011",
     "title": "LangSmith Tool Gateway: Secure, governed tool use for agents",
     "category": "agent",
-    "relevance_score": 0.85
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-24/2026-11-24-011.json"
   },
   {
     "id": "2026-11-24-012",
     "title": "A more tailored Google Search that’s uniquely yours",
     "category": "rag",
-    "relevance_score": 0.75
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-24/2026-11-24-012.json"
   },
   {
     "id": "2026-11-24-013",
     "title": "Introducing Tool Retrieval in the Gemini API",
     "category": "tool",
-    "relevance_score": 0.92
+    "relevance_score": 0.92,
+    "path": "knowledge/articles/2026-11-24/2026-11-24-013.json"
   }
 ]
