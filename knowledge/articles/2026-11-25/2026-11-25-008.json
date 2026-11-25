@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-25-008",
+  "title": "From Point Clouds to Engineering Models: Benchmarking Agentic 3D Reconstruction in the Built Environment",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.28197",
+  "collected_at": "2026-11-25T03:11:50.473187+00:00",
+  "summary": "本文提出S2Bench，一个场景级Scan-to-BIM基准，将3D重建视为智能体编码任务。包含128个真实场景（五个领域）和专家参考模型，智能体通过Python测量点云并在CAD/BIM内核中构建类标签组件。评估五个智能体和协作团队共1028次重建，发现扫描残差可指导几何修复，但语义分类和构造关系需要联合几何、视觉和工程推理，智能体难以验证。领先智能体几何覆盖达96%（5cm内），但mIoU仅63%，工程检查通过率不超过38%。场景规模增大时性能下降，而小型模型团队协作可改善所有指标。",
+  "tags": [
+    "Scan-to-BIM",
+    "Agentic 3D Reconstruction",
+    "Benchmark",
+    "CAD/BIM",
+    "Point Cloud"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "智能体在几何拟合上表现优异，但在语义理解和工程约束验证上存在瓶颈，团队协作可提升整体性能。"
+}

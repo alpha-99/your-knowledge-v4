@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-25-006",
+  "title": "SAMA: Training-Free Consensus Ridge Tracking for Camera-Based Heart Rate on Five Public Datasets",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.28185",
+  "collected_at": "2026-11-25T03:11:50.473187+00:00",
+  "summary": "SAMA是一种无需训练的远程光电容积脉搏波（rPPG）心率估计方法。它结合POS和CHROM色度谱的质量加权共识，利用同一帧导出的无脉搏参考（帧运动、皮肤掩膜几何、背景亮度）折扣频率，通过Viterbi脊线在随机游走先验下跟踪心率，输出滤波波形和每窗口置信度。在五个公共数据集（UBFC-rPPG、PURE、SUMS、M3PD、MMPD子集）上，SAMA在每视频、30秒和10秒窗口的平均绝对误差均低于POS基线，且通过置信度过滤可进一步降低误差。方法无需训练和数据集特定调优，但未超越最佳神经网络。",
+  "tags": [
+    "rPPG",
+    "心率估计",
+    "无训练",
+    "信号处理",
+    "计算机视觉"
+  ],
+  "relevance_score": 0.8,
+  "category": "tool",
+  "key_insight": "SAMA通过质量加权共识和Viterbi脊线跟踪，无需训练即可在多个数据集上降低心率估计误差，并提供置信度过滤以提升精度。"
+}

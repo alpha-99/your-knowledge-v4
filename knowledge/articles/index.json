@@ -3113,5 +3113,180 @@
     "category": "tool",
     "relevance_score": 0.92,
     "path": "knowledge/articles/2026-11-24/2026-11-24-013.json"
+  },
+  {
+    "id": "2026-11-25-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-000.json"
+  },
+  {
+    "id": "2026-11-25-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-001.json"
+  },
+  {
+    "id": "2026-11-25-002",
+    "title": "DietrichGebert/ponytail",
+    "category": "tool",
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-002.json"
+  },
+  {
+    "id": "2026-11-25-003",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.92,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-003.json"
+  },
+  {
+    "id": "2026-11-25-004",
+    "title": "langchain-ai/langchain",
+    "category": "framework",
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-004.json"
+  },
+  {
+    "id": "2026-11-25-005",
+    "title": "Rebuilding my local voice assistant pipeline",
+    "category": "agent",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-005.json"
+  },
+  {
+    "id": "2026-11-25-006",
+    "title": "SAMA: Training-Free Consensus Ridge Tracking for Camera-Based Heart Rate on Five Public Datasets",
+    "category": "tool",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-006.json"
+  },
+  {
+    "id": "2026-11-25-007",
+    "title": "torchtsetlin: Fast, Interpretable Tsetlin Machines for PyTorch",
+    "category": "framework",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-007.json"
+  },
+  {
+    "id": "2026-11-25-008",
+    "title": "From Point Clouds to Engineering Models: Benchmarking Agentic 3D Reconstruction in the Built Environment",
+    "category": "agent",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-008.json"
+  },
+  {
+    "id": "2026-11-25-009",
+    "title": "AutoPILOT: A Visual Agent Harness for Real-Time Gameplay",
+    "category": "agent",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-009.json"
+  },
+  {
+    "id": "2026-11-25-010",
+    "title": "FinEvo: Recursive Self-Improvement for Long-Horizon Financial Modeling",
+    "category": "framework",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-010.json"
+  },
+  {
+    "id": "2026-11-25-011",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "category": "llm",
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-011.json"
+  },
+  {
+    "id": "2026-11-25-012",
+    "title": "Searching for distant planets with Astra",
+    "category": "llm",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-012.json"
+  },
+  {
+    "id": "2026-11-25-013",
+    "title": "How Intentful uses dots to make more time for growth",
+    "category": "agent",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-013.json"
+  },
+  {
+    "id": "2026-11-25-014",
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "category": "framework",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-014.json"
+  },
+  {
+    "id": "2026-11-25-015",
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "category": "computer vision",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-015.json"
+  },
+  {
+    "id": "2026-11-25-016",
+    "title": "How to build and maintain an agentic evaluation",
+    "category": "agent",
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-016.json"
+  },
+  {
+    "id": "2026-11-25-017",
+    "title": "The Agent Lake",
+    "category": "agent",
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-017.json"
+  },
+  {
+    "id": "2026-11-25-018",
+    "title": "How We Achieved ISO 42001 with LangSmith",
+    "category": "tool",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-018.json"
+  },
+  {
+    "id": "2026-11-25-019",
+    "title": "How to build a knowledge factory for AI agents",
+    "category": "agent",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-019.json"
+  },
+  {
+    "id": "2026-11-25-020",
+    "title": "How Gemini is changing the game for Golden State's organization and fans.",
+    "category": "llm",
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-020.json"
+  },
+  {
+    "id": "2026-11-25-021",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "category": "rag",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-021.json"
+  },
+  {
+    "id": "2026-11-25-022",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "category": "tool",
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-022.json"
+  },
+  {
+    "id": "2026-11-25-023",
+    "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+    "category": "tool",
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-023.json"
+  },
+  {
+    "id": "2026-11-25-024",
+    "title": "Tidal will start banning AI-generated music next month",
+    "category": "tool",
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-25/2026-11-25-024.json"
   }
 ]

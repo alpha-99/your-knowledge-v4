@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-25-007",
+  "title": "torchtsetlin: Fast, Interpretable Tsetlin Machines for PyTorch",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.28195",
+  "collected_at": "2026-11-25T03:11:50.473187+00:00",
+  "summary": "torchtsetlin将Tsetlin机器（一种基于奖励/惩罚而非梯度的可解释学习算法）实现为PyTorch模块，支持加权、卷积、回归、分割等多种变体。通过批处理Type I/II反馈，将自动机转换转化为二项分布事件计数，实现高效训练。在十个基准上匹配现有库精度，训练速度比PyTsetlinMachineCUDA快2.4-10.9倍，比tmu快10.3-81.2倍。纯Python、MIT许可，可无缝融入深度学习生态。",
+  "tags": [
+    "Tsetlin Machine",
+    "PyTorch",
+    "可解释AI",
+    "高效训练",
+    "深度学习生态"
+  ],
+  "relevance_score": 0.8,
+  "category": "framework",
+  "key_insight": "将Tsetlin机器作为PyTorch模块，利用批处理二项分布事件计数实现快速可解释学习，使可解释AI融入深度学习生态。"
+}

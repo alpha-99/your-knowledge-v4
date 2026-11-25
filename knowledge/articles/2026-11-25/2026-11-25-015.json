@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-25-015",
+  "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/allenai/robotrack",
+  "collected_at": "2026-11-25T03:11:50.473187+00:00",
+  "summary": "RoboTrack是一个用于真实世界机器人操作的点跟踪模型，旨在解决机器人操作中物体运动跟踪的难题。该模型通过结合视觉特征和运动估计，实现对关键点的鲁棒跟踪，即使在遮挡、光照变化和动态场景下也能保持高精度。文章展示了在多种机器人操作任务中的实验，如抓取、装配和移动物体，证明了其有效性和实用性。该技术有望提升机器人对环境的感知和适应能力，为自主操作提供关键支持。",
+  "tags": [
+    "点跟踪",
+    "机器人操作",
+    "计算机视觉"
+  ],
+  "relevance_score": 0.8,
+  "category": "computer vision",
+  "key_insight": "通过鲁棒的点跟踪，机器人能够在复杂环境中精确追踪物体运动，从而提升操作的成功率和鲁棒性。"
+}

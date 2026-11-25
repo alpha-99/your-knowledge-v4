@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-25-010",
+  "title": "FinEvo: Recursive Self-Improvement for Long-Horizon Financial Modeling",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.28239",
+  "collected_at": "2026-11-25T03:11:50.473187+00:00",
+  "summary": "FinEvo是一个自进化框架，通过自主经验构建与金融能力提升的整合，实现递归自我改进。该框架让同一模型在金融建模中自我博弈，迭代演化挑战，并利用可执行奖励学习。在Qwen3.6-27B上的端到端实验显示，求解反馈能提升推理需求并发现规范问题，使整体任务成功率从22.73提升至29.09（源内任务）和13.13至19.19（SpreadsheetBench 2 Financial），且对训练中未出现的任务类别也有改善，表明其强化了跨任务共享的金融建模能力。",
+  "tags": [
+    "自进化",
+    "金融建模",
+    "递归自我改进",
+    "LLM",
+    "可执行奖励"
+  ],
+  "relevance_score": 0.85,
+  "category": "framework",
+  "key_insight": "通过自博弈与可执行奖励驱动的自进化，模型能持续提升长时程金融建模能力，并泛化到未见任务，为递归自我改进在专业领域提供了实证路径。"
+}

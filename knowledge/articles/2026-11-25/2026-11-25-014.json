@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-25-014",
+  "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+  "collected_at": "2026-11-25T03:11:50.473187+00:00",
+  "summary": "本文介绍了一个基于Isaac Lab和Newton物理引擎的微型无人机（Microduck）避障Sim2Real工作流。通过仿真环境训练强化学习策略，并成功迁移到真实无人机上，实现了可靠的障碍物规避。该工作流展示了仿真到现实迁移的有效性，为机器人导航提供了实用方案。",
+  "tags": [
+    "sim2real",
+    "obstacle avoidance",
+    "robotics"
+  ],
+  "relevance_score": 0.8,
+  "category": "framework",
+  "key_insight": "利用Isaac Lab和Newton物理引擎，通过Sim2Real工作流成功实现微型无人机避障，证明了仿真训练在真实机器人应用中的可行性。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-25-009",
+  "title": "AutoPILOT: A Visual Agent Harness for Real-Time Gameplay",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.28202",
+  "collected_at": "2026-11-25T03:11:50.473187+00:00",
+  "summary": "AutoPILOT是一种面向实时游戏的多模态智能体框架，通过允许模型在单次调用中发送原始动作、启动开环宏或编写闭环控制器，解决了传统harness（如VISTA）因模型推理速度限制导致动作频率低的问题。作者构建了AFK-Bench（120个浏览器游戏）评估实时性能，在GPT-6.1 Sol下，AutoPILOT实时成功率68.6%对比VISTA的38.3%；在GameWorld中保持80.0%而VISTA从84.1%跌至42.9%。该工作揭示了harness将模型输出转化为时序动作的核心作用，并以五分之一API成本达到同等成功率。",
+  "tags": [
+    "多模态智能体",
+    "实时游戏",
+    "动作控制",
+    "harness设计",
+    "基准测试"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "智能体性能瓶颈不仅在于模型能力，更在于harness如何将模型输出转化为随时间演化的动作，闭环控制器可显著提升实时环境下的成功率与成本效率。"
+}

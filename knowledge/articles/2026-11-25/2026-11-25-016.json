@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-25-016",
+  "title": "How to build and maintain an agentic evaluation",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/agentic-evals",
+  "collected_at": "2026-11-25T03:11:50.473187+00:00",
+  "summary": "本文探讨了如何为AI代理系统构建并维护有效的评估体系。文章指出，代理评估不同于传统模型评估，需要覆盖多步交互、工具调用和长期规划。作者提出了一套实用方法：定义明确的代理任务、生成多样化的测试场景、利用LLM作为自动评判者，并建立持续维护机制以应对代理行为变化。强调评估集需随代理迭代而更新，结合人工审核与自动化指标，确保评估的可靠性和可重复性。",
+  "tags": [
+    "agent",
+    "evaluation",
+    "testing",
+    "LLM-as-judge",
+    "maintenance"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "代理评估的核心在于构建动态、可维护的评估集，并利用LLM评判器实现规模化、持续性的质量监控。"
+}

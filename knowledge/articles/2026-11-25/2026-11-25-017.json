@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-25-017",
+  "title": "The Agent Lake",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/the-agent-lake",
+  "collected_at": "2026-11-25T03:11:50.473187+00:00",
+  "summary": "文章介绍“Agent Lake”概念，即集中存储智能体（agent）运行过程中产生的所有追踪数据（traces）。LangSmith作为观测平台，能够从海量trace中筛选出高信号样本，用于定位问题、修复错误，并进一步微调模型，从而形成从运行数据到模型改进的闭环。",
+  "tags": [
+    "agent",
+    "observability",
+    "tracing",
+    "LangSmith",
+    "fine-tuning"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "通过构建Agent Lake，将智能体的运行痕迹转化为可操作的数据资产，实现从诊断到模型优化的系统性闭环。"
+}
