@@ -48,8 +48,19 @@ sources:
     enabled: true
     limit: 3
 
+  # Anthropic 官方 feed 候选地址：官方一旦上线，把 enabled 改回 true 即可
+  # 2026-11-25 实测 5 个候选地址（/research/rss.xml、/news/rss、/rss.xml、
+  # /blog/rss.xml、/research/rss）全部 404，确认官方目前不提供 RSS
   - name: "Anthropic Research"
     url: "https://www.anthropic.com/research/rss.xml"
+    category: "公司博客"
+    enabled: false
+    limit: 3
+
+  # 过渡方案：用 Google News RSS 兜住 anthropic.com 的新文章
+  # 注意：Google News RSS 的条目链接是跳转链接，采集器按 RSS 2.0 <item> 正常解析
+  - name: "Anthropic News (Google News RSS)"
+    url: "https://news.google.com/rss/search?q=site:anthropic.com&hl=en-US&gl=US&ceid=US:en"
     category: "公司博客"
     enabled: true
     limit: 3

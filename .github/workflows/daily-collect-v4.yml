@@ -1,10 +1,12 @@
 name: V4 Daily AI Knowledge Collection
 
-# 每天 UTC 00:00（北京时间 08:00）自动采集
-# 和 V2 的 workflow 错开 8 小时,避免同时 commit
+# 每天北京时间 02:05 自动采集
+# 显式声明 timezone，否则 cron 一律按 UTC 解释（UTC 00:00 = 北京 08:00）
+# 分钟位避开 0/30：GitHub 文档说明这两档最容易触发延迟漂移
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "5 2 * * *"
+      timezone: "Asia/Shanghai"
   workflow_dispatch: # 支持手动触发
 
 permissions:
