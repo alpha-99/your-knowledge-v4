@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-26-012",
+  "title": "How Intentful uses dots to make more time for growth",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/business/customer-stories/intentful-dots",
+  "collected_at": "2026-11-26T08:04:11.590857+00:00",
+  "summary": "Intentful 利用 OpenAI 的 dots 平台构建了名为 Aria 的 AI 智能体，该智能体能够自动研究网站信息、生成商业提案，并主动标记重要消息、协助解决问题。Marina Petrova 团队通过这一 AI 代理系统，将重复性研究工作和沟通管理自动化，使团队能够将更多时间投入到业务增长相关的核心工作中。该项目展示了 dots 平台在企业级 AI 代理构建方面的实际应用价值。",
+  "tags": [
+    "AI Agent",
+    "OpenAI dots",
+    "自动化",
+    "商业智能",
+    "客户案例"
+  ],
+  "relevance_score": 0.75,
+  "category": "agent",
+  "key_insight": "通过 OpenAI dots 平台构建的 AI 智能体 Aria 实现了从被动响应到主动协助的转变，将研究、提案生成和消息管理自动化，释放团队精力聚焦业务增长。"
+}

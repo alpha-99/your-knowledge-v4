@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-26-009",
+  "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.33263",
+  "collected_at": "2026-11-26T08:04:11.590857+00:00",
+  "summary": "针对心理健康场景的LLM安全，提出what/who/when三维临床危害分类，将危害识别与干预决策解耦，并用医生审核指令外置策略。基于短推理轨迹SFT和推理长度惩罚RL训练35B-A3B MindGuard2，在公开基准与真实对话中达到接近GLM-5.3的平衡准确率，延迟低约10倍，高召回低误报，并发布模型、合成对话与标注。",
+  "tags": [
+    "LLM安全",
+    "心理健康",
+    "推理模型",
+    "Guard模型",
+    "RLHF"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "把临床危害结构化为可审计策略，并用短推理加推理长度惩罚RL在低延迟下实现高召回安全护栏。"
+}

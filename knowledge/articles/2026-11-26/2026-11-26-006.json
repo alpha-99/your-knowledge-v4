@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-26-006",
+  "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.33161",
+  "collected_at": "2026-11-26T08:04:11.590857+00:00",
+  "summary": "本文提出一种约束感知的测试时评分框架，用于从LLM/VLM生成的多个候选答案中选取最优解。框架包含三个组件：生成候选的起草模型、为每个任务选择和加权检查项的配置模型、以及评估软性属性的评分模型。核心方法是将硬性检查（如安全性、正确性）与软性评分相结合，并通过候选对比进行筛选。在CWEval、LIBERO、LiveCodeBench和HotpotQA四个任务上的消融实验表明，硬性检查与候选对比的结合贡献了最大增益（RAG问答+0.21，代码安全+0.28），而软性检查的自适应配置层未带来可测量的额外价值。",
+  "tags": [
+    "LLM",
+    "VLM",
+    "候选选择",
+    "测试时评分",
+    "约束检查",
+    "安全评估",
+    "消融实验"
+  ],
+  "relevance_score": 0.82,
+  "category": "llm",
+  "key_insight": "硬性约束检查与候选对比的结合是提升多候选选择质量的关键，而自适应软性检查配置层并未带来额外增益。"
+}

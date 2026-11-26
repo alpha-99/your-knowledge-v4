@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-26-015",
+  "title": "Working with AI - Anthropic",
+  "source": "Anthropic News (Google News RSS)",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QQWdUV21Fa2dHR25yU2RLd3Exd0ZQc3RERzMyZFBtWWhxS0NQZjlWR21rWXZqa3FYbmRlZEhPRGhXb19XR3UtTWd3YTdDR3JwM05VTzZoaW82UDdGQWNF?oc=5",
+  "collected_at": "2026-11-26T08:04:11.590857+00:00",
+  "summary": "Anthropic发布的关于如何与AI协作工作的指南文章。作为Claude大语言模型的开发者，Anthropic通常在其博客中分享关于AI使用最佳实践、提示工程技巧、人机协作模式以及负责任AI应用等方面的内容。该文章可能涵盖如何有效利用AI助手提升工作效率、如何设计有效的交互方式、以及在使用AI工具时需要注意的安全与伦理考量。",
+  "tags": [
+    "AI协作",
+    "最佳实践",
+    "Anthropic",
+    "人机交互"
+  ],
+  "relevance_score": 0.75,
+  "category": "llm",
+  "key_insight": "Anthropic作为前沿AI实验室，其关于'与AI协作'的指导反映了行业对AI工具化应用和负责任使用方法的持续关注。"
+}

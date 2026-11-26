@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-26-001",
+  "title": "firecrawl/firecrawl",
+  "source": "github",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "collected_at": "2026-11-26T08:04:11.586682+00:00",
+  "summary": "Firecrawl是一个开源的知识基础设施项目，专为AI Agent设计。它通过统一的API接口提供网页搜索、爬取和数据提取能力，聚合了550+数据提供商。项目将非结构化的网页内容转化为结构化的、可供AI模型消费的数据，解决了Agent在获取实时外部知识时的数据接入难题，是构建RAG系统和增强型Agent的关键数据层组件。",
+  "tags": [
+    "web-scraping",
+    "ai-agent",
+    "data-infrastructure",
+    "open-source",
+    "api"
+  ],
+  "relevance_score": 0.85,
+  "category": "tool",
+  "key_insight": "Firecrawl通过统一API聚合550+数据源，为AI Agent提供即时的结构化外部知识获取能力，是Agent从'离线训练'走向'实时感知'的关键基础设施。"
+}

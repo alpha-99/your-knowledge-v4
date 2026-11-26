@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-26-020",
+  "title": "How We Achieved ISO 42001 with LangSmith",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/ai-governance-iso-iec-42001-langsmith",
+  "collected_at": "2026-11-26T08:04:11.590857+00:00",
+  "summary": "LangChain 借助 LangSmith 建立并落地 ISO/IEC 42001 AI 管理体系：将 AI 风险识别、模型与提示变更、评估、监控、人工复核、事件响应和审计留痕纳入统一平台。LangSmith 提供调用追踪、数据集与评估、用户反馈、告警和权限控制，使 AI 应用从开发到生产可观测、可复现、可问责，从而满足认证审核对治理、文档、持续改进和风险控制的要求。",
+  "tags": [
+    "ISO 42001",
+    "AI治理",
+    "LangSmith",
+    "可观测性",
+    "合规"
+  ],
+  "relevance_score": 0.85,
+  "category": "framework",
+  "key_insight": "LangSmith 将 AI 可观测性与评估能力转化为可审计的治理证据，使 ISO 42001 从制度要求落到工程实践。"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-26-002",
+  "title": "DietrichGebert/ponytail",
+  "source": "github",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "collected_at": "2026-11-26T08:04:11.586684+00:00",
+  "summary": "ponytail 是一个针对 AI 编程 Agent 的系统提示词/人格设定项目，其核心理念是让 AI 像'最懒的资深开发者'一样思考——即遵循'最好的代码是你从未写过的代码'这一原则。该项目通过精心设计的 prompt 引导 AI Agent 在生成代码时避免过度工程化，优先复用现有方案，只写必要的代码，追求极简和高效。适用于 Cursor、Copilot 等 AI 编程助手的系统提示词定制。",
+  "tags": [
+    "prompt-engineering",
+    "ai-agent",
+    "code-generation",
+    "system-prompt"
+  ],
+  "relevance_score": 0.72,
+  "category": "agent",
+  "key_insight": "通过人格化 prompt 让 AI Agent 内化'极简主义'工程哲学，从源头减少冗余代码生成，提升代码产出质量。"
+}

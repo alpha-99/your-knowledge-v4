@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-26-013",
+  "title": "Migrating our Messages API to Rust - Anthropic",
+  "source": "Anthropic News (Google News RSS)",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91blh2eENvd0hsR25fTlhrSkktUlc3djUxb3NYdGo2dm1maGJfZlhvU3NhSS1rWk45WDczZnpiUzVrOEFWVVA1aDRfSXo3YkpfY0RuSzdESDVlU1FqN1VBV1N3Mm5ZdTQ?oc=5",
+  "collected_at": "2026-11-26T08:04:11.590857+00:00",
+  "summary": "Anthropic 将其核心 Messages API 基础设施从原有语言迁移至 Rust。这一工程决策旨在提升 API 的性能、内存安全性和系统可靠性。作为 AI 行业头部公司，Anthropic 选择 Rust 重构其面向开发者的核心接口层，反映了 Rust 在高并发、低延迟后端服务中的工程优势。迁移涉及 API 网关、请求处理、流式响应等关键路径的重新实现，体现了 AI 基础设施从快速迭代向生产级稳定性的演进。",
+  "tags": [
+    "Rust",
+    "API基础设施",
+    "性能工程",
+    "Anthropic",
+    "系统迁移"
+  ],
+  "relevance_score": 0.7,
+  "category": "infrastructure",
+  "key_insight": "头部 AI 公司正将 Rust 作为核心 API 基础设施的首选语言，以兼顾高性能与内存安全，标志着 AI 工程从原型驱动向生产级可靠性的关键转变。"
+}

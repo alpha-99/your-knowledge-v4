@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-26-011",
+  "title": "Searching for distant planets with Astra",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+  "collected_at": "2026-11-26T08:04:11.590857+00:00",
+  "summary": "两名业余天文学家利用 OpenAI Codex 与 Astra 分析 NASA Kepler 和 TESS 公开望远镜数据，自动处理光变曲线、筛选凌星信号并生成候选系外行星。项目展示 AI 编程与研究代理如何帮助非专业用户完成数据清洗、建模、可视化与假设检验，把公开天文数据转化为可复核的科学线索，降低科研门槛。",
+  "tags": [
+    "天文数据科学",
+    "AI辅助研究",
+    "Codex",
+    "Astra",
+    "系外行星"
+  ],
+  "relevance_score": 0.82,
+  "category": "agent",
+  "key_insight": "AI 编程与研究代理可显著降低业余科学家使用公开天文数据开展系外行星候选发现的门槛。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-26-018",
+  "title": "An Indic Voice Agent with CUGA",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+  "collected_at": "2026-11-26T08:04:11.590857+00:00",
+  "summary": "IBM Research提出了一种基于CUGA框架的印地语语音智能体系统。该项目旨在为印度语言（Indic languages）构建端到端的语音交互智能体，结合语音识别、自然语言理解和语音合成技术，支持多种印度语言的语音对话场景。CUGA框架提供了构建多语言语音智能体的基础架构，使开发者能够高效地为印度地区用户创建本地化的语音助手应用。",
+  "tags": [
+    "语音智能体",
+    "印地语",
+    "多语言",
+    "IBM Research",
+    "CUGA框架"
+  ],
+  "relevance_score": 0.7,
+  "category": "agent",
+  "key_insight": "通过CUGA框架实现面向印度多语言的端到端语音智能体，降低本地化语音助手的构建门槛"
+}

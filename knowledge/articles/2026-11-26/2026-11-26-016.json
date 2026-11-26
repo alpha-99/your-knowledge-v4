@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-26-016",
+  "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "collected_at": "2026-11-26T08:04:11.590857+00:00",
+  "summary": "NVIDIA在Hugging Face博客发布Nemotron 3.5 Parse模型的技术文章，聚焦文档解析（Document Parsing）任务。文章涵盖三方面内容：1）开放训练数据集，促进社区协作与复现；2）提供微调方法论，帮助用户针对特定文档格式进行适配；3）推理加速优化，提升文档解析的部署效率。Nemotron系列是NVIDIA开源的LLM产品线，Parse变体专注于从PDF、扫描件等文档中提取结构化信息，属于多模态文档理解领域。",
+  "tags": [
+    "NVIDIA",
+    "Nemotron",
+    "文档解析",
+    "开源模型",
+    "微调",
+    "推理优化",
+    "多模态"
+  ],
+  "relevance_score": 0.75,
+  "category": "llm",
+  "key_insight": "NVIDIA通过开放数据+微调指南+推理加速的组合策略，降低文档解析模型的落地门槛，推动开源生态在结构化文档理解方向的快速发展。"
+}

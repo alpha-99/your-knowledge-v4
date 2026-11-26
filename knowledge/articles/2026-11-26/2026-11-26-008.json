@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-26-008",
+  "title": "General-Purpose Decision Models for AI Configuration Tuning",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.33190",
+  "collected_at": "2026-11-26T08:04:11.590857+00:00",
+  "summary": "该研究评估通用决策模型 Jev 在 AI 配置调优中的作用，将其分别用作优化器、性能预测器和区域引导器，并与常规方法、LLM 在八项调优任务中比较。结果显示，常规优化器在八次比较中有六次排名第一，成熟预测器在七次中优于 Jev；但 Jev 的区域引导能找到困惑度更低的配置。结论是：常规预测器仍应保留，Jev 更适合在可接受额外决策时间和 API 成本时用于提升调优质量。",
+  "tags": [
+    "AI配置调优",
+    "决策模型",
+    "超参数优化",
+    "LLM",
+    "成本效益"
+  ],
+  "relevance_score": 0.78,
+  "category": "agent",
+  "key_insight": "通用决策模型不宜直接替代成熟优化器或预测器，但可作为区域引导器，在成本可接受时提升配置调优质量。"
+}

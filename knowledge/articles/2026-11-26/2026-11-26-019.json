@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-26-019",
+  "title": "The Agent Lake",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/the-agent-lake",
+  "collected_at": "2026-11-26T08:04:11.590857+00:00",
+  "summary": "The Agent Lake 提出将智能体运行过程中产生的全部 trace 集中沉淀为可分析的数据资产。LangSmith 可在大规模 trace 中识别高信号样本，例如失败调用、低质量推理、工具误用和异常交互，并将这些样本转化为修复建议、评估用例或微调数据集。其核心是把智能体可观测性从问题排查扩展到持续优化闭环，帮助团队基于真实运行数据改进提示词、工具调用逻辑和模型能力。",
+  "tags": [
+    "agent observability",
+    "LangSmith",
+    "trace analytics",
+    "model improvement"
+  ],
+  "relevance_score": 0.86,
+  "category": "agent",
+  "key_insight": "智能体 trace 不只是调试日志，而是可规模化挖掘并反哺修复与微调的数据资产。"
+}

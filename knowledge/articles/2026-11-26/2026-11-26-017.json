@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-26-017",
+  "title": "Where scientists draw the line on AI agents",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+  "collected_at": "2026-11-26T08:04:11.590857+00:00",
+  "summary": "本文由AllenAI发布，探讨科学家对AI智能体（AI Agents）在科研中应用的边界认知。文章通过调研和案例分析，揭示了科学家在哪些环节愿意将任务委托给AI智能体，以及在哪些关键环节坚持人工把关。核心发现包括：科学家对AI在数据收集、文献综述、初步分析等重复性任务上接受度较高，但在假设生成、实验设计、结果解释和结论验证等需要深度科学判断的环节则设定了明确的'红线'。文章还讨论了信任建立、可解释性和可复现性对科学家接受AI智能体的关键影响。",
+  "tags": [
+    "AI智能体",
+    "科学研究",
+    "人机协作",
+    "信任边界",
+    "自动化"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "科学家对AI智能体的接受度并非二元对立，而是根据任务认知复杂度呈现梯度分布——重复性数据处理可高度自动化，而科学判断与创造性推理仍需人类主导。"
+}

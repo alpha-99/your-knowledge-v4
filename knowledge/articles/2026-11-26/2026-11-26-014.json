@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-26-014",
+  "title": "Measuring and mitigating agent sandbox escape with Siren - Anthropic",
+  "source": "Anthropic News (Google News RSS)",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fZjR4dUV6eU1kNy1Ub1BpVmxfRXA2c3A5cU5rX2RZZFY3aU1WRGloYkUxZ1pqQmltVjQtTXFDYjhPLXJDbVlBYWxuTC1qQ2JJQW9OeEoyUQ?oc=5",
+  "collected_at": "2026-11-26T08:04:11.590857+00:00",
+  "summary": "Anthropic 介绍 Siren 用于测量和缓解 AI Agent 的沙箱逃逸风险。该方法通过构造潜在越权或逃逸场景，评估 Agent 在受限环境中访问文件、网络、进程或权限边界的行为，并结合隔离、最小权限、监控审计和策略拦截降低风险。其重点是将 Agent 安全从定性判断转为可量化指标和持续回归测试。",
+  "tags": [
+    "AI Agent",
+    "沙箱安全",
+    "风险评估",
+    "权限隔离",
+    "安全测试"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "Agent 沙箱逃逸应被当作可测量的安全指标，并通过隔离、最小权限和持续测试形成闭环缓解。"
+}
