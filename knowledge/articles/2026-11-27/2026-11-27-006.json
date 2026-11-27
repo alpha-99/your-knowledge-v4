@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-27-006",
+  "title": "The need for a formally verifiable mainstream programming language",
+  "source": "Lobsters AI/ML",
+  "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+  "collected_at": "2026-11-27T05:36:03.339015+00:00",
+  "summary": "文章探讨了当前主流编程语言（如C++、Java）缺乏形式化验证能力，导致软件缺陷和安全漏洞频发。作者主张开发一种既能被广泛采用又能进行严格数学证明的编程语言，结合依赖类型和自动定理证明，使开发者能在编译时验证程序正确性。这种语言对AI/ML系统尤其重要，因为其复杂性和安全性要求高。文章分析了现有语言（如Rust、Idris、Coq）的优缺点，并提出了将形式化验证融入主流开发流程的可行路径。",
+  "tags": [
+    "形式化验证",
+    "编程语言",
+    "类型系统",
+    "软件安全",
+    "依赖类型"
+  ],
+  "relevance_score": 0.8,
+  "category": "tool",
+  "key_insight": "需要一种将形式化验证融入主流开发流程的编程语言，以提升软件可靠性，尤其对AI系统至关重要。"
+}

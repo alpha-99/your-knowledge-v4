@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-27-025",
+  "title": "A more tailored Google Search that’s uniquely yours",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+  "collected_at": "2026-11-27T05:36:03.339015+00:00",
+  "summary": "Google 推出基于个人智能（Personal Intelligence）的定制化搜索功能，通过整合用户在不同 Google 服务（如 Gmail、日历、照片、云端硬盘等）中的个人数据，利用大语言模型理解上下文，提供更贴合用户需求的搜索结果。该功能强调隐私保护，用户可控制数据使用范围，实现从通用搜索到个性化搜索的转变。",
+  "tags": [
+    "personalization",
+    "search",
+    "google",
+    "llm",
+    "privacy"
+  ],
+  "relevance_score": 0.9,
+  "category": "llm",
+  "key_insight": "将个人数据与 LLM 结合，使搜索从'通用答案'进化为'个人智能'，同时兼顾隐私控制。"
+}

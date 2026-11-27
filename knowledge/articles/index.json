@@ -3470,5 +3470,215 @@
     "category": "tool",
     "relevance_score": 0.72,
     "path": "knowledge/articles/2026-11-26/2026-11-26-025.json"
+  },
+  {
+    "id": "2026-11-27-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-000.json"
+  },
+  {
+    "id": "2026-11-27-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-001.json"
+  },
+  {
+    "id": "2026-11-27-002",
+    "title": "DietrichGebert/ponytail",
+    "category": "agent",
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-002.json"
+  },
+  {
+    "id": "2026-11-27-003",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-003.json"
+  },
+  {
+    "id": "2026-11-27-004",
+    "title": "langchain-ai/langchain",
+    "category": "framework",
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-004.json"
+  },
+  {
+    "id": "2026-11-27-005",
+    "title": "AI made self-hosting fun again",
+    "category": "tool",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-005.json"
+  },
+  {
+    "id": "2026-11-27-006",
+    "title": "The need for a formally verifiable mainstream programming language",
+    "category": "tool",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-006.json"
+  },
+  {
+    "id": "2026-11-27-007",
+    "title": "Context Scaling: A New Frontier of AI Scaling",
+    "category": "llm",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-007.json"
+  },
+  {
+    "id": "2026-11-27-008",
+    "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+    "category": "llm",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-008.json"
+  },
+  {
+    "id": "2026-11-27-009",
+    "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+    "category": "llm",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-009.json"
+  },
+  {
+    "id": "2026-11-27-010",
+    "title": "General-Purpose Decision Models for AI Configuration Tuning",
+    "category": "tool",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-010.json"
+  },
+  {
+    "id": "2026-11-27-011",
+    "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+    "category": "llm",
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-011.json"
+  },
+  {
+    "id": "2026-11-27-012",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "category": "llm",
+    "relevance_score": 0.95,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-012.json"
+  },
+  {
+    "id": "2026-11-27-013",
+    "title": "Searching for distant planets with Astra",
+    "category": "llm",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-013.json"
+  },
+  {
+    "id": "2026-11-27-014",
+    "title": "How Intentful uses dots to make more time for growth",
+    "category": "agent",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-014.json"
+  },
+  {
+    "id": "2026-11-27-015",
+    "title": "Migrating our Messages API to Rust - Anthropic",
+    "category": "tool",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-015.json"
+  },
+  {
+    "id": "2026-11-27-016",
+    "title": "Measuring and mitigating agent sandbox escape with Siren - Anthropic",
+    "category": "agent",
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-016.json"
+  },
+  {
+    "id": "2026-11-27-017",
+    "title": "Working with AI - Anthropic",
+    "category": "llm",
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-017.json"
+  },
+  {
+    "id": "2026-11-27-018",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "category": "tool",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-018.json"
+  },
+  {
+    "id": "2026-11-27-019",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "category": "llm",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-019.json"
+  },
+  {
+    "id": "2026-11-27-020",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "category": "agent",
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-020.json"
+  },
+  {
+    "id": "2026-11-27-021",
+    "title": "The Agent Lake",
+    "category": "agent",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-021.json"
+  },
+  {
+    "id": "2026-11-27-022",
+    "title": "How We Achieved ISO 42001 with LangSmith",
+    "category": "tool",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-022.json"
+  },
+  {
+    "id": "2026-11-27-023",
+    "title": "How to build a knowledge factory for AI agents",
+    "category": "agent",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-023.json"
+  },
+  {
+    "id": "2026-11-27-024",
+    "title": "How Gemini is changing the game for Golden State's organization and fans.",
+    "category": "llm",
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-024.json"
+  },
+  {
+    "id": "2026-11-27-025",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "category": "llm",
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-025.json"
+  },
+  {
+    "id": "2026-11-27-026",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "category": "agent",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-026.json"
+  },
+  {
+    "id": "2026-11-27-027",
+    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "category": "llm",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-027.json"
+  },
+  {
+    "id": "2026-11-27-028",
+    "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "category": "llm",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-028.json"
+  },
+  {
+    "id": "2026-11-27-029",
+    "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "category": "framework",
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-27/2026-11-27-029.json"
   }
 ]

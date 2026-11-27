@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-27-027",
+  "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+  "collected_at": "2026-11-27T05:36:03.339015+00:00",
+  "summary": "42个州总检察长联合阻止Character.AI在破产程序中出售用户聊天数据。该公司拥有超过2100万美国账户的私人聊天记录，计划将其作为资产拍卖。各州认为此举侵犯用户隐私，要求法院禁止数据出售。此案凸显了AI公司用户数据在破产清算中的法律与伦理争议，为AI数据治理和隐私保护树立重要先例。",
+  "tags": [
+    "隐私",
+    "数据保护",
+    "法律监管",
+    "用户数据",
+    "破产"
+  ],
+  "relevance_score": 0.85,
+  "category": "llm",
+  "key_insight": "AI公司用户数据作为核心资产在破产时面临出售风险，引发监管干预，凸显数据治理的法律空白。"
+}

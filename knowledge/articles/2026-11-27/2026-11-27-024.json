@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-27-024",
+  "title": "How Gemini is changing the game for Golden State's organization and fans.",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+  "collected_at": "2026-11-27T05:36:03.339015+00:00",
+  "summary": "Google Gemini 与 Golden State Warriors 达成合作，将 Gemini 大模型集成到球队的球迷体验和业务运营中。在球迷端，Gemini 为 Chase Center 提供智能助手，支持实时赛事信息、场馆导航和个性化推荐。在业务端，Gemini 被用于分析比赛数据、优化票务策略和内部知识检索。该合作展示了多模态大模型在体育产业中的落地场景，通过自然语言交互降低球迷获取信息的门槛，同时提升运营效率。",
+  "tags": [
+    "Gemini",
+    "体育科技",
+    "多模态大模型",
+    "球迷体验",
+    "商业运营"
+  ],
+  "relevance_score": 0.75,
+  "category": "llm",
+  "key_insight": "Gemini 通过自然语言交互重塑体育场馆的球迷体验与运营效率，验证了大模型在垂直行业中的商业价值。"
+}

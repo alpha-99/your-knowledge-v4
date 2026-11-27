@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-27-015",
+  "title": "Migrating our Messages API to Rust - Anthropic",
+  "source": "Anthropic News (Google News RSS)",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91blh2eENvd0hsR25fTlhrSkktUlc3djUxb3NYdGo2dm1maGJfZlhvU3NhSS1rWk45WDczZnpiUzVrOEFWVVA1aDRfSXo3YkpfY0RuSzdESDVlU1FqN1VBV1N3Mm5ZdTQ?oc=5",
+  "collected_at": "2026-11-27T05:36:03.339015+00:00",
+  "summary": "Anthropic 将 Messages API 从原有实现迁移到 Rust 语言，旨在提升高并发场景下的性能与资源效率。Rust 的内存安全、零成本抽象和异步运行时（如 Tokio）使其成为处理大规模 API 请求的理想选择。迁移过程中团队克服了生态兼容性、开发效率等挑战，最终实现了更低的延迟和更高的吞吐量，同时降低了基础设施成本。该实践展示了 Rust 在 AI 基础设施层的应用价值。",
+  "tags": [
+    "Rust",
+    "API迁移",
+    "性能优化"
+  ],
+  "relevance_score": 0.85,
+  "category": "tool",
+  "key_insight": "用 Rust 重写高吞吐 API 可显著提升性能与稳定性，是 AI 服务基础设施优化的有效路径。"
+}

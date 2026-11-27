@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-27-014",
+  "title": "How Intentful uses dots to make more time for growth",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/business/customer-stories/intentful-dots",
+  "collected_at": "2026-11-27T05:36:03.339015+00:00",
+  "summary": "Intentful公司利用OpenAI的模型开发了名为dot Aria的AI助手，它能够自动研究网站、构建提案，并主动标记消息和解决问题，从而节省团队时间，专注于增长。该助手集成了自然语言处理、信息检索和任务自动化能力，展示了LLM在业务流程中的实际应用价值。",
+  "tags": [
+    "LLM应用",
+    "智能代理",
+    "业务流程自动化"
+  ],
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "通过LLM驱动的智能代理，企业可以将重复性研究任务自动化，释放时间用于增长。"
+}

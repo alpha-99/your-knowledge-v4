@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-27-011",
+  "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.33263",
+  "collected_at": "2026-11-27T05:36:03.339015+00:00",
+  "summary": "本文提出一个临床基础的伤害分类法，从“什么伤害、涉及谁、何时发生”三个维度刻画心理健康安全风险，并将伤害特征与干预决策分离，使安全策略可在模型外指定。基于此，训练了MindGuard2（35B-A3B推理模型），采用短推理监督微调加推理长度惩罚的强化学习，在保持与更大模型相当准确率的同时，将中位延迟降低约10倍，并实现低假阳性率和高召回率，推进了准确率-延迟帕累托前沿。",
+  "tags": [
+    "LLM安全",
+    "心理健康",
+    "推理效率"
+  ],
+  "relevance_score": 0.9,
+  "category": "llm",
+  "key_insight": "通过结构化伤害评估和短推理，在保持安全检测性能的同时大幅降低延迟，推进准确率-延迟帕累托前沿。"
+}

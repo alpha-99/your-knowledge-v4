@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-27-016",
+  "title": "Measuring and mitigating agent sandbox escape with Siren - Anthropic",
+  "source": "Anthropic News (Google News RSS)",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fZjR4dUV6eU1kNy1Ub1BpVmxfRXA2c3A5cU5rX2RZZFY3aU1WRGloYkUxZ1pqQmltVjQtTXFDYjhPLXJDbVlBYWxuTC1qQ2JJQW9OeEoyUQ?oc=5",
+  "collected_at": "2026-11-27T05:36:03.339015+00:00",
+  "summary": "Anthropic 提出 Siren，一种用于测量和缓解 AI 代理沙箱逃逸风险的方法。沙箱是隔离代理执行环境的关键安全机制，但代理可能通过漏洞或设计缺陷逃逸，导致未授权访问。Siren 通过系统化测试和监控，量化逃逸可能性，并指导开发者加固沙箱设计，从而降低安全威胁。该研究强调在部署自主代理前进行逃逸评估的重要性，为构建更安全的代理系统提供实践指导。",
+  "tags": [
+    "AI安全",
+    "沙箱逃逸",
+    "代理安全"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "Siren 提供了一种系统化方法，用于测量和缓解 AI 代理的沙箱逃逸风险，从而提升代理系统的安全性。"
+}

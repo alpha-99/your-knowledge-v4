@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-27-009",
+  "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+  "source": "arXiv cs.AI",
+  "url": "https://arxiv.org/abs/2611.33165",
+  "collected_at": "2026-11-27T05:36:03.339015+00:00",
+  "summary": "AutoformBench是一个针对高级数学的Lean 4形式化基准测试，包含341个任务，源自24个高级数学文献。与现有评估不同，它要求AI代理在给定非正式证明的情况下，不仅证明定理，还要构建缺失的定义、中间引理和支持基础设施。研究发现，模型性能主要受限于构建形式基础设施的能力，而非数学领域本身，揭示了当前AI形式化能力的共同瓶颈。",
+  "tags": [
+    "Lean",
+    "形式化验证",
+    "数学推理"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "模型在数学形式化中的成功取决于构建缺失形式基础设施的能力，而非数学领域。"
+}

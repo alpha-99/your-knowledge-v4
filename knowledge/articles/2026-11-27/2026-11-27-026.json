@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-27-026",
+  "title": "Introducing Tool Retrieval in the Gemini API",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+  "collected_at": "2026-11-27T05:36:03.339015+00:00",
+  "summary": "Google 在 Gemini API 中引入工具检索（Tool Retrieval）功能，旨在解决开发者提供大量工具时上下文窗口受限的问题。该功能允许模型根据用户查询自动从工具库中检索并选择最相关的工具，而非将所有工具定义一次性注入提示词。这提升了处理大规模工具集时的效率与准确性，并降低了 token 消耗。文章介绍了其工作原理、优势及使用场景，为构建复杂智能体应用提供了新范式。",
+  "tags": [
+    "Gemini API",
+    "工具检索",
+    "智能体"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "工具检索通过动态选择相关工具，突破了上下文窗口限制，使智能体能够高效处理大规模工具集。"
+}

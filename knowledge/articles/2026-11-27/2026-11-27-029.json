@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-27-029",
+  "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+  "collected_at": "2026-11-27T05:36:03.339015+00:00",
+  "summary": "美国联邦通信委员会（FCC）批准SpaceX部署多达100万颗配备AI芯片的卫星，作为其“Starmind”计划的一部分，旨在将AI数据中心送入太空。该计划利用太阳能供电，有望缓解地面数据中心的能耗和散热压力，但大规模卫星部署引发轨道碎片和天文观测方面的担忧。Google和Blue Origin等公司也在探索类似方案，太空AI数据中心成为新兴趋势。",
+  "tags": [
+    "太空数据中心",
+    "AI芯片卫星",
+    "FCC批准"
+  ],
+  "relevance_score": 0.7,
+  "category": "framework",
+  "key_insight": "太空AI数据中心获监管批准，标志AI基础设施向太空延伸，但需平衡技术收益与轨道环境风险。"
+}

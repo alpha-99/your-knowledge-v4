@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-27-017",
+  "title": "Working with AI - Anthropic",
+  "source": "Anthropic News (Google News RSS)",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QQWdUV21Fa2dHR25yU2RLd3Exd0ZQc3RERzMyZFBtWWhxS0NQZjlWR21rWXZqa3FYbmRlZEhPRGhXb19XR3UtTWd3YTdDR3JwM05VTzZoaW82UDdGQWNF?oc=5",
+  "collected_at": "2026-11-27T05:36:03.339015+00:00",
+  "summary": "Anthropic发布《Working with AI》报告，探讨AI在职场中的实际应用现状。报告基于对数千名用户的调查，分析了AI如何改变工作流程、提升生产力，并揭示了不同职业群体使用AI的差异。研究发现，AI主要用于写作、编程和数据分析，但用户对AI的信任度和使用深度存在分化。报告还提出了负责任部署AI的建议，强调人机协作和技能提升的重要性。",
+  "tags": [
+    "Anthropic",
+    "AI应用",
+    "职场",
+    "生产力",
+    "人机协作"
+  ],
+  "relevance_score": 0.75,
+  "category": "llm",
+  "key_insight": "AI在职场中的实际应用已从实验转向主流，但需关注信任度差异和负责任部署。"
+}

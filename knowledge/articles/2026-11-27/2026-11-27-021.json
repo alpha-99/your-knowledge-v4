@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-27-021",
+  "title": "The Agent Lake",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/the-agent-lake",
+  "collected_at": "2026-11-27T05:36:03.339015+00:00",
+  "summary": "The Agent Lake 是 LangSmith 提出的概念，指将所有 Agent 运行轨迹（traces）集中存储，形成数据湖。通过分析这些高信号轨迹，开发者可以定位问题、生成修复方案，并利用真实交互数据微调模型。文章展示了如何从海量轨迹中提取高价值信号，将失败案例转化为改进，并用于模型迭代，从而构建更可靠的 Agent 系统。",
+  "tags": [
+    "Agent",
+    "LangSmith",
+    "Trace Analysis",
+    "Observability",
+    "Fine-tuning"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "将 Agent 的所有轨迹视为数据资产，通过系统化分析高信号轨迹，可同时实现故障修复和模型优化。"
+}

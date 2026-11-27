@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-27-000",
+  "title": "NousResearch/hermes-agent",
+  "source": "github",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "collected_at": "2026-11-27T05:36:03.334718+00:00",
+  "summary": "Hermes-Agent 是 NousResearch 推出的一个可成长型 AI 代理框架，旨在构建能够随用户使用而不断进化的智能体。它通过模块化设计支持记忆管理、工具调用、多轮对话和个性化策略，使代理能够根据用户反馈和交互历史动态调整行为。该框架强调持续学习和自适应能力，适合需要长期陪伴和个性化服务的应用场景。",
+  "tags": [
+    "agent",
+    "adaptive",
+    "memory"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "通过持续学习和记忆机制，让AI代理随用户共同成长，实现个性化交互。"
+}

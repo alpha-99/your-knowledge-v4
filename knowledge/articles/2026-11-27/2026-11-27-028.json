@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-27-028",
+  "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+  "collected_at": "2026-11-27T05:36:03.339015+00:00",
+  "summary": "Google申请了一项名为My Channel的专利，旨在根据用户数据生成个性化的AI视频和广告流。该专利被驳回，但Google可能上诉或重新提交。这引发了对AI驱动个性化内容可能侵蚀用户隐私、减少内容多样性以及加剧信息茧房的担忧。",
+  "tags": [
+    "AI视频生成",
+    "个性化推荐",
+    "专利"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "Google的专利显示AI将深度个性化娱乐内容，但可能侵蚀用户隐私和选择多样性。"
+}

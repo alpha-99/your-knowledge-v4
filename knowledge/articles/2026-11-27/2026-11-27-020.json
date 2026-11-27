@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-27-020",
+  "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/training-swarms",
+  "collected_at": "2026-11-27T05:36:03.339015+00:00",
+  "summary": "本文探讨了多智能体系统（MAS）的构建、训练与评估方法，类比于自然界中的鸟群、鱼群和帮派行为。文章系统梳理了多智能体架构设计（如层级式、协作式、竞争式）、训练策略（如集中训练分散执行、通信学习）以及评估指标（如任务完成率、通信效率、涌现行为分析）。重点强调了从单体智能到群体智能的范式转变，并提供了实用工具链和案例研究，帮助开发者构建高效、鲁棒的多智能体应用。",
+  "tags": [
+    "多智能体系统",
+    "群体智能",
+    "强化学习",
+    "架构设计",
+    "评估方法"
+  ],
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "多智能体系统的核心在于设计有效的通信机制与训练策略，以平衡个体目标与群体协作，从而实现超越单体能力的涌现行为。"
+}
