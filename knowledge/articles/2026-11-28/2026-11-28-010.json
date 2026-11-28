@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-28-010",
+  "title": "Working with AI - Anthropic",
+  "source": "Anthropic News (Google News RSS)",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QQWdUV21Fa2dHR25yU2RLd3Exd0ZQc3RERzMyZFBtWWhxS0NQZjlWR21rWXZqa3FYbmRlZEhPRGhXb19XR3UtTWd3YTdDR3JwM05VTzZoaW82UDdGQWNF?oc=5",
+  "collected_at": "2026-11-28T05:12:58.463069+00:00",
+  "summary": "Anthropic 发布关于“Working with AI”的报道，探讨人类与 AI 协作的新范式。文章可能涉及如何将 AI 融入日常工作流程、提升生产力，以及 Anthropic 在 AI 安全与对齐方面的实践。重点在于构建人机协同的工作模式，而非单纯自动化。",
+  "tags": [
+    "Anthropic",
+    "人机协作",
+    "AI 工作流"
+  ],
+  "relevance_score": 0.7,
+  "category": "llm",
+  "key_insight": "AI 的价值在于与人类协同工作，而非替代人类。"
+}

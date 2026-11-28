@@ -3680,5 +3680,166 @@
     "category": "framework",
     "relevance_score": 0.7,
     "path": "knowledge/articles/2026-11-27/2026-11-27-029.json"
+  },
+  {
+    "id": "2026-11-28-000",
+    "title": "NousResearch/hermes-agent",
+    "category": "agent",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-000.json"
+  },
+  {
+    "id": "2026-11-28-001",
+    "title": "firecrawl/firecrawl",
+    "category": "tool",
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-001.json"
+  },
+  {
+    "id": "2026-11-28-002",
+    "title": "langgenius/dify",
+    "category": "framework",
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-002.json"
+  },
+  {
+    "id": "2026-11-28-003",
+    "title": "langchain-ai/langchain",
+    "category": "framework",
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-003.json"
+  },
+  {
+    "id": "2026-11-28-004",
+    "title": "The need for a formally verifiable mainstream programming language",
+    "category": "tool",
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-004.json"
+  },
+  {
+    "id": "2026-11-28-005",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "category": "llm",
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-005.json"
+  },
+  {
+    "id": "2026-11-28-006",
+    "title": "Searching for distant planets with Astra",
+    "category": "llm",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-006.json"
+  },
+  {
+    "id": "2026-11-28-007",
+    "title": "How Intentful uses dots to make more time for growth",
+    "category": "tool",
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-007.json"
+  },
+  {
+    "id": "2026-11-28-008",
+    "title": "Migrating our Messages API to Rust - Anthropic",
+    "category": "llm",
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-008.json"
+  },
+  {
+    "id": "2026-11-28-009",
+    "title": "Measuring and mitigating agent sandbox escape with Siren - Anthropic",
+    "category": "agent",
+    "relevance_score": 0.9,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-009.json"
+  },
+  {
+    "id": "2026-11-28-010",
+    "title": "Working with AI - Anthropic",
+    "category": "llm",
+    "relevance_score": 0.7,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-010.json"
+  },
+  {
+    "id": "2026-11-28-011",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "category": "tool",
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-011.json"
+  },
+  {
+    "id": "2026-11-28-012",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "category": "tool",
+    "relevance_score": 0.75,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-012.json"
+  },
+  {
+    "id": "2026-11-28-013",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "category": "llm",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-013.json"
+  },
+  {
+    "id": "2026-11-28-014",
+    "title": "The Agent Lake",
+    "category": "agent",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-014.json"
+  },
+  {
+    "id": "2026-11-28-015",
+    "title": "How We Achieved ISO 42001 with LangSmith",
+    "category": "tool",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-015.json"
+  },
+  {
+    "id": "2026-11-28-016",
+    "title": "How to build a knowledge factory for AI agents",
+    "category": "agent",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-016.json"
+  },
+  {
+    "id": "2026-11-28-017",
+    "title": "How Gemini is changing the game for Golden State's organization and fans.",
+    "category": "llm",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-017.json"
+  },
+  {
+    "id": "2026-11-28-018",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "category": "llm",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-018.json"
+  },
+  {
+    "id": "2026-11-28-019",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "category": "agent",
+    "relevance_score": 0.85,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-019.json"
+  },
+  {
+    "id": "2026-11-28-020",
+    "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+    "category": "tool",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-020.json"
+  },
+  {
+    "id": "2026-11-28-021",
+    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "category": "llm",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-021.json"
+  },
+  {
+    "id": "2026-11-28-022",
+    "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "category": "llm",
+    "relevance_score": 0.8,
+    "path": "knowledge/articles/2026-11-28/2026-11-28-022.json"
   }
 ]

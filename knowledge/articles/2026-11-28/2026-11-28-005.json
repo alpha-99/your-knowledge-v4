@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-28-005",
+  "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+  "collected_at": "2026-11-28T05:12:58.463069+00:00",
+  "summary": "OpenAI 报告称 GPT-6 模型展现出内在的蛋白质设计能力，能够利用推理和代码生成来设计蛋白质的结构与序列。实验室测试表明，针对五个靶点均观察到结合证据，验证了模型设计的生物活性。这一进展表明大型语言模型不仅能处理文本，还能通过推理和代码执行参与复杂的科学发现，为蛋白质工程和药物研发提供了新范式。",
+  "tags": [
+    "蛋白质设计",
+    "推理",
+    "代码生成"
+  ],
+  "relevance_score": 0.9,
+  "category": "llm",
+  "key_insight": "GPT-6 通过推理和代码生成实现了功能性蛋白质的从头设计，并经实验验证，凸显了 LLM 在跨学科科学发现中的巨大潜力。"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-28-018",
+  "title": "A more tailored Google Search that’s uniquely yours",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+  "collected_at": "2026-11-28T05:12:58.463069+00:00",
+  "summary": "Google AI Blog 介绍了搜索功能的新进展，将“个人智能”（Personal Intelligence）融入搜索栏，整合 Google Wallet、Drive、Gmail、Photos、Calendar 等应用的数据，使搜索结果更贴合用户个人情境。该功能利用大模型理解用户意图，跨应用检索并生成个性化答案，同时注重隐私控制。这标志着搜索从通用信息检索向个性化智能助手的演进。",
+  "tags": [
+    "个性化搜索",
+    "个人智能",
+    "多模态",
+    "Google生态"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "Google 将大模型驱动的个人智能整合进搜索，通过跨应用数据融合实现真正个性化的搜索体验。"
+}

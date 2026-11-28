@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-28-001",
+  "title": "firecrawl/firecrawl",
+  "source": "github",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "collected_at": "2026-11-28T05:12:58.459027+00:00",
+  "summary": "Firecrawl 是一个开源的知识基础设施项目，旨在通过一个统一的 API 为 AI 代理提供搜索、抓取和访问 550+ 数据提供者的能力。它支持网页抓取、深度爬取、内容提取、结构化数据转换等功能，并可与 LLM 应用无缝集成，帮助代理获取实时、干净的上下文数据。该项目简化了从网络获取知识的过程，是构建 RAG 系统和智能代理的重要工具。",
+  "tags": [
+    "web scraping",
+    "search API",
+    "data extraction",
+    "LLM",
+    "RAG"
+  ],
+  "relevance_score": 0.9,
+  "category": "tool",
+  "key_insight": "Firecrawl 将复杂的网页抓取和搜索能力封装为单一 API，为 AI 代理提供即时的知识获取基础设施。"
+}

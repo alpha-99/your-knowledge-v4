@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-28-012",
+  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "collected_at": "2026-11-28T05:12:58.463069+00:00",
+  "summary": "该博客介绍了llama.cpp针对AMD Ryzen CPU和Radeon GPU的基准测试仪表板。该仪表板由ggml-org发布，旨在帮助用户比较不同AMD硬件配置下llama.cpp的推理性能，包括token生成速度、内存占用等指标。通过可视化数据，用户可快速评估硬件性能并优化部署。该工具支持多种模型和参数设置，为AMD平台上的LLM推理提供了实用的性能参考。",
+  "tags": [
+    "llama.cpp",
+    "AMD",
+    "benchmark",
+    "性能测试",
+    "GPU加速"
+  ],
+  "relevance_score": 0.75,
+  "category": "tool",
+  "key_insight": "为AMD平台提供llama.cpp性能基准仪表板，帮助用户优化LLM推理硬件选择。"
+}

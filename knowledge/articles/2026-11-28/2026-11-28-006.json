@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-28-006",
+  "title": "Searching for distant planets with Astra",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+  "collected_at": "2026-11-28T05:12:58.463069+00:00",
+  "summary": "本文介绍了两位业余天文学家利用OpenAI的Codex和Astra模型，从NASA开普勒和TESS望远镜的公开数据中寻找系外行星。他们通过Codex生成代码处理光变曲线数据，并借助Astra进行视觉分析和候选筛选，最终发现了多个潜在系外行星。这一案例展示了大型语言模型在科学发现中的实际应用，降低了专业天文分析的门槛。",
+  "tags": [
+    "AI for Science",
+    "Exoplanet Detection",
+    "Codex"
+  ],
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "利用LLM的代码生成和多模态能力，非专业研究者也能高效分析天文大数据，加速系外行星的发现。"
+}
