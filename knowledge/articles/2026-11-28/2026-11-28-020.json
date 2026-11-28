@@ -1,18 +1,16 @@
 {
   "id": "2026-11-28-020",
-  "title": "Android’s DIY widgets are a bit of vibe-coding fun",
-  "source": "The Verge (AI)",
-  "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
-  "collected_at": "2026-11-28T05:12:58.463069+00:00",
-  "summary": "文章探讨了Android系统通过AI（如Gemini）让用户以自然语言创建个性化桌面小部件（widget）的功能。作者希望AI能实时显示公交到站信息，无需手动打开应用。这种DIY方式体现了AI辅助编程的趣味性，将复杂的数据获取与展示简化为对话式交互，提升了移动端个性化效率。",
+  "title": "How to build a knowledge factory for AI agents",
+  "source": "LangChain Blog",
+  "url": "https://www.langchain.com/blog/knowledge-factory",
+  "collected_at": "2026-11-28T05:40:35.544729+00:00",
+  "summary": "LangChain 提出“知识工厂”模式，用于持续更新 AI 代理的公司知识。代理在执行任务时标记缺失信息，后台的策展代理自动检索、验证并补充知识库，形成闭环。该架构将知识维护从人工转为自动化，确保代理始终使用最新、最相关的业务数据，提升长期运行的可靠性。",
   "tags": [
-    "Android",
-    "Widget",
-    "AI",
-    "Gemini",
-    "个性化"
+    "AI Agent",
+    "知识管理",
+    "LangChain"
   ],
-  "relevance_score": 0.8,
-  "category": "tool",
-  "key_insight": "AI将自然语言转化为功能性小部件，让用户无需编程即可定制实时信息展示，是AI工具在移动端的实用落地。"
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "通过代理自主标记缺失知识并触发后台策展代理自动补充，实现企业知识库的持续自更新。"
 }

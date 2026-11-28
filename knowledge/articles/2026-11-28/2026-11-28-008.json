@@ -1,18 +1,16 @@
 {
   "id": "2026-11-28-008",
-  "title": "Migrating our Messages API to Rust - Anthropic",
-  "source": "Anthropic News (Google News RSS)",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91blh2eENvd0hsR25fTlhrSkktUlc3djUxb3NYdGo2dm1maGJfZlhvU3NhSS1rWk45WDczZnpiUzVrOEFWVVA1aDRfSXo3YkpfY0RuSzdESDVlU1FqN1VBV1N3Mm5ZdTQ?oc=5",
-  "collected_at": "2026-11-28T05:12:58.463069+00:00",
-  "summary": "Anthropic 宣布将其 Messages API 迁移到 Rust 语言，以提升性能、降低延迟并增强系统安全性。文章可能详述迁移动机、技术挑战和收益，包括内存安全、并发处理能力以及减少资源消耗。迁移过程可能涉及逐步替换和兼容性维护，确保现有用户无感过渡。这一举措反映了高性能系统语言在 AI 基础设施中的应用趋势。",
+  "title": "Curb impacts of AI on programming to maintain EU sovereignty",
+  "source": "Lobsters AI/ML",
+  "url": "https://www.draketo.de/software/curb-ai-impact",
+  "collected_at": "2026-11-28T05:40:35.544729+00:00",
+  "summary": "文章探讨AI编程工具（如GitHub Copilot）对欧盟软件产业的影响，指出过度依赖美国AI公司可能削弱欧洲技术主权。建议欧盟采取监管措施，支持本土AI开发，并重新评估AI在编程中的角色，以保持竞争力和自主性。",
   "tags": [
-    "Rust",
-    "API迁移",
-    "性能优化",
-    "Anthropic",
-    "系统编程"
+    "AI编程",
+    "欧盟主权",
+    "技术政策"
   ],
-  "relevance_score": 0.9,
+  "relevance_score": 0.7,
   "category": "llm",
-  "key_insight": "用 Rust 重写 LLM API 可带来性能与安全双重提升，同时保持兼容性。"
+  "key_insight": "欧盟需通过政策干预确保AI编程工具不损害本地技术主权。"
 }

@@ -1,18 +1,18 @@
 {
   "id": "2026-11-28-016",
-  "title": "How to build a knowledge factory for AI agents",
-  "source": "LangChain Blog",
-  "url": "https://www.langchain.com/blog/knowledge-factory",
-  "collected_at": "2026-11-28T05:12:58.463069+00:00",
-  "summary": "LangChain 提出知识工厂（Knowledge Factory）模式，用于解决 AI Agent 在运行中知识过时或缺失的问题。Agent 在执行任务时会主动标记缺失的知识，后台的 Curator Agent 自动检索、验证并更新知识库，从而保持企业知识的实时性和准确性。该模式将知识维护从人工干预转变为自动化闭环，提升了 Agent 的可靠性和长期可用性。",
+  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "collected_at": "2026-11-28T05:40:35.544729+00:00",
+  "summary": "该博客介绍了llama.cpp项目新推出的AMD Ryzen和Radeon硬件基准测试仪表板。该仪表板汇总了llama.cpp在不同AMD CPU和GPU型号上的推理性能数据，包括token生成速度、内存占用等关键指标，并支持按模型、量化方式等维度筛选。用户可借此直观对比AMD硬件在llama.cpp下的表现，为本地LLM部署的硬件选型和参数调优提供参考。",
   "tags": [
-    "AI Agent",
-    "知识管理",
-    "LangChain",
-    "自动更新",
-    "RAG"
+    "llama.cpp",
+    "benchmark",
+    "AMD",
+    "性能测试",
+    "推理优化"
   ],
-  "relevance_score": 0.85,
-  "category": "agent",
-  "key_insight": "通过 Agent 自我标记缺失知识并触发后台自动修复，实现知识库的持续自更新，是构建长期稳定 AI Agent 系统的关键机制。"
+  "relevance_score": 0.8,
+  "category": "tool",
+  "key_insight": "该仪表板为AMD硬件用户提供了llama.cpp性能的权威参考，便于快速评估和优化本地LLM推理配置。"
 }

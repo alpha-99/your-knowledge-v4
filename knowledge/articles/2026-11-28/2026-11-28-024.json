@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-28-024",
+  "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+  "source": "The Verge (AI)",
+  "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+  "collected_at": "2026-11-28T05:40:35.544729+00:00",
+  "summary": "本文探讨了Android平台上的DIY小部件功能，用户可通过自然语言描述需求（如实时公交到站信息），由AI（如Gemini）自动生成定制化小部件，免去手动打开应用查找信息的繁琐。这种‘氛围编程’式交互降低了开发门槛，让非技术人员也能打造个性化手机界面，体现了AI在系统级应用中的潜力。",
+  "tags": [
+    "Android",
+    "Widget",
+    "Gemini",
+    "自然语言生成",
+    "个性化"
+  ],
+  "relevance_score": 0.8,
+  "category": "tool",
+  "key_insight": "AI通过自然语言生成小部件，让用户无需编程即可定制手机功能，实现‘氛围编程’的便捷体验。"
+}

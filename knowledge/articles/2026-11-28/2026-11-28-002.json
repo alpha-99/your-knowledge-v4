@@ -1,18 +1,18 @@
 {
   "id": "2026-11-28-002",
-  "title": "langgenius/dify",
+  "title": "DietrichGebert/ponytail",
   "source": "github",
-  "url": "https://github.com/langgenius/dify",
-  "collected_at": "2026-11-28T05:12:58.459031+00:00",
-  "summary": "Dify 是一个开源的 LLM 应用开发平台，提供可视化的工作流编排、RAG 管道构建、丰富的模型与工具集成，支持云端、VPC 或自托管部署。它允许团队通过拖拽式界面快速构建 Agentic 工作流和知识库问答应用，并内置了可观测性、提示词管理等生产级功能，从而大幅降低从原型到生产的迁移成本。",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "collected_at": "2026-11-28T05:40:35.541459+00:00",
+  "summary": "ponytail 是一个让 AI 智能体像最懒的资深开发者一样思考的工具，核心理念是“最好的代码是你从未写过的代码”。它通过引导模型优先考虑最小化代码改动、复用现有实现、避免冗余逻辑，从而降低维护成本和出错概率。项目可能通过提示工程或约束机制，使 agent 在生成代码时更倾向于简洁、保守的方案，而非过度工程化。适用于代码生成、重构和自动化修复场景，旨在提升代码质量与开发效率。",
   "tags": [
-    "LLM",
-    "Agent",
-    "RAG",
-    "工作流",
-    "低代码"
+    "AI Agent",
+    "代码生成",
+    "最小化原则",
+    "提示工程",
+    "开发效率"
   ],
-  "relevance_score": 0.9,
-  "category": "framework",
-  "key_insight": "通过可视化编排和模块化组件，Dify 将复杂 AI 应用的构建门槛降至低代码水平，加速了从原型到生产的落地。"
+  "relevance_score": 0.82,
+  "category": "agent",
+  "key_insight": "通过约束 agent 像最懒的资深开发者一样思考，可以显著减少不必要的代码生成，提升代码简洁性与可维护性。"
 }

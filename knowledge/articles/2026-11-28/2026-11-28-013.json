@@ -1,18 +1,16 @@
 {
   "id": "2026-11-28-013",
-  "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-  "source": "Hugging Face Blog",
-  "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-  "collected_at": "2026-11-28T05:12:58.463069+00:00",
-  "summary": "本文介绍了基于Nemotron 3.5 Parse的构建方法，重点包括开放数据集的发布、针对特定任务的微调策略以及推理加速技术。作者展示了如何利用开源数据提升文档解析模型的泛化能力，并通过量化、蒸馏等手段实现更快的推理速度，同时保持高精度。文章提供了详细的实验对比和实用指南，帮助开发者高效地定制和部署文档解析模型。",
+  "title": "Measuring and mitigating agent sandbox escape with Siren - Anthropic",
+  "source": "Anthropic News (Google News RSS)",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fZjR4dUV6eU1kNy1Ub1BpVmxfRXA2c3A5cU5rX2RZZFY3aU1WRGloYkUxZ1pqQmltVjQtTXFDYjhPLXJDbVlBYWxuTC1qQ2JJQW9OeEoyUQ?oc=5",
+  "collected_at": "2026-11-28T05:40:35.544729+00:00",
+  "summary": "Anthropic 提出 Siren，用于测量和缓解 AI 代理的沙箱逃逸风险。该工具通过主动检测代理在受限环境中的越界行为，并采取缓解措施，以增强代理系统的安全性。文章可能涉及沙箱逃逸的量化评估方法及防御策略，对构建可信赖的代理系统具有重要意义。",
   "tags": [
-    "Nemotron",
-    "文档解析",
-    "微调",
-    "推理加速",
-    "开放数据"
+    "安全",
+    "沙箱",
+    "代理"
   ],
-  "relevance_score": 0.85,
-  "category": "llm",
-  "key_insight": "通过开放数据与针对性微调，结合推理优化，可显著提升文档解析模型的性能与效率。"
+  "relevance_score": 0.9,
+  "category": "agent",
+  "key_insight": "Siren 通过主动测量和缓解机制，有效降低 AI 代理沙箱逃逸风险，提升系统安全性。"
 }

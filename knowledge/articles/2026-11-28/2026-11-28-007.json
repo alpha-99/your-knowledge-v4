@@ -1,16 +1,16 @@
 {
   "id": "2026-11-28-007",
-  "title": "How Intentful uses dots to make more time for growth",
-  "source": "OpenAI Blog",
-  "url": "https://openai.com/business/customer-stories/intentful-dots",
-  "collected_at": "2026-11-28T05:12:58.463069+00:00",
-  "summary": "Intentful 是一家专注于增长咨询的公司，其创始人 Marina Petrova 利用 OpenAI 的 dot Aria 工具，将繁琐的网站研究、提案撰写和消息处理自动化。Aria 能主动标记重要消息并解决常见问题，使团队能将更多时间投入到高价值的增长策略和客户互动中。通过将 AI 融入日常工作流程，Intentful 显著提升了运营效率，并让团队成员从重复性任务中解放出来，专注于创造性工作。",
+  "title": "AI made self-hosting fun again",
+  "source": "Hacker News Best",
+  "url": "https://janlukas.blog/posts/ai-self-hosting",
+  "collected_at": "2026-11-28T05:40:35.544729+00:00",
+  "summary": "文章探讨AI如何重新激发自托管（self-hosting）的兴趣。作者指出，AI工具降低了自托管的技术门槛，使个人和小团队更容易部署和管理自己的服务。AI助手能自动处理配置、排错和优化，让自托管从繁琐的运维工作变成有趣的学习过程。文章结合实例，展示AI在Docker、网络配置、安全加固等方面的辅助作用，并讨论自托管对隐私、数据主权和技能提升的价值。",
   "tags": [
-    "AI 助手",
-    "工作流自动化",
-    "效率提升"
+    "self-hosting",
+    "AI助手",
+    "DevOps"
   ],
-  "relevance_score": 0.75,
+  "relevance_score": 0.85,
   "category": "tool",
-  "key_insight": "将 AI 嵌入日常工作流，可自动化重复性任务，释放团队时间专注于高价值增长工作。"
+  "key_insight": "AI通过自动化运维和降低技术门槛，让自托管重新变得亲民且有趣，推动个人数据主权回归。"
 }

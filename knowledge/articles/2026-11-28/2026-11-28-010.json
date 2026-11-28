@@ -1,16 +1,16 @@
 {
   "id": "2026-11-28-010",
-  "title": "Working with AI - Anthropic",
-  "source": "Anthropic News (Google News RSS)",
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QQWdUV21Fa2dHR25yU2RLd3Exd0ZQc3RERzMyZFBtWWhxS0NQZjlWR21rWXZqa3FYbmRlZEhPRGhXb19XR3UtTWd3YTdDR3JwM05VTzZoaW82UDdGQWNF?oc=5",
-  "collected_at": "2026-11-28T05:12:58.463069+00:00",
-  "summary": "Anthropic 发布关于“Working with AI”的报道，探讨人类与 AI 协作的新范式。文章可能涉及如何将 AI 融入日常工作流程、提升生产力，以及 Anthropic 在 AI 安全与对齐方面的实践。重点在于构建人机协同的工作模式，而非单纯自动化。",
+  "title": "Searching for distant planets with Astra",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+  "collected_at": "2026-11-28T05:40:35.544729+00:00",
+  "summary": "本文介绍了两位业余天文学家利用OpenAI的Codex和Astra模型，从NASA开普勒和TESS空间望远镜的公开数据中寻找潜在系外行星的过程。他们通过AI辅助进行数据筛选、信号识别和验证，成功发现了候选行星。这一案例展示了大型语言模型在科学数据分析和公民科学中的巨大潜力，能够帮助非专业人士处理海量天文数据，加速科学发现。",
   "tags": [
-    "Anthropic",
-    "人机协作",
-    "AI 工作流"
+    "AI for Science",
+    "Exoplanet Detection",
+    "Citizen Science"
   ],
-  "relevance_score": 0.7,
+  "relevance_score": 0.8,
   "category": "llm",
-  "key_insight": "AI 的价值在于与人类协同工作，而非替代人类。"
+  "key_insight": "AI大模型能有效辅助非专业研究人员从海量天文数据中挖掘科学发现，降低专业门槛。"
 }

@@ -1,17 +1,17 @@
 {
   "id": "2026-11-28-009",
-  "title": "Measuring and mitigating agent sandbox escape with Siren - Anthropic",
-  "source": "Anthropic News (Google News RSS)",
-  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fZjR4dUV6eU1kNy1Ub1BpVmxfRXA2c3A5cU5rX2RZZFY3aU1WRGloYkUxZ1pqQmltVjQtTXFDYjhPLXJDbVlBYWxuTC1qQ2JJQW9OeEoyUQ?oc=5",
-  "collected_at": "2026-11-28T05:12:58.463069+00:00",
-  "summary": "Anthropic 提出 Siren 框架，用于测量和缓解 AI agent 的沙箱逃逸风险。该框架通过监控 agent 行为，检测其尝试突破沙箱限制的迹象，并采取缓解措施。Siren 旨在为 agent 安全提供系统化的评估与防御手段，帮助开发者识别潜在逃逸漏洞，从而提升 agent 部署的安全性。",
+  "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+  "collected_at": "2026-11-28T05:40:35.544729+00:00",
+  "summary": "OpenAI 报告称，GPT-6 模型具备内在的蛋白质设计能力，能够利用推理和代码生成来设计蛋白质的结构与序列。在实验室测试中，针对五个靶点均观察到了结合证据，表明该模型不仅能生成合理的蛋白质骨架，还能通过代码执行和逻辑推理优化序列，实现功能性的蛋白质设计。这一进展展示了大型语言模型在生物分子工程中的直接应用潜力。",
   "tags": [
-    "agent安全",
-    "沙箱逃逸",
-    "安全评估",
-    "Anthropic"
+    "蛋白质设计",
+    "GPT-6",
+    "AI for Science",
+    "生成模型"
   ],
-  "relevance_score": 0.9,
-  "category": "agent",
-  "key_insight": "Siren 提供了一种系统化方法来测量和缓解 agent 沙箱逃逸风险，是 agent 安全领域的重要进展。"
+  "relevance_score": 0.8,
+  "category": "llm",
+  "key_insight": "GPT-6通过推理和代码生成实现了蛋白质结构与序列的端到端设计，并在实验验证中展现出对多个靶点的结合能力。"
 }

@@ -1,16 +1,18 @@
 {
   "id": "2026-11-28-015",
-  "title": "How We Achieved ISO 42001 with LangSmith",
-  "source": "LangChain Blog",
-  "url": "https://www.langchain.com/blog/ai-governance-iso-iec-42001-langsmith",
-  "collected_at": "2026-11-28T05:12:58.463069+00:00",
-  "summary": "LangChain通过使用LangSmith成功获得了ISO/IEC 42001认证，这是国际AI管理体系标准。文章详细介绍了如何利用LangSmith的追踪、评估和监控功能来满足AI治理要求，包括风险管理、透明度和持续改进。这一案例表明，可观测性工具在实现AI合规中扮演着关键角色，能够帮助企业系统化地管理AI风险并证明其负责任地开发和使用AI。",
+  "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+  "source": "Hugging Face Blog",
+  "url": "https://huggingface.co/blog/video-trainium3",
+  "collected_at": "2026-11-28T05:40:35.544729+00:00",
+  "summary": "本文介绍了在AWS Trainium3硬件上运行LTX-2.5视频生成模型的实践。LTX-2.5是一种先进的视频扩散模型，而Trainium3是AWS自研的AI加速芯片。文章展示了如何通过优化模型编译、内存管理和算子融合，在Trainium3上实现高效的视频生成，并提供了性能对比和部署指南。这体现了专用硬件对生成式AI工作负载的加速潜力，为视频生成模型的低成本部署提供了新路径。",
   "tags": [
-    "AI治理",
-    "ISO 42001",
-    "LangSmith"
+    "video generation",
+    "Trainium3",
+    "LTX-2.5",
+    "AWS",
+    "hardware acceleration"
   ],
   "relevance_score": 0.8,
   "category": "tool",
-  "key_insight": "可观测性工具（如LangSmith）是AI系统实现ISO 42001合规的关键基础设施。"
+  "key_insight": "利用AWS Trainium3专用芯片可显著提升视频生成模型的推理效率，展示了硬件优化对生成式AI部署的关键作用。"
 }

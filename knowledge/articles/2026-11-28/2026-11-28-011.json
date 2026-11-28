@@ -1,18 +1,16 @@
 {
   "id": "2026-11-28-011",
-  "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-  "source": "Hugging Face Blog",
-  "url": "https://huggingface.co/blog/video-trainium3",
-  "collected_at": "2026-11-28T05:12:58.463069+00:00",
-  "summary": "该博客介绍了在AWS Trainium3芯片上运行LTX-2.5视频生成模型的实践。文章展示了如何利用Trainium3的高算力与内存带宽，通过优化编译和推理流程，实现快速生成高质量视频。作者分享了性能数据、部署步骤及与GPU对比的优势，强调了Trainium3在AI推理任务中的成本效益和可扩展性，为视频生成工作负载提供了新的硬件选择。",
+  "title": "How Intentful uses dots to make more time for growth",
+  "source": "OpenAI Blog",
+  "url": "https://openai.com/business/customer-stories/intentful-dots",
+  "collected_at": "2026-11-28T05:40:35.544729+00:00",
+  "summary": "Intentful公司利用商汤日日新融合模态大模型（此处指代AI助手dot Aria）辅助研究网站、构建提案，并主动标记消息、解决问题，从而为团队节省时间，专注于业务增长。该案例展示了AI助手在业务流程中的实际应用，通过自动化日常任务提升效率。",
   "tags": [
-    "Trainium3",
-    "视频生成",
-    "LTX-2.5",
-    "AWS",
-    "推理优化"
+    "AI助手",
+    "自动化",
+    "效率提升"
   ],
-  "relevance_score": 0.75,
-  "category": "tool",
-  "key_insight": "Trainium3芯片通过定制化优化能高效运行LTX-2.5视频生成模型，为生成式AI推理提供高性价比的替代方案。"
+  "relevance_score": 0.8,
+  "category": "agent",
+  "key_insight": "AI助手通过主动处理日常任务释放时间用于增长"
 }

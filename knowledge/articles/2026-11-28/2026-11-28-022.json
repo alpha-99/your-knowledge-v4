@@ -1,16 +1,18 @@
 {
   "id": "2026-11-28-022",
-  "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-  "source": "The Verge (AI)",
-  "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-  "collected_at": "2026-11-28T05:12:58.463069+00:00",
-  "summary": "Google申请了一项名为My Channel的专利，旨在根据用户数据生成个性化AI视频和广告信息流。该专利被专利局拒绝，但Google可能上诉或提交修订版。文章指出，若实施，将导致娱乐内容被AI生成且高度定制化，可能对用户隐私和内容多样性产生负面影响。技术核心在于利用用户信息训练AI模型，自动生成视频和广告，实现个性化推荐。",
+  "title": "A more tailored Google Search that’s uniquely yours",
+  "source": "Google AI Blog",
+  "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+  "collected_at": "2026-11-28T05:40:35.544729+00:00",
+  "summary": "Google 推出名为“Personal Intelligence”的搜索功能，将 Gemini 模型与用户个人数据（如 Gmail、日历、照片、Drive 等）深度整合，通过检索增强生成（RAG）技术，让用户能够用自然语言查询个人专属信息，例如“我上次的航班是什么时候”。该功能强调隐私保护，数据仅用于个性化回答，标志着搜索从通用信息检索向个人智能助手的演进。",
   "tags": [
-    "AI视频生成",
-    "个性化推荐",
-    "专利"
+    "Google Search",
+    "Personal Intelligence",
+    "Gemini",
+    "RAG",
+    "Personalization"
   ],
-  "relevance_score": 0.8,
-  "category": "llm",
-  "key_insight": "Google试图通过AI生成个性化视频和广告重塑娱乐业，但专利被拒凸显了隐私与伦理挑战。"
+  "relevance_score": 0.85,
+  "category": "rag",
+  "key_insight": "搜索正从通用信息检索转向个人化智能助手，通过整合用户数据与生成式模型，提供定制化答案。"
 }

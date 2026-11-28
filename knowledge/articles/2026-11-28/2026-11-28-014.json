@@ -1,18 +1,16 @@
 {
   "id": "2026-11-28-014",
-  "title": "The Agent Lake",
-  "source": "LangChain Blog",
-  "url": "https://www.langchain.com/blog/the-agent-lake",
-  "collected_at": "2026-11-28T05:12:58.463069+00:00",
-  "summary": "LangChain 博客介绍 'The Agent Lake' 概念，即一个存储所有 agent 运行轨迹的数据湖。LangSmith 作为可观测性平台，能够从海量 trace 中筛选出高信号样本，用于修复 agent 错误或作为微调数据，从而将原始日志转化为可操作的改进。文章阐述了如何通过系统化收集和分析 trace，实现 agent 的持续优化和模型迭代。",
+  "title": "Working with AI - Anthropic",
+  "source": "Anthropic News (Google News RSS)",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QQWdUV21Fa2dHR25yU2RLd3Exd0ZQc3RERzMyZFBtWWhxS0NQZjlWR21rWXZqa3FYbmRlZEhPRGhXb19XR3UtTWd3YTdDR3JwM05VTzZoaW82UDdGQWNF?oc=5",
+  "collected_at": "2026-11-28T05:40:35.544729+00:00",
+  "summary": "Anthropic 发布题为“Working with AI”的文章，探讨人类与人工智能协作的工作模式。文章可能基于实际案例或调查，分析 AI 如何融入日常工作流程、提升生产力，并讨论人机协作中的挑战与最佳实践。内容聚焦于 AI 作为协作工具的角色，而非单纯技术性能，强调组织适应和技能重塑。",
   "tags": [
-    "agent",
-    "observability",
-    "trace",
-    "data-lake",
-    "finetuning"
+    "Anthropic",
+    "人机协作",
+    "工作场所AI"
   ],
-  "relevance_score": 0.85,
+  "relevance_score": 0.75,
   "category": "agent",
-  "key_insight": "通过构建 agent 轨迹数据湖，LangSmith 能从海量运行日志中提取高信号样本，用于修复和微调，实现 agent 的闭环改进。"
+  "key_insight": "AI 的价值在于融入工作流程，而非替代人类，需关注组织层面的适应。"
 }

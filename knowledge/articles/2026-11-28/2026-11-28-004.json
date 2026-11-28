@@ -1,16 +1,16 @@
 {
   "id": "2026-11-28-004",
-  "title": "The need for a formally verifiable mainstream programming language",
-  "source": "Lobsters AI/ML",
-  "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-  "collected_at": "2026-11-28T05:12:58.463069+00:00",
-  "summary": "文章探讨了当前主流编程语言缺乏形式化验证能力的问题，指出在安全关键领域，需要一种既能被广泛采用又能进行严格数学证明的语言。作者认为，通过改进类型系统和工具链，可以在不牺牲开发效率的前提下实现形式化验证，从而减少软件缺陷。文章呼吁社区关注并推动此类语言的发展。",
+  "title": "langchain-ai/langchain",
+  "source": "github",
+  "url": "https://github.com/langchain-ai/langchain",
+  "collected_at": "2026-11-28T05:40:35.541462+00:00",
+  "summary": "LangChain 是一个开源框架，用于构建由大语言模型驱动的应用程序。它提供标准接口、链式组合、代理、记忆、检索增强生成（RAG）等模块，支持多种模型和工具集成，简化了复杂 AI 应用的开发。其核心价值在于将 LLM 与外部数据、工具和动作连接起来，实现可组合的智能代理工作流。",
   "tags": [
-    "形式化验证",
-    "编程语言",
-    "类型系统"
+    "agent",
+    "framework",
+    "llm"
   ],
-  "relevance_score": 0.7,
-  "category": "tool",
-  "key_insight": "形式化验证应融入主流编程语言，以提升软件可靠性。"
+  "relevance_score": 0.95,
+  "category": "framework",
+  "key_insight": "LangChain 通过模块化抽象和链式组合，将 LLM 与外部工具、数据和记忆集成，成为构建复杂 AI 代理的标准框架。"
 }
