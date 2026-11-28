@@ -11,6 +11,8 @@ RSS 多数据源采集模块 — 读取 pipeline/rss_sources.yaml 配置并抓�
 """
 
 import os
+import re
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -159,19 +161,54 @@ def parse_feed(xml_bytes: bytes) -> list[dict]:
     return items
 
 
+# 失败响应正文 → 可读文本：先剥 HTML 标签，再压缩空白
+_SNIPPET_TAG_RE = re.compile(r"<[^>]+>")
+_SNIPPET_WS_RE = re.compile(r"\s+")
+
+
+def _body_snippet(error: urllib.error.HTTPError, limit: int = 200) -> str:
+    """取失败响应的正文片段（去标签后的可读文本，最多 limit 字符）
+
+    用途：日志里区分"真的 404"和"被拦"——Reddit 拦请求时正文里通常带
+    blocked / rate limit / whoa there 字样。取不到就返回空串，不影响主流程。
+    """
+    try:
+        data = error.read()
+    except Exception:
+        return ""
+    text = _SNIPPET_TAG_RE.sub(" ", data.decode("utf-8", "replace"))
+    return _SNIPPET_WS_RE.sub(" ", text).strip()[:limit]
+
+
 def fetch_feed(feed: dict, per_feed_limit: int = DEFAULT_PER_FEED_LIMIT) -> tuple[list[dict], int]:
     """抓取单个 feed，返回 (条目列表, 错误码 0/1)
 
     单源容错：任何异常只记录日志，不抛出，避免中断整个采集。
+    失败时把 HTTP 状态码 / Retry-After / 正文片段打进日志，
+    这样每日采集的 run log 里就能直接看出是 404、429 限流还是网络超时。
     """
+    name = feed.get("name", "?")
+    url = feed["url"]
     try:
-        req = urllib.request.Request(feed["url"], headers={"User-Agent": "your-knowledge/4.0"})
+        req = urllib.request.Request(url, headers={"User-Agent": "your-knowledge/4.0"})
         with urllib.request.urlopen(req, timeout=15) as resp:
             raw = resp.read()
         items = parse_feed(raw)
         return items[:per_feed_limit], 0
+    except urllib.error.HTTPError as e:
+        # HTTP 有应答但非 2xx：把判罚细节记出来
+        retry_after = e.headers.get("Retry-After", "") if e.headers else ""
+        snippet = _body_snippet(e)
+        detail = f"[RSSCollector] 抓取失败 [{name}] {url}: HTTP {e.code} {e.reason}"
+        if retry_after:
+            detail += f", Retry-After={retry_after}s"
+        if snippet:
+            detail += f", body={snippet!r}"
+        print(detail)
+        return [], 1
     except Exception as e:
-        print(f"[RSSCollector] 抓取失败 [{feed.get('name', '?')}] {feed['url']}: {e}")
+        # 连不上 / 超时 / 解析失败：带上异常类型，日志里能区分网络问题和解析问题
+        print(f"[RSSCollector] 抓取失败 [{name}] {url}: {type(e).__name__}: {e}")
         return [], 1
 
 
